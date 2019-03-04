@@ -196,7 +196,7 @@ const chinesecharacter = {
     return str.replace(/&#\d{1,};/g, ($0) => {
       const m = $0.match(/\d{1,}/);
       let cc = m[0];
-      cc = (cc == 160) ? 32 : cc;
+      cc = (cc === 160) ? 32 : cc;
       const c = String.fromCharCode(cc);
       return c;
     });

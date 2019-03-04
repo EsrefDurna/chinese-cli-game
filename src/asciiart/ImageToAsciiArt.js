@@ -1,6 +1,6 @@
 const imageToAscii = require('image-to-ascii');
 const { promisify } = require('util');
-const imageToAsciiConfig = require('../config/imageToAscii');
+const imageToAsciiConfig = require('../../config/imageToAscii');
 
 async function ImageToAsciiArt(imagePath, config = {}) {
   try {
