@@ -1,23 +1,12 @@
 #!/usr/bin/env node
 require('dotenv').config();
+const program = require('commander');
+const fs = require('fs');
 const inquirer = require('inquirer');
 const chalk = require('chalk');
 const figlet = require('figlet');
 const { MostCommon } = require('../data/mostcommon');
 const { readJSONFile, writeJSONToFile } = require('./filesystem');
-const program = require('commander');
-const fs = require('fs');
-
-program
-  .version('0.1.0')
-  .option('-q, --quiz', 'Start Quiz')
-  .option('-l, --learn', 'Learn')
-  .option('-t, --time [time]', 'Change Learning Card Repeat interval')
-  .option('-r, --reset', 'Delete user progress data')
-
-  .parse(process.argv);
-
-// inquirer.registerPrompt('checkbox-plus', require('./index'));
 const arr = [];
 function dataFilePath() {
   return '../data/data.json';
@@ -38,9 +27,7 @@ function loadQuestions() {
     }
   }
 }
-
 function saveProgress() {
-  console.log('progress saved');
   const data = {};
   for (let i = 0; i < arr.length; i += 1) {
     data[arr[i].chinese] = arr[i];
@@ -57,7 +44,6 @@ function incorrect(message) {
     chalk.white.bgRed.bold(message),
   );
 }
-
 function showWelcome() {
   console.log(
     chalk.green(
@@ -69,7 +55,6 @@ function showWelcome() {
     ),
   );
 }
-
 async function askQuestions(quiz) {
   const questions = [];
   const choices = [];
@@ -89,16 +74,13 @@ async function askQuestions(quiz) {
     message: `    ${quiz.question.ask.chinese}`,
     choices,
   });
-
   const result = await inquirer.prompt(questions);
   return result;
 }
-
 function rand(max, notInclude = []) {
   if (max <= notInclude.length) {
     throw new Error('max random is too small');
   }
-
   let rnd = -1;
   let cnt = 0;
   while (rnd === -1 && notInclude.includes(rnd) === false) {
@@ -118,7 +100,6 @@ function nextquestion() {
   const options = { keys: [], opt: {} };
   const question = { ask: {}, key: -1 };
   const optioncount = Number.parseInt(process.env.optioncount || 5, 10);
-
   for (let i = 0; i < optioncount; i += 1) {
     const rnd = rand(20, options.keys);
     const opt = arr[rnd];
@@ -126,11 +107,15 @@ function nextquestion() {
     options.opt[rnd] = opt;
     options.opt[rnd].hide = false;
   }
-
   const answer = rand(options.keys.length);
   question.ask = options.opt[options.keys[answer]];
   question.key = options.keys[answer];
   return { question, options };
+}
+function emptyline(cnt = 3, msg = '') {
+  for (let i = 0; i < cnt; i += 1) {
+    console.log(msg);
+  }
 }
 async function game() {
   let quiz = nextquestion();
@@ -141,20 +126,16 @@ async function game() {
     answer.choice = parseInt(answer.choice, 10);
     if (answer.choice === quiz.question.key) {
       success('correct');
+      success(arr[quiz.question.key].pinyin);
       if (arr[quiz.question.key].rate === undefined) {
         arr[quiz.question.key].rate = 0;
       }
       arr[quiz.question.key].rate += 1;
-
-      console.log('');
-      console.log('');
-      console.log('');
+      emptyline();
       quiz = nextquestion();
     } else {
       incorrect('incorrect');
-      console.log('');
-      console.log('');
-      console.log('');
+      emptyline();
       if (arr[answer.choice].rate === undefined) {
         arr[answer.choice].rate = 0;
       }
@@ -174,7 +155,7 @@ function learnTime() {
   return process.env.time || 5000;
 }
 function startLearning() {
-  console.log('----------');
+  emptyline(2);
   const rnd = rand(20);
   const learn = arr[rnd];
   sortRate('learnrate');
@@ -183,17 +164,24 @@ function startLearning() {
   }
   arr[rnd].learnrate += 3;
   console.log(learn.chinese);
-  setTimeout(() => console.log(learn.eng), learnTime() / 2);
+  setTimeout(() => { console.log(learn.pinyin); console.log(learn.eng); }, learnTime() / 2);
   setTimeout(startLearning, learnTime());
 }
 async function run() {
+  program
+    .version('0.1.0')
+    .option('-q, --quiz', 'Start Quiz')
+    .option('-l, --learn', 'Learn')
+    .option('-t, --time [time]', 'Change Learning Card Repeat interval')
+    .option('-r, --reset', 'Delete user progress data')
+    .parse(process.argv);
   if (program.reset) {
     fs.unlinkSync('./data/data.json');
     console.log('data file has been deleted');
     process.exit();
   }
   showWelcome();
-  setInterval(saveProgress, process.env.saveTime || 10000);
+  setInterval(saveProgress, process.env.saveTime || 60000);
   loadQuestions();
   if (program.learn) {
     startLearning();

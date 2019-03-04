@@ -1,0 +1,9008 @@
+{
+    "我": {
+        "eng": "I ; me",
+        "pinyin": "wǒ",
+        "chinese": "我",
+        "rate": 0
+    },
+    "的": {
+        "eng": "possessive p.",
+        "pinyin": "de",
+        "chinese": "的",
+        "rate": 1
+    },
+    "你": {
+        "eng": "you",
+        "pinyin": "nǐ",
+        "chinese": "你",
+        "rate": 2,
+        "hide": false
+    },
+    "是": {
+        "eng": "to be; is",
+        "pinyin": "shì",
+        "chinese": "是",
+        "rate": 3,
+        "hide": false
+    },
+    "了": {
+        "eng": "completed action p.",
+        "pinyin": "le",
+        "chinese": "了",
+        "rate": 4
+    },
+    "不": {
+        "eng": "no; not",
+        "pinyin": "bù",
+        "chinese": "不",
+        "rate": 5
+    },
+    "们": {
+        "eng": "plural p.",
+        "pinyin": "men",
+        "chinese": "们",
+        "rate": 6
+    },
+    "这": {
+        "eng": "this",
+        "pinyin": "zhè",
+        "chinese": "这",
+        "rate": 7,
+        "hide": false
+    },
+    "他": {
+        "eng": "he; him",
+        "pinyin": "tā",
+        "chinese": "他",
+        "rate": 8,
+        "hide": false
+    },
+    "一": {
+        "eng": "one; a",
+        "pinyin": "yī",
+        "chinese": "一",
+        "rate": 9,
+        "hide": false
+    },
+    "么": {
+        "eng": "interrogative p.",
+        "pinyin": "me",
+        "chinese": "么",
+        "rate": 10,
+        "hide": false
+    },
+    "在": {
+        "eng": "at",
+        "pinyin": "zài",
+        "chinese": "在",
+        "rate": 11
+    },
+    "有": {
+        "eng": "to have; there is",
+        "pinyin": "yǒu",
+        "chinese": "有",
+        "rate": 12,
+        "hide": false
+    },
+    "个": {
+        "eng": "general measure word",
+        "pinyin": "gè",
+        "chinese": "个",
+        "rate": 14,
+        "hide": false
+    },
+    "好": {
+        "eng": "good; well",
+        "pinyin": "hǎo",
+        "chinese": "好",
+        "rate": 14
+    },
+    "来": {
+        "eng": "to come",
+        "pinyin": "lái",
+        "chinese": "来",
+        "rate": 15
+    },
+    "人": {
+        "eng": "man; person",
+        "pinyin": "rén",
+        "chinese": "人",
+        "rate": 16,
+        "hide": false
+    },
+    "那": {
+        "eng": "that",
+        "pinyin": "nà",
+        "chinese": "那",
+        "rate": 18,
+        "hide": false
+    },
+    "要": {
+        "eng": "to want; important",
+        "pinyin": "yào",
+        "chinese": "要",
+        "rate": 18,
+        "hide": false
+    },
+    "会": {
+        "eng": "can; will; to know",
+        "pinyin": "huì",
+        "chinese": "会",
+        "rate": 19,
+        "hide": false
+    },
+    "就": {
+        "eng": "then; just (emp.)",
+        "pinyin": "jiù",
+        "chinese": "就",
+        "rate": 20
+    },
+    "什": {
+        "eng": "what",
+        "pinyin": "shén",
+        "chinese": "什",
+        "rate": 21
+    },
+    "没": {
+        "eng": "not",
+        "pinyin": "méi",
+        "chinese": "没",
+        "rate": 22
+    },
+    "到": {
+        "eng": "to arrive; until (time)",
+        "pinyin": "dào",
+        "chinese": "到",
+        "rate": 23
+    },
+    "说": {
+        "eng": "to speak",
+        "pinyin": "shuō",
+        "chinese": "说",
+        "rate": 24
+    },
+    "吗": {
+        "eng": "question p.",
+        "pinyin": "ma",
+        "chinese": "吗",
+        "rate": 25
+    },
+    "为": {
+        "eng": "because of; for",
+        "pinyin": "wèi",
+        "chinese": "为",
+        "rate": 26
+    },
+    "想": {
+        "eng": "to think; to want",
+        "pinyin": "xiǎng",
+        "chinese": "想",
+        "rate": 27
+    },
+    "能": {
+        "eng": "to be able to",
+        "pinyin": "néng",
+        "chinese": "能",
+        "rate": 28
+    },
+    "上": {
+        "eng": "above; top",
+        "pinyin": "shàng",
+        "chinese": "上",
+        "rate": 29
+    },
+    "去": {
+        "eng": "to go",
+        "pinyin": "qù",
+        "chinese": "去",
+        "rate": 30
+    },
+    "道": {
+        "eng": "way; method",
+        "pinyin": "dào",
+        "chinese": "道",
+        "rate": 31
+    },
+    "她": {
+        "eng": "she",
+        "pinyin": "tā",
+        "chinese": "她",
+        "rate": 32
+    },
+    "很": {
+        "eng": "very",
+        "pinyin": "hěn",
+        "chinese": "很",
+        "rate": 33
+    },
+    "看": {
+        "eng": "to see; to look at",
+        "pinyin": "kàn",
+        "chinese": "看",
+        "rate": 34
+    },
+    "可": {
+        "eng": "can; able to",
+        "pinyin": "kě",
+        "chinese": "可",
+        "rate": 35
+    },
+    "知": {
+        "eng": "to know",
+        "pinyin": "zhī",
+        "chinese": "知",
+        "rate": 36
+    },
+    "得": {
+        "eng": "complement p. (V + 得 + Adverb)",
+        "pinyin": "de",
+        "chinese": "得",
+        "rate": 37
+    },
+    "过": {
+        "eng": "experienced action p.",
+        "pinyin": "guo",
+        "chinese": "过",
+        "rate": 38
+    },
+    "吧": {
+        "eng": "…right?",
+        "pinyin": "ba",
+        "chinese": "吧",
+        "rate": 39
+    },
+    "还": {
+        "eng": "still; yet; to return",
+        "pinyin": "hái",
+        "chinese": "还",
+        "rate": 40
+    },
+    "对": {
+        "eng": "correct; opposite",
+        "pinyin": "duì",
+        "chinese": "对",
+        "rate": 41
+    },
+    "里": {
+        "eng": "inside",
+        "pinyin": "lǐ",
+        "chinese": "里",
+        "rate": 42
+    },
+    "以": {
+        "eng": "according to; by",
+        "pinyin": "yǐ",
+        "chinese": "以",
+        "rate": 43
+    },
+    "都": {
+        "eng": "all; both",
+        "pinyin": "dōu",
+        "chinese": "都",
+        "rate": 44
+    },
+    "事": {
+        "eng": "thing; item",
+        "pinyin": "shì",
+        "chinese": "事",
+        "rate": 45
+    },
+    "子": {
+        "eng": "child",
+        "pinyin": "zǐ",
+        "chinese": "子",
+        "rate": 46
+    },
+    "生": {
+        "eng": "life; raw",
+        "pinyin": "shēng",
+        "chinese": "生",
+        "rate": 47
+    },
+    "时": {
+        "eng": "time",
+        "pinyin": "shí",
+        "chinese": "时",
+        "rate": 48
+    },
+    "样": {
+        "eng": "manner",
+        "pinyin": "yàng",
+        "chinese": "样",
+        "rate": 49
+    },
+    "也": {
+        "eng": "also; too",
+        "pinyin": "yě",
+        "chinese": "也",
+        "rate": 50
+    },
+    "和": {
+        "eng": "and",
+        "pinyin": "hé",
+        "chinese": "和",
+        "rate": 51
+    },
+    "下": {
+        "eng": "below; down",
+        "pinyin": "xià",
+        "chinese": "下",
+        "rate": 52
+    },
+    "真": {
+        "eng": "really; truly",
+        "pinyin": "zhēn",
+        "chinese": "真",
+        "rate": 53
+    },
+    "现": {
+        "eng": "present",
+        "pinyin": "xiàn",
+        "chinese": "现",
+        "rate": 54
+    },
+    "做": {
+        "eng": "to do",
+        "pinyin": "zuò",
+        "chinese": "做",
+        "rate": 55
+    },
+    "大": {
+        "eng": "big",
+        "pinyin": "dà",
+        "chinese": "大",
+        "rate": 56
+    },
+    "啊": {
+        "eng": "ah!",
+        "pinyin": "a",
+        "chinese": "啊",
+        "rate": 57
+    },
+    "怎": {
+        "eng": "how",
+        "pinyin": "zěn",
+        "chinese": "怎",
+        "rate": 58
+    },
+    "出": {
+        "eng": "to go out",
+        "pinyin": "chū",
+        "chinese": "出",
+        "rate": 59
+    },
+    "点": {
+        "eng": "a dot; o'clock",
+        "pinyin": "diǎn",
+        "chinese": "点",
+        "rate": 60
+    },
+    "起": {
+        "eng": "to rise",
+        "pinyin": "qǐ",
+        "chinese": "起",
+        "rate": 61
+    },
+    "天": {
+        "eng": "day; heaven",
+        "pinyin": "tiān",
+        "chinese": "天",
+        "rate": 62
+    },
+    "把": {
+        "eng": "direct object p.; to hold",
+        "pinyin": "bǎ",
+        "chinese": "把",
+        "rate": 63
+    },
+    "开": {
+        "eng": "to open; to start",
+        "pinyin": "kāi",
+        "chinese": "开",
+        "rate": 64
+    },
+    "让": {
+        "eng": "to allow; passive p.",
+        "pinyin": "ràng",
+        "chinese": "让",
+        "rate": 65
+    },
+    "给": {
+        "eng": "to give; for; passive p.",
+        "pinyin": "gěi",
+        "chinese": "给",
+        "rate": 66
+    },
+    "但": {
+        "eng": "but; yet",
+        "pinyin": "dàn",
+        "chinese": "但",
+        "rate": 67
+    },
+    "谢": {
+        "eng": "to thank",
+        "pinyin": "xiè",
+        "chinese": "谢",
+        "rate": 68
+    },
+    "着": {
+        "eng": "action in progress p.",
+        "pinyin": "zhe",
+        "chinese": "着",
+        "rate": 69
+    },
+    "只": {
+        "eng": "only",
+        "pinyin": "zhǐ",
+        "chinese": "只",
+        "rate": 70
+    },
+    "些": {
+        "eng": "some; few",
+        "pinyin": "xiē",
+        "chinese": "些",
+        "rate": 71
+    },
+    "如": {
+        "eng": "as; as if",
+        "pinyin": "rú",
+        "chinese": "如",
+        "rate": 72
+    },
+    "家": {
+        "eng": "home; family",
+        "pinyin": "jiā",
+        "chinese": "家",
+        "rate": 73
+    },
+    "后": {
+        "eng": "behind; after",
+        "pinyin": "hòu ",
+        "chinese": "后",
+        "rate": 74
+    },
+    "儿": {
+        "eng": "son",
+        "pinyin": "ér",
+        "chinese": "儿",
+        "rate": 75
+    },
+    "多": {
+        "eng": "many; much",
+        "pinyin": "duō",
+        "chinese": "多",
+        "rate": 76
+    },
+    "意": {
+        "eng": "idea; meaning",
+        "pinyin": "yì",
+        "chinese": "意",
+        "rate": 77
+    },
+    "别": {
+        "eng": "must not; other",
+        "pinyin": "bié",
+        "chinese": "别",
+        "rate": 78
+    },
+    "所": {
+        "eng": "actually; place",
+        "pinyin": "suǒ",
+        "chinese": "所",
+        "rate": 79
+    },
+    "话": {
+        "eng": "language; talk",
+        "pinyin": "huà",
+        "chinese": "话",
+        "rate": 80
+    },
+    "小": {
+        "eng": "small",
+        "pinyin": "xiǎo",
+        "chinese": "小",
+        "rate": 81
+    },
+    "自": {
+        "eng": "self",
+        "pinyin": "zì",
+        "chinese": "自",
+        "rate": 82
+    },
+    "回": {
+        "eng": "to answer; to return",
+        "pinyin": "huí",
+        "chinese": "回",
+        "rate": 83
+    },
+    "然": {
+        "eng": "correct",
+        "pinyin": "rán",
+        "chinese": "然",
+        "rate": 84
+    },
+    "果": {
+        "eng": "fruit",
+        "pinyin": "guǒ",
+        "chinese": "果",
+        "rate": 85
+    },
+    "发": {
+        "eng": "to send; to develop",
+        "pinyin": "fā",
+        "chinese": "发",
+        "rate": 86
+    },
+    "见": {
+        "eng": "to see; to meet",
+        "pinyin": "jiàn",
+        "chinese": "见",
+        "rate": 87
+    },
+    "心": {
+        "eng": "heart",
+        "pinyin": "xīn",
+        "chinese": "心",
+        "rate": 88
+    },
+    "走": {
+        "eng": "to walk; away",
+        "pinyin": "zǒu",
+        "chinese": "走",
+        "rate": 89
+    },
+    "定": {
+        "eng": "to set",
+        "pinyin": "dìng",
+        "chinese": "定",
+        "rate": 90
+    },
+    "听": {
+        "eng": "to listen",
+        "pinyin": "tīng",
+        "chinese": "听",
+        "rate": 91
+    },
+    "觉": {
+        "eng": "to feel",
+        "pinyin": "jué",
+        "chinese": "觉",
+        "rate": 92
+    },
+    "太": {
+        "eng": "too (much)",
+        "pinyin": "tài",
+        "chinese": "太",
+        "rate": 93
+    },
+    "该": {
+        "eng": "should",
+        "pinyin": "gāi",
+        "chinese": "该",
+        "rate": 94
+    },
+    "当": {
+        "eng": "to be; just at",
+        "pinyin": "dāng",
+        "chinese": "当",
+        "rate": 95
+    },
+    "经": {
+        "eng": "pass through",
+        "pinyin": "jīng",
+        "chinese": "经",
+        "rate": 96
+    },
+    "妈": {
+        "eng": "mum",
+        "pinyin": "mā",
+        "chinese": "妈",
+        "rate": 97
+    },
+    "用": {
+        "eng": "to use",
+        "pinyin": "yòng",
+        "chinese": "用",
+        "rate": 98
+    },
+    "打": {
+        "eng": "to hit",
+        "pinyin": "dǎ",
+        "chinese": "打",
+        "rate": 99
+    },
+    "地": {
+        "eng": "-ly structural p.",
+        "pinyin": "de",
+        "chinese": "地",
+        "rate": 100
+    },
+    "再": {
+        "eng": "again; then",
+        "pinyin": "zài",
+        "chinese": "再",
+        "rate": 101
+    },
+    "因": {
+        "eng": "reason",
+        "pinyin": "yīn",
+        "chinese": "因",
+        "rate": 102
+    },
+    "呢": {
+        "eng": "how about…?; continuing p.",
+        "pinyin": "ne",
+        "chinese": "呢",
+        "rate": 103
+    },
+    "女": {
+        "eng": "female",
+        "pinyin": "nǚ",
+        "chinese": "女",
+        "rate": 104
+    },
+    "告": {
+        "eng": "to tell",
+        "pinyin": "gào",
+        "chinese": "告",
+        "rate": 105
+    },
+    "最": {
+        "eng": "most; -est",
+        "pinyin": "zuì",
+        "chinese": "最",
+        "rate": 106
+    },
+    "手": {
+        "eng": "hand",
+        "pinyin": "shǒu",
+        "chinese": "手",
+        "rate": 107
+    },
+    "前": {
+        "eng": "front",
+        "pinyin": "qián",
+        "chinese": "前",
+        "rate": 108
+    },
+    "找": {
+        "eng": "to look for",
+        "pinyin": "zhǎo",
+        "chinese": "找",
+        "rate": 109
+    },
+    "行": {
+        "eng": "to travel; OK!",
+        "pinyin": "xíng",
+        "chinese": "行",
+        "rate": 110
+    },
+    "快": {
+        "eng": "rapid; almost",
+        "pinyin": "kuài",
+        "chinese": "快",
+        "rate": 111
+    },
+    "而": {
+        "eng": "and; as well as",
+        "pinyin": "ér",
+        "chinese": "而",
+        "rate": 112
+    },
+    "死": {
+        "eng": "to die",
+        "pinyin": "sǐ",
+        "chinese": "死",
+        "rate": 113
+    },
+    "先": {
+        "eng": "first; former",
+        "pinyin": "xiān",
+        "chinese": "先",
+        "rate": 114
+    },
+    "像": {
+        "eng": "to be like; image",
+        "pinyin": "xiàng",
+        "chinese": "像",
+        "rate": 115
+    },
+    "等": {
+        "eng": "rank; to wait for",
+        "pinyin": "děng",
+        "chinese": "等",
+        "rate": 116
+    },
+    "被": {
+        "eng": "passive p.",
+        "pinyin": "bèi",
+        "chinese": "被",
+        "rate": 117
+    },
+    "从": {
+        "eng": "from; to follow",
+        "pinyin": "cóng",
+        "chinese": "从",
+        "rate": 118
+    },
+    "明": {
+        "eng": "bright",
+        "pinyin": "míng",
+        "chinese": "明",
+        "rate": 119
+    },
+    "中": {
+        "eng": "middle",
+        "pinyin": "zhōng",
+        "chinese": "中",
+        "rate": 120
+    },
+    "哦": {
+        "eng": "oh",
+        "pinyin": "ó",
+        "chinese": "哦",
+        "rate": 121
+    },
+    "情": {
+        "eng": "emotion",
+        "pinyin": "qíng",
+        "chinese": "情",
+        "rate": 122
+    },
+    "作": {
+        "eng": "to do",
+        "pinyin": "zuò",
+        "chinese": "作",
+        "rate": 123
+    },
+    "跟": {
+        "eng": "with; to follow",
+        "pinyin": "gēn",
+        "chinese": "跟",
+        "rate": 124
+    },
+    "面": {
+        "eng": "side; aspect",
+        "pinyin": "miàn",
+        "chinese": "面",
+        "rate": 125
+    },
+    "诉": {
+        "eng": "to tell; to complain",
+        "pinyin": "sù",
+        "chinese": "诉",
+        "rate": 126
+    },
+    "爱": {
+        "eng": "to love",
+        "pinyin": "ài",
+        "chinese": "爱",
+        "rate": 127
+    },
+    "已": {
+        "eng": "already",
+        "pinyin": "yǐ",
+        "chinese": "已",
+        "rate": 128
+    },
+    "之": {
+        "eng": "possessive p.",
+        "pinyin": "zhī",
+        "chinese": "之",
+        "rate": 129
+    },
+    "问": {
+        "eng": "to ask",
+        "pinyin": "wèn",
+        "chinese": "问",
+        "rate": 130
+    },
+    "错": {
+        "eng": "mistake; bad",
+        "pinyin": "cuò",
+        "chinese": "错",
+        "rate": 131
+    },
+    "孩": {
+        "eng": "child",
+        "pinyin": "hái",
+        "chinese": "孩",
+        "rate": 132
+    },
+    "斯": {
+        "eng": "this",
+        "pinyin": "sī",
+        "chinese": "斯",
+        "rate": 133
+    },
+    "成": {
+        "eng": "to become",
+        "pinyin": "chéng",
+        "chinese": "成",
+        "rate": 134
+    },
+    "它": {
+        "eng": "it",
+        "pinyin": "tā",
+        "chinese": "它",
+        "rate": 135
+    },
+    "感": {
+        "eng": "to feel; emotion",
+        "pinyin": "gǎn",
+        "chinese": "感",
+        "rate": 136
+    },
+    "干": {
+        "eng": "to do",
+        "pinyin": "gàn",
+        "chinese": "干",
+        "rate": 137
+    },
+    "法": {
+        "eng": "law",
+        "pinyin": "fǎ",
+        "chinese": "法",
+        "rate": 138
+    },
+    "电": {
+        "eng": "electric",
+        "pinyin": "diàn",
+        "chinese": "电",
+        "rate": 139
+    },
+    "间": {
+        "eng": "between; room",
+        "pinyin": "jiān",
+        "chinese": "间",
+        "rate": 140
+    },
+    "哪": {
+        "eng": "which",
+        "pinyin": "nǎ",
+        "chinese": "哪",
+        "rate": 141
+    },
+    "西": {
+        "eng": "West",
+        "pinyin": "xī",
+        "chinese": "西",
+        "rate": 142
+    },
+    "己": {
+        "eng": "oneself",
+        "pinyin": "jǐ",
+        "chinese": "己",
+        "rate": 143
+    },
+    "候": {
+        "eng": "to wait; season",
+        "pinyin": "hòu",
+        "chinese": "候",
+        "rate": 144
+    },
+    "次": {
+        "eng": "mw. for time",
+        "pinyin": "cì",
+        "chinese": "次",
+        "rate": 145
+    },
+    "信": {
+        "eng": "letter; to trust",
+        "pinyin": "xìn",
+        "chinese": "信",
+        "rate": 146
+    },
+    "欢": {
+        "eng": "joyous",
+        "pinyin": "huān",
+        "chinese": "欢",
+        "rate": 147
+    },
+    "正": {
+        "eng": "just (right); correct",
+        "pinyin": "zhèng",
+        "chinese": "正",
+        "rate": 148
+    },
+    "实": {
+        "eng": "real; honest",
+        "pinyin": "shí",
+        "chinese": "实",
+        "rate": 149
+    },
+    "关": {
+        "eng": "to shut",
+        "pinyin": "guān",
+        "chinese": "关",
+        "rate": 150
+    },
+    "进": {
+        "eng": "to enter",
+        "pinyin": "jìn",
+        "chinese": "进",
+        "rate": 151
+    },
+    "车": {
+        "eng": "vehicle",
+        "pinyin": "chē",
+        "chinese": "车",
+        "rate": 152
+    },
+    "年": {
+        "eng": "year",
+        "pinyin": "nián",
+        "chinese": "年",
+        "rate": 153
+    },
+    "喜": {
+        "eng": "to like",
+        "pinyin": "xǐ",
+        "chinese": "喜",
+        "rate": 154
+    },
+    "认": {
+        "eng": "to recognize",
+        "pinyin": "rèn",
+        "chinese": "认",
+        "rate": 155
+    },
+    "克": {
+        "eng": "gram; to overcome",
+        "pinyin": "kè",
+        "chinese": "克",
+        "rate": 156
+    },
+    "爸": {
+        "eng": "father",
+        "pinyin": "bà",
+        "chinese": "爸",
+        "rate": 157
+    },
+    "谁": {
+        "eng": "who",
+        "pinyin": "shuí",
+        "chinese": "谁",
+        "rate": 158
+    },
+    "方": {
+        "eng": "place; square",
+        "pinyin": "fāng",
+        "chinese": "方",
+        "rate": 159
+    },
+    "老": {
+        "eng": "old prefix",
+        "pinyin": "lǎo",
+        "chinese": "老",
+        "rate": 160
+    },
+    "应": {
+        "eng": "should; ought to",
+        "pinyin": "yīng",
+        "chinese": "应",
+        "rate": 161
+    },
+    "比": {
+        "eng": "comparison p.",
+        "pinyin": "bǐ",
+        "chinese": "比",
+        "rate": 162
+    },
+    "帮": {
+        "eng": "to help",
+        "pinyin": "bāng",
+        "chinese": "帮",
+        "rate": 163
+    },
+    "无": {
+        "eng": "not to have; -less",
+        "pinyin": "wú",
+        "chinese": "无",
+        "rate": 164
+    },
+    "晚": {
+        "eng": "evening; late",
+        "pinyin": "wǎn",
+        "chinese": "晚",
+        "rate": 165
+    },
+    "动": {
+        "eng": "to move",
+        "pinyin": "dòng",
+        "chinese": "动",
+        "rate": 166
+    },
+    "头": {
+        "eng": "head",
+        "pinyin": "tóu",
+        "chinese": "头",
+        "rate": 167
+    },
+    "机": {
+        "eng": "machine",
+        "pinyin": "jī",
+        "chinese": "机",
+        "rate": 168
+    },
+    "分": {
+        "eng": "to divide; fraction",
+        "pinyin": "fēn",
+        "chinese": "分",
+        "rate": 169
+    },
+    "特": {
+        "eng": "special; unique",
+        "pinyin": "tè",
+        "chinese": "特",
+        "rate": 170
+    },
+    "相": {
+        "eng": "mutual; each other",
+        "pinyin": "xiāng",
+        "chinese": "相",
+        "rate": 171
+    },
+    "全": {
+        "eng": "all; whole",
+        "pinyin": "quán",
+        "chinese": "全",
+        "rate": 172
+    },
+    "杀": {
+        "eng": "to kill",
+        "pinyin": "shā",
+        "chinese": "杀",
+        "rate": 173
+    },
+    "需": {
+        "eng": "to need; to want",
+        "pinyin": "xū",
+        "chinese": "需",
+        "rate": 174
+    },
+    "放": {
+        "eng": "to put",
+        "pinyin": "fàng",
+        "chinese": "放",
+        "rate": 175
+    },
+    "常": {
+        "eng": "always; general",
+        "pinyin": "cháng",
+        "chinese": "常",
+        "rate": 176
+    },
+    "直": {
+        "eng": "straight",
+        "pinyin": "zhí",
+        "chinese": "直",
+        "rate": 177
+    },
+    "才": {
+        "eng": "just now; ability",
+        "pinyin": "cái",
+        "chinese": "才",
+        "rate": 178
+    },
+    "美": {
+        "eng": "beautiful",
+        "pinyin": "měi",
+        "chinese": "美",
+        "rate": 179
+    },
+    "于": {
+        "eng": "in; at; on",
+        "pinyin": "yú",
+        "chinese": "于",
+        "rate": 180
+    },
+    "带": {
+        "eng": "to bring; belt",
+        "pinyin": "dài",
+        "chinese": "带",
+        "rate": 181
+    },
+    "今": {
+        "eng": "today; now",
+        "pinyin": "jīn",
+        "chinese": "今",
+        "rate": 182
+    },
+    "力": {
+        "eng": "power",
+        "pinyin": "lì",
+        "chinese": "力",
+        "rate": 183
+    },
+    "工": {
+        "eng": "work",
+        "pinyin": "gōng",
+        "chinese": "工",
+        "rate": 184
+    },
+    "许": {
+        "eng": "to permit",
+        "pinyin": "xǔ",
+        "chinese": "许",
+        "rate": 185
+    },
+    "东": {
+        "eng": "East",
+        "pinyin": "dōng",
+        "chinese": "东",
+        "rate": 186
+    },
+    "名": {
+        "eng": "name",
+        "pinyin": "míng",
+        "chinese": "名",
+        "rate": 187
+    },
+    "同": {
+        "eng": "same; similar",
+        "pinyin": "tóng",
+        "chinese": "同",
+        "rate": 188
+    },
+    "长": {
+        "eng": "long; length",
+        "pinyin": "cháng",
+        "chinese": "长",
+        "rate": 189
+    },
+    "亲": {
+        "eng": "parent; relative",
+        "pinyin": "qīn",
+        "chinese": "亲",
+        "rate": 190
+    },
+    "种": {
+        "eng": "kind",
+        "pinyin": "zhǒng",
+        "chinese": "种",
+        "rate": 191
+    },
+    "者": {
+        "eng": "one who (is)",
+        "pinyin": "zhě",
+        "chinese": "者",
+        "rate": 192
+    },
+    "嘿": {
+        "eng": "hey",
+        "pinyin": "hēi",
+        "chinese": "嘿",
+        "rate": 193
+    },
+    "白": {
+        "eng": "white; pure",
+        "pinyin": "bái",
+        "chinese": "白",
+        "rate": 194
+    },
+    "学": {
+        "eng": "to learn",
+        "pinyin": "xué",
+        "chinese": "学",
+        "rate": 195
+    },
+    "安": {
+        "eng": "safe; calm",
+        "pinyin": "ān",
+        "chinese": "安",
+        "rate": 196
+    },
+    "尔": {
+        "eng": "thus; thou",
+        "pinyin": "ěr",
+        "chinese": "尔",
+        "rate": 197
+    },
+    "叫": {
+        "eng": "to call",
+        "pinyin": "jiào",
+        "chinese": "叫",
+        "rate": 198
+    },
+    "理": {
+        "eng": "essence; truth",
+        "pinyin": "lǐ",
+        "chinese": "理",
+        "rate": 199
+    },
+    "本": {
+        "eng": "mw. for books; origin",
+        "pinyin": "běn",
+        "chinese": "本",
+        "rate": 200
+    },
+    "国": {
+        "eng": "country",
+        "pinyin": "guó",
+        "chinese": "国",
+        "rate": 201
+    },
+    "第": {
+        "eng": "ordinal #",
+        "pinyin": "dì",
+        "chinese": "第",
+        "rate": 202
+    },
+    "友": {
+        "eng": "friend",
+        "pinyin": "yǒu",
+        "chinese": "友",
+        "rate": 203
+    },
+    "高": {
+        "eng": "high; tall",
+        "pinyin": "gāo",
+        "chinese": "高",
+        "rate": 204
+    },
+    "两": {
+        "eng": "two (used with mw.)",
+        "pinyin": "liǎng",
+        "chinese": "两",
+        "rate": 205
+    },
+    "保": {
+        "eng": "to defend",
+        "pinyin": "bǎo",
+        "chinese": "保",
+        "rate": 206
+    },
+    "请": {
+        "eng": "to invite",
+        "pinyin": "qǐng",
+        "chinese": "请",
+        "rate": 207
+    },
+    "非": {
+        "eng": "not",
+        "pinyin": "fēi",
+        "chinese": "非",
+        "rate": 208
+    },
+    "重": {
+        "eng": "heavy; serious",
+        "pinyin": "zhòng",
+        "chinese": "重",
+        "rate": 209
+    },
+    "公": {
+        "eng": "public",
+        "pinyin": "gōng",
+        "chinese": "公",
+        "rate": 210
+    },
+    "记": {
+        "eng": "to record",
+        "pinyin": "jì",
+        "chinese": "记",
+        "rate": 211
+    },
+    "身": {
+        "eng": "body",
+        "pinyin": "shēn",
+        "chinese": "身",
+        "rate": 212
+    },
+    "受": {
+        "eng": "to receive",
+        "pinyin": "shòu",
+        "chinese": "受",
+        "rate": 213
+    },
+    "住": {
+        "eng": "to live; to reside",
+        "pinyin": "zhù",
+        "chinese": "住",
+        "rate": 214
+    },
+    "活": {
+        "eng": "to live",
+        "pinyin": "huó",
+        "chinese": "活",
+        "rate": 215
+    },
+    "加": {
+        "eng": "to add; plus",
+        "pinyin": "jiā",
+        "chinese": "加",
+        "rate": 216
+    },
+    "何": {
+        "eng": "question word",
+        "pinyin": "hé",
+        "chinese": "何",
+        "rate": 217
+    },
+    "伙": {
+        "eng": "companion; buddy",
+        "pinyin": "huǒ",
+        "chinese": "伙",
+        "rate": 218
+    },
+    "题": {
+        "eng": "topic; subject",
+        "pinyin": "tí",
+        "chinese": "题",
+        "rate": 219
+    },
+    "完": {
+        "eng": "to finish; complete",
+        "pinyin": "wán",
+        "chinese": "完",
+        "rate": 220
+    },
+    "接": {
+        "eng": "to receive; to join",
+        "pinyin": "jiē",
+        "chinese": "接",
+        "rate": 221
+    },
+    "拿": {
+        "eng": "to take",
+        "pinyin": "ná",
+        "chinese": "拿",
+        "rate": 222
+    },
+    "望": {
+        "eng": "to gaze; to hope",
+        "pinyin": "wàng",
+        "chinese": "望",
+        "rate": 223
+    },
+    "解": {
+        "eng": "to divide; to explain",
+        "pinyin": "jiě",
+        "chinese": "解",
+        "rate": 224
+    },
+    "其": {
+        "eng": "his; hers; its",
+        "pinyin": "qí",
+        "chinese": "其",
+        "rate": 225
+    },
+    "离": {
+        "eng": "to leave; (distance) from",
+        "pinyin": "lí",
+        "chinese": "离",
+        "rate": 226
+    },
+    "谈": {
+        "eng": "to chat",
+        "pinyin": "tán",
+        "chinese": "谈",
+        "rate": 227
+    },
+    "又": {
+        "eng": "again; also",
+        "pinyin": "yòu",
+        "chinese": "又",
+        "rate": 228
+    },
+    "新": {
+        "eng": "new",
+        "pinyin": "xīn",
+        "chinese": "新",
+        "rate": 229
+    },
+    "更": {
+        "eng": "more",
+        "pinyin": "gèng",
+        "chinese": "更",
+        "rate": 230
+    },
+    "钱": {
+        "eng": "money",
+        "pinyin": "qián",
+        "chinese": "钱",
+        "rate": 231
+    },
+    "马": {
+        "eng": "horse",
+        "pinyin": "mǎ",
+        "chinese": "马",
+        "rate": 232
+    },
+    "思": {
+        "eng": "to think; to consider",
+        "pinyin": "sī",
+        "chinese": "思",
+        "rate": 233
+    },
+    "部": {
+        "eng": "section; part",
+        "pinyin": "bù",
+        "chinese": "部",
+        "rate": 234
+    },
+    "场": {
+        "eng": "open area",
+        "pinyin": "cháng",
+        "chinese": "场",
+        "rate": 235
+    },
+    "嗯": {
+        "eng": "approval interjection",
+        "pinyin": "en",
+        "chinese": "嗯",
+        "rate": 236
+    },
+    "计": {
+        "eng": "to plan",
+        "pinyin": "jì",
+        "chinese": "计",
+        "rate": 237
+    },
+    "任": {
+        "eng": "to appoint; office",
+        "pinyin": "rèn",
+        "chinese": "任",
+        "rate": 238
+    },
+    "确": {
+        "eng": "solid; real",
+        "pinyin": "què",
+        "chinese": "确",
+        "rate": 239
+    },
+    "吃": {
+        "eng": "to eat",
+        "pinyin": "chī",
+        "chinese": "吃",
+        "rate": 240
+    },
+    "始": {
+        "eng": "to begin",
+        "pinyin": "shǐ",
+        "chinese": "始",
+        "rate": 241
+    },
+    "结": {
+        "eng": "to produce",
+        "pinyin": "jiē",
+        "chinese": "结",
+        "rate": 242
+    },
+    "利": {
+        "eng": "sharp; benefit",
+        "pinyin": "lì",
+        "chinese": "利",
+        "rate": 243
+    },
+    "朋": {
+        "eng": "friend",
+        "pinyin": "péng",
+        "chinese": "朋",
+        "rate": 244
+    },
+    "警": {
+        "eng": "police; to warn",
+        "pinyin": "jǐng",
+        "chinese": "警",
+        "rate": 245
+    },
+    "士": {
+        "eng": "scholar; soldier",
+        "pinyin": "shì",
+        "chinese": "士",
+        "rate": 246
+    },
+    "外": {
+        "eng": "outside; foreign",
+        "pinyin": "wài",
+        "chinese": "外",
+        "rate": 247
+    },
+    "件": {
+        "eng": "mw. for items",
+        "pinyin": "jiàn",
+        "chinese": "件",
+        "rate": 248
+    },
+    "难": {
+        "eng": "difficult",
+        "pinyin": "nán",
+        "chinese": "难",
+        "rate": 249
+    },
+    "位": {
+        "eng": "mw. for people",
+        "pinyin": "wèi",
+        "chinese": "位",
+        "rate": 250
+    },
+    "表": {
+        "eng": "exterior surface",
+        "pinyin": "biǎo",
+        "chinese": "表",
+        "rate": 251
+    },
+    "刚": {
+        "eng": "just (now); hard",
+        "pinyin": "gāng",
+        "chinese": "刚",
+        "rate": 252
+    },
+    "希": {
+        "eng": "rare: hope",
+        "pinyin": "xī ",
+        "chinese": "希",
+        "rate": 253
+    },
+    "查": {
+        "eng": "to research",
+        "pinyin": "chá",
+        "chinese": "查",
+        "rate": 254
+    },
+    "拉": {
+        "eng": "to pull",
+        "pinyin": "lā",
+        "chinese": "拉",
+        "rate": 255
+    },
+    "边": {
+        "eng": "side; edge",
+        "pinyin": "biān",
+        "chinese": "边",
+        "rate": 256
+    },
+    "或": {
+        "eng": "maybe; perhaps",
+        "pinyin": "huò",
+        "chinese": "或",
+        "rate": 257
+    },
+    "将": {
+        "eng": "will; shall",
+        "pinyin": "jiāng",
+        "chinese": "将",
+        "rate": 258
+    },
+    "男": {
+        "eng": "male",
+        "pinyin": "nán",
+        "chinese": "男",
+        "rate": 259
+    },
+    "准": {
+        "eng": "to allow",
+        "pinyin": "zhǔn",
+        "chinese": "准",
+        "rate": 260
+    },
+    "变": {
+        "eng": "to change",
+        "pinyin": "biàn",
+        "chinese": "变",
+        "rate": 261
+    },
+    "证": {
+        "eng": "proof",
+        "pinyin": "zhèng",
+        "chinese": "证",
+        "rate": 262
+    },
+    "物": {
+        "eng": "thing; object",
+        "pinyin": "wù",
+        "chinese": "物",
+        "rate": 263
+    },
+    "员": {
+        "eng": "employee; member",
+        "pinyin": "yuán",
+        "chinese": "员",
+        "rate": 264
+    },
+    "总": {
+        "eng": "always",
+        "pinyin": "zǒng",
+        "chinese": "总",
+        "rate": 265
+    },
+    "噢": {
+        "eng": "moan sound",
+        "pinyin": "ō ",
+        "chinese": "噢",
+        "rate": 266
+    },
+    "系": {
+        "eng": "system; to connect",
+        "pinyin": "xì",
+        "chinese": "系",
+        "rate": 267
+    },
+    "几": {
+        "eng": "how many",
+        "pinyin": "jǐ",
+        "chinese": "几",
+        "rate": 268
+    },
+    "管": {
+        "eng": "to control",
+        "pinyin": "guǎn",
+        "chinese": "管",
+        "rate": 269
+    },
+    "玩": {
+        "eng": "to play",
+        "pinyin": "wán",
+        "chinese": "玩",
+        "rate": 270
+    },
+    "处": {
+        "eng": "place; location",
+        "pinyin": "chù",
+        "chinese": "处",
+        "rate": 271
+    },
+    "办": {
+        "eng": "to do; to manage",
+        "pinyin": "bàn",
+        "chinese": "办",
+        "rate": 272
+    },
+    "主": {
+        "eng": "master; main",
+        "pinyin": "zhǔ",
+        "chinese": "主",
+        "rate": 273
+    },
+    "气": {
+        "eng": "air",
+        "pinyin": "qì",
+        "chinese": "气",
+        "rate": 274
+    },
+    "每": {
+        "eng": "each; every",
+        "pinyin": "měi",
+        "chinese": "每",
+        "rate": 275
+    },
+    "少": {
+        "eng": "few; little",
+        "pinyin": "shǎo",
+        "chinese": "少",
+        "rate": 276
+    },
+    "切": {
+        "eng": "to cut; to slice",
+        "pinyin": "qiē",
+        "chinese": "切",
+        "rate": 277
+    },
+    "失": {
+        "eng": "to lose",
+        "pinyin": "shī",
+        "chinese": "失",
+        "rate": 278
+    },
+    "算": {
+        "eng": "to calculate",
+        "pinyin": "suàn",
+        "chinese": "算",
+        "rate": 279
+    },
+    "性": {
+        "eng": "nature; gender",
+        "pinyin": "xìng",
+        "chinese": "性",
+        "rate": 280
+    },
+    "此": {
+        "eng": "this; these",
+        "pinyin": "cǐ",
+        "chinese": "此",
+        "rate": 281
+    },
+    "必": {
+        "eng": "must; will",
+        "pinyin": "bì",
+        "chinese": "必",
+        "rate": 282
+    },
+    "备": {
+        "eng": "get ready",
+        "pinyin": "bèi",
+        "chinese": "备",
+        "rate": 283
+    },
+    "合": {
+        "eng": "to close; together",
+        "pinyin": "hé",
+        "chinese": "合",
+        "rate": 284
+    },
+    "德": {
+        "eng": "virtue; ethics",
+        "pinyin": "dé",
+        "chinese": "德",
+        "rate": 285
+    },
+    "队": {
+        "eng": "team; group",
+        "pinyin": "duì",
+        "chinese": "队",
+        "rate": 286
+    },
+    "试": {
+        "eng": "to test; to try",
+        "pinyin": "shì",
+        "chinese": "试",
+        "rate": 287
+    },
+    "抱": {
+        "eng": "to carry in arms",
+        "pinyin": "bào",
+        "chinese": "抱",
+        "rate": 288
+    },
+    "医": {
+        "eng": "medical",
+        "pinyin": "yī",
+        "chinese": "医",
+        "rate": 289
+    },
+    "通": {
+        "eng": "to connect; open",
+        "pinyin": "tōng",
+        "chinese": "通",
+        "rate": 290
+    },
+    "体": {
+        "eng": "body; form",
+        "pinyin": "tǐ",
+        "chinese": "体",
+        "rate": 291
+    },
+    "乐": {
+        "eng": "happy",
+        "pinyin": "lè",
+        "chinese": "乐",
+        "rate": 292
+    },
+    "并": {
+        "eng": "(not) at all",
+        "pinyin": "bìng",
+        "chinese": "并",
+        "rate": 293
+    },
+    "三": {
+        "eng": "three",
+        "pinyin": "sān",
+        "chinese": "三",
+        "rate": 294
+    },
+    "早": {
+        "eng": "early; morning",
+        "pinyin": "zǎo",
+        "chinese": "早",
+        "rate": 295
+    },
+    "门": {
+        "eng": "door; gate",
+        "pinyin": "mén",
+        "chinese": "门",
+        "rate": 296
+    },
+    "害": {
+        "eng": "harm",
+        "pinyin": "hài",
+        "chinese": "害",
+        "rate": 297
+    },
+    "歉": {
+        "eng": "to apologize",
+        "pinyin": "qiàn",
+        "chinese": "歉",
+        "rate": 298
+    },
+    "选": {
+        "eng": "to choose",
+        "pinyin": "xuǎn",
+        "chinese": "选",
+        "rate": 299
+    },
+    "嗨": {
+        "eng": "an exclamation",
+        "pinyin": "hāi ",
+        "chinese": "嗨",
+        "rate": 300
+    },
+    "房": {
+        "eng": "house; room",
+        "pinyin": "fáng",
+        "chinese": "房",
+        "rate": 301
+    },
+    "命": {
+        "eng": "life; fate",
+        "pinyin": "mìng",
+        "chinese": "命",
+        "rate": 302
+    },
+    "且": {
+        "eng": "moreover; both",
+        "pinyin": "qiě",
+        "chinese": "且",
+        "rate": 303
+    },
+    "向": {
+        "eng": "towards; direction",
+        "pinyin": "xiàng",
+        "chinese": "向",
+        "rate": 304
+    },
+    "兴": {
+        "eng": "to rise; to flourish",
+        "pinyin": "xīng",
+        "chinese": "兴",
+        "rate": 305
+    },
+    "球": {
+        "eng": "ball; sphere",
+        "pinyin": "qiú",
+        "chinese": "球",
+        "rate": 306
+    },
+    "服": {
+        "eng": "clothes; to serve",
+        "pinyin": "fú",
+        "chinese": "服",
+        "rate": 307
+    },
+    "入": {
+        "eng": "to enter",
+        "pinyin": "rù",
+        "chinese": "入",
+        "rate": 308
+    },
+    "照": {
+        "eng": "according to; to shine",
+        "pinyin": "zhào",
+        "chinese": "照",
+        "rate": 309
+    },
+    "提": {
+        "eng": "to lift",
+        "pinyin": "tí",
+        "chinese": "提",
+        "rate": 310
+    },
+    "掉": {
+        "eng": "to fall; to lose",
+        "pinyin": "diào",
+        "chinese": "掉",
+        "rate": 311
+    },
+    "夫": {
+        "eng": "husband",
+        "pinyin": "fū",
+        "chinese": "夫",
+        "rate": 312
+    },
+    "路": {
+        "eng": "road",
+        "pinyin": "lù",
+        "chinese": "路",
+        "rate": 313
+    },
+    "演": {
+        "eng": "to act; to develop",
+        "pinyin": "yǎn",
+        "chinese": "演",
+        "rate": 314
+    },
+    "够": {
+        "eng": "to be enough",
+        "pinyin": "gòu",
+        "chinese": "够",
+        "rate": 315
+    },
+    "日": {
+        "eng": "sun; day",
+        "pinyin": "rì",
+        "chinese": "日",
+        "rate": 316
+    },
+    "案": {
+        "eng": "legal case; record",
+        "pinyin": "àn",
+        "chinese": "案",
+        "rate": 317
+    },
+    "舞": {
+        "eng": "to dance",
+        "pinyin": "wǔ",
+        "chinese": "舞",
+        "rate": 318
+    },
+    "决": {
+        "eng": "to decide",
+        "pinyin": "jué",
+        "chinese": "决",
+        "rate": 319
+    },
+    "求": {
+        "eng": "to look for; to request",
+        "pinyin": "qiú",
+        "chinese": "求",
+        "rate": 320
+    },
+    "约": {
+        "eng": "appointment; to invite",
+        "pinyin": "yuē",
+        "chinese": "约",
+        "rate": 321
+    },
+    "字": {
+        "eng": "word; character",
+        "pinyin": "zì",
+        "chinese": "字",
+        "rate": 322
+    },
+    "呃": {
+        "eng": "belch; hiccup",
+        "pinyin": "è ",
+        "chinese": "呃",
+        "rate": 323
+    },
+    "肯": {
+        "eng": "to agree",
+        "pinyin": "kěn",
+        "chinese": "肯",
+        "rate": 324
+    },
+    "目": {
+        "eng": "eye",
+        "pinyin": "mù",
+        "chinese": "目",
+        "rate": 325
+    },
+    "笑": {
+        "eng": "to laugh",
+        "pinyin": "xiào",
+        "chinese": "笑",
+        "rate": 326
+    },
+    "伤": {
+        "eng": "wound",
+        "pinyin": "shāng",
+        "chinese": "伤",
+        "rate": 327
+    },
+    "神": {
+        "eng": "deity; spirit",
+        "pinyin": "shén",
+        "chinese": "神",
+        "rate": 328
+    },
+    "父": {
+        "eng": "father",
+        "pinyin": "fù",
+        "chinese": "父",
+        "rate": 329
+    },
+    "指": {
+        "eng": "finger; refer to",
+        "pinyin": "zhǐ",
+        "chinese": "指",
+        "rate": 330
+    },
+    "报": {
+        "eng": "to announce",
+        "pinyin": "bào",
+        "chinese": "报",
+        "rate": 331
+    },
+    "留": {
+        "eng": "to stay; to remain",
+        "pinyin": "liú",
+        "chinese": "留",
+        "rate": 332
+    },
+    "水": {
+        "eng": "water; liquid",
+        "pinyin": "shuǐ",
+        "chinese": "水",
+        "rate": 333
+    },
+    "教": {
+        "eng": "to teach",
+        "pinyin": "jiào",
+        "chinese": "教",
+        "rate": 334
+    },
+    "枪": {
+        "eng": "gun",
+        "pinyin": "qiāng",
+        "chinese": "枪",
+        "rate": 335
+    },
+    "清": {
+        "eng": "clear",
+        "pinyin": "qīng",
+        "chinese": "清",
+        "rate": 336
+    },
+    "色": {
+        "eng": "color",
+        "pinyin": "sè",
+        "chinese": "色",
+        "rate": 337
+    },
+    "号": {
+        "eng": "number",
+        "pinyin": "hào",
+        "chinese": "号",
+        "rate": 338
+    },
+    "世": {
+        "eng": "life; age; world",
+        "pinyin": "shì",
+        "chinese": "世",
+        "rate": 339
+    },
+    "远": {
+        "eng": "far; distant",
+        "pinyin": "yuǎn",
+        "chinese": "远",
+        "rate": 340
+    },
+    "片": {
+        "eng": "thin piece; slice",
+        "pinyin": "piàn",
+        "chinese": "片",
+        "rate": 341
+    },
+    "官": {
+        "eng": "official",
+        "pinyin": "guān",
+        "chinese": "官",
+        "rate": 342
+    },
+    "口": {
+        "eng": "mouth",
+        "pinyin": "kǒu",
+        "chinese": "口",
+        "rate": 343
+    },
+    "师": {
+        "eng": "teacher; master",
+        "pinyin": "shī",
+        "chinese": "师",
+        "rate": 344
+    },
+    "原": {
+        "eng": "original",
+        "pinyin": "yuán",
+        "chinese": "原",
+        "rate": 345
+    },
+    "酒": {
+        "eng": "wine",
+        "pinyin": "jiǔ",
+        "chinese": "酒",
+        "rate": 346
+    },
+    "周": {
+        "eng": "circle; week",
+        "pinyin": "zhōu",
+        "chinese": "周",
+        "rate": 347
+    },
+    "星": {
+        "eng": "star",
+        "pinyin": "xīng",
+        "chinese": "星",
+        "rate": 348
+    },
+    "识": {
+        "eng": "to know",
+        "pinyin": "shí",
+        "chinese": "识",
+        "rate": 349
+    },
+    "赛": {
+        "eng": "competition",
+        "pinyin": "sài",
+        "chinese": "赛",
+        "rate": 350
+    },
+    "救": {
+        "eng": "to save",
+        "pinyin": "jiù",
+        "chinese": "救",
+        "rate": 351
+    },
+    "底": {
+        "eng": "bottom; end",
+        "pinyin": "dǐ",
+        "chinese": "底",
+        "rate": 352
+    },
+    "棒": {
+        "eng": "wonderful; stick",
+        "pinyin": "bàng",
+        "chinese": "棒",
+        "rate": 353
+    },
+    "须": {
+        "eng": "must; beard",
+        "pinyin": "xū",
+        "chinese": "须",
+        "rate": 354
+    },
+    "收": {
+        "eng": "to receive",
+        "pinyin": "shōu",
+        "chinese": "收",
+        "rate": 355
+    },
+    "交": {
+        "eng": "to deliver; to pay",
+        "pinyin": "jiāo",
+        "chinese": "交",
+        "rate": 356
+    },
+    "坐": {
+        "eng": "to sit",
+        "pinyin": "zuò",
+        "chinese": "坐",
+        "rate": 357
+    },
+    "停": {
+        "eng": "to stop",
+        "pinyin": "tíng",
+        "chinese": "停",
+        "rate": 358
+    },
+    "卡": {
+        "eng": "card; to block",
+        "pinyin": "kǎ",
+        "chinese": "卡",
+        "rate": 359
+    },
+    "尼": {
+        "eng": "Buddhist nun",
+        "pinyin": "ní",
+        "chinese": "尼",
+        "rate": 360
+    },
+    "婚": {
+        "eng": "to marry",
+        "pinyin": "hūn",
+        "chinese": "婚",
+        "rate": 361
+    },
+    "格": {
+        "eng": "grid; pattern",
+        "pinyin": "gé",
+        "chinese": "格",
+        "rate": 362
+    },
+    "眼": {
+        "eng": "eye",
+        "pinyin": "yǎn",
+        "chinese": "眼",
+        "rate": 363
+    },
+    "金": {
+        "eng": "gold",
+        "pinyin": "jīn",
+        "chinese": "金",
+        "rate": 364
+    },
+    "蛋": {
+        "eng": "egg",
+        "pinyin": "dàn",
+        "chinese": "蛋",
+        "rate": 365
+    },
+    "息": {
+        "eng": "breath; to rest",
+        "pinyin": "xī",
+        "chinese": "息",
+        "rate": 366
+    },
+    "室": {
+        "eng": "room",
+        "pinyin": "shì",
+        "chinese": "室",
+        "rate": 367
+    },
+    "内": {
+        "eng": "inside; inner",
+        "pinyin": "nèi",
+        "chinese": "内",
+        "rate": 368
+    },
+    "运": {
+        "eng": "to move; fortune",
+        "pinyin": "yùn",
+        "chinese": "运",
+        "rate": 369
+    },
+    "根": {
+        "eng": "root; basis",
+        "pinyin": "gēn",
+        "chinese": "根",
+        "rate": 370
+    },
+    "单": {
+        "eng": "single; list",
+        "pinyin": "dān",
+        "chinese": "单",
+        "rate": 371
+    },
+    "宝": {
+        "eng": "jewel; treasure",
+        "pinyin": "bǎo",
+        "chinese": "宝",
+        "rate": 372
+    },
+    "哥": {
+        "eng": "elder brother",
+        "pinyin": "gē",
+        "chinese": "哥",
+        "rate": 373
+    },
+    "张": {
+        "eng": "mw. for flat obj.",
+        "pinyin": "zhāng",
+        "chinese": "张",
+        "rate": 374
+    },
+    "搞": {
+        "eng": "to make; to set up",
+        "pinyin": "gǎo",
+        "chinese": "搞",
+        "rate": 375
+    },
+    "战": {
+        "eng": "to fight; war",
+        "pinyin": "zhàn",
+        "chinese": "战",
+        "rate": 376
+    },
+    "火": {
+        "eng": "fire",
+        "pinyin": "huǒ",
+        "chinese": "火",
+        "rate": 377
+    },
+    "罗": {
+        "eng": "gauze; to gather",
+        "pinyin": "luó",
+        "chinese": "罗",
+        "rate": 378
+    },
+    "至": {
+        "eng": "to arrive",
+        "pinyin": "zhì",
+        "chinese": "至",
+        "rate": 379
+    },
+    "万": {
+        "eng": "ten thousand",
+        "pinyin": "wàn",
+        "chinese": "万",
+        "rate": 380
+    },
+    "声": {
+        "eng": "sound; voice",
+        "pinyin": "shēng",
+        "chinese": "声",
+        "rate": 381
+    },
+    "布": {
+        "eng": "cloth; to spread",
+        "pinyin": "bù",
+        "chinese": "布",
+        "rate": 382
+    },
+    "音": {
+        "eng": "sound; noise",
+        "pinyin": "yīn",
+        "chinese": "音",
+        "rate": 383
+    },
+    "期": {
+        "eng": "period of time",
+        "pinyin": "qī",
+        "chinese": "期",
+        "rate": 384
+    },
+    "条": {
+        "eng": "mw. long thing obj.",
+        "pinyin": "tiáo",
+        "chinese": "条",
+        "rate": 385
+    },
+    "消": {
+        "eng": "to vanish; need",
+        "pinyin": "xiāo",
+        "chinese": "消",
+        "rate": 386
+    },
+    "买": {
+        "eng": "to buy",
+        "pinyin": "mǎi",
+        "chinese": "买",
+        "rate": 387
+    },
+    "病": {
+        "eng": "illness; disease",
+        "pinyin": "bìng",
+        "chinese": "病",
+        "rate": 388
+    },
+    "整": {
+        "eng": "ordered",
+        "pinyin": "zhěng",
+        "chinese": "整",
+        "rate": 389
+    },
+    "奇": {
+        "eng": "strange",
+        "pinyin": "qí",
+        "chinese": "奇",
+        "rate": 390
+    },
+    "弟": {
+        "eng": "young brother",
+        "pinyin": "dì",
+        "chinese": "弟",
+        "rate": 391
+    },
+    "犯": {
+        "eng": "to violate; to offend",
+        "pinyin": "fàn",
+        "chinese": "犯",
+        "rate": 392
+    },
+    "装": {
+        "eng": "clothing; to pretend",
+        "pinyin": "zhuāng",
+        "chinese": "装",
+        "rate": 393
+    },
+    "贝": {
+        "eng": "shell",
+        "pinyin": "bèi",
+        "chinese": "贝",
+        "rate": 394
+    },
+    "您": {
+        "eng": "you (polite)",
+        "pinyin": "nín",
+        "chinese": "您",
+        "rate": 395
+    },
+    "送": {
+        "eng": "to give; to deliver",
+        "pinyin": "sòng",
+        "chinese": "送",
+        "rate": 396
+    },
+    "怕": {
+        "eng": "to fear",
+        "pinyin": "pà",
+        "chinese": "怕",
+        "rate": 397
+    },
+    "护": {
+        "eng": "to protect",
+        "pinyin": "hù",
+        "chinese": "护",
+        "rate": 398
+    },
+    "度": {
+        "eng": "degree; measure",
+        "pinyin": "dù",
+        "chinese": "度",
+        "rate": 399
+    },
+    "花": {
+        "eng": "flower; to spend",
+        "pinyin": "huā",
+        "chinese": "花",
+        "rate": 400
+    },
+    "节": {
+        "eng": "festival",
+        "pinyin": "jié",
+        "chinese": "节",
+        "rate": 401
+    },
+    "近": {
+        "eng": "near",
+        "pinyin": "jìn",
+        "chinese": "近",
+        "rate": 402
+    },
+    "怪": {
+        "eng": "odd; monster",
+        "pinyin": "guài",
+        "chinese": "怪",
+        "rate": 403
+    },
+    "持": {
+        "eng": "to maintain; to manage",
+        "pinyin": "chí",
+        "chinese": "持",
+        "rate": 404
+    },
+    "光": {
+        "eng": "bright; only",
+        "pinyin": "guāng",
+        "chinese": "光",
+        "rate": 405
+    },
+    "与": {
+        "eng": "and; with",
+        "pinyin": "yǔ",
+        "chinese": "与",
+        "rate": 406
+    },
+    "穿": {
+        "eng": "to wear",
+        "pinyin": "chuān",
+        "chinese": "穿",
+        "rate": 407
+    },
+    "愿": {
+        "eng": "to hope; willing",
+        "pinyin": "yuàn",
+        "chinese": "愿",
+        "rate": 408
+    },
+    "象": {
+        "eng": "elephant; form",
+        "pinyin": "xiàng",
+        "chinese": "象",
+        "rate": 409
+    },
+    "影": {
+        "eng": "image",
+        "pinyin": "yǐng",
+        "chinese": "影",
+        "rate": 410
+    },
+    "击": {
+        "eng": "to hit",
+        "pinyin": "jí",
+        "chinese": "击",
+        "rate": 411
+    },
+    "使": {
+        "eng": "to cause",
+        "pinyin": "shǐ",
+        "chinese": "使",
+        "rate": 412
+    },
+    "二": {
+        "eng": "two",
+        "pinyin": "èr",
+        "chinese": "二",
+        "rate": 413
+    },
+    "喝": {
+        "eng": "to drink",
+        "pinyin": "hē",
+        "chinese": "喝",
+        "rate": 414
+    },
+    "月": {
+        "eng": "moon; month",
+        "pinyin": "yuè",
+        "chinese": "月",
+        "rate": 415
+    },
+    "器": {
+        "eng": "device; tool",
+        "pinyin": "qì",
+        "chinese": "器",
+        "rate": 416
+    },
+    "察": {
+        "eng": "to examine; to observe",
+        "pinyin": "chá",
+        "chinese": "察",
+        "rate": 417
+    },
+    "制": {
+        "eng": "to manufacture",
+        "pinyin": "zhì",
+        "chinese": "制",
+        "rate": 418
+    },
+    "嘛": {
+        "eng": "obvious p.; pause p.",
+        "pinyin": "ma",
+        "chinese": "嘛",
+        "rate": 419
+    },
+    "哈": {
+        "eng": "laughter",
+        "pinyin": "hā",
+        "chinese": "哈",
+        "rate": 420
+    },
+    "助": {
+        "eng": "to help",
+        "pinyin": "zhù",
+        "chinese": "助",
+        "rate": 421
+    },
+    "达": {
+        "eng": "to reach",
+        "pinyin": "dá",
+        "chinese": "达",
+        "rate": 422
+    },
+    "海": {
+        "eng": "ocean; sea",
+        "pinyin": "hǎi",
+        "chinese": "海",
+        "rate": 423
+    },
+    "待": {
+        "eng": "to wait; about to",
+        "pinyin": "dài",
+        "chinese": "待",
+        "rate": 424
+    },
+    "托": {
+        "eng": "support; to entrust",
+        "pinyin": "tuō",
+        "chinese": "托",
+        "rate": 425
+    },
+    "除": {
+        "eng": "to remove",
+        "pinyin": "chú",
+        "chinese": "除",
+        "rate": 426
+    },
+    "写": {
+        "eng": "to write",
+        "pinyin": "xiě",
+        "chinese": "写",
+        "rate": 427
+    },
+    "绝": {
+        "eng": "sever; absolutely",
+        "pinyin": "jué",
+        "chinese": "绝",
+        "rate": 428
+    },
+    "界": {
+        "eng": "boundary; scope",
+        "pinyin": "jiè",
+        "chinese": "界",
+        "rate": 429
+    },
+    "帝": {
+        "eng": "emperor",
+        "pinyin": "dì",
+        "chinese": "帝",
+        "rate": 430
+    },
+    "姐": {
+        "eng": "older sister",
+        "pinyin": "jiě",
+        "chinese": "姐",
+        "rate": 431
+    },
+    "反": {
+        "eng": "contrary; opposite",
+        "pinyin": "fǎn",
+        "chinese": "反",
+        "rate": 432
+    },
+    "担": {
+        "eng": "to undertake",
+        "pinyin": "dān",
+        "chinese": "担",
+        "rate": 433
+    },
+    "司": {
+        "eng": "to manage; department",
+        "pinyin": "sī",
+        "chinese": "司",
+        "rate": 434
+    },
+    "强": {
+        "eng": "strong; powerful",
+        "pinyin": "qiáng",
+        "chinese": "强",
+        "rate": 435
+    },
+    "由": {
+        "eng": "from; by",
+        "pinyin": "yóu",
+        "chinese": "由",
+        "rate": 436
+    },
+    "论": {
+        "eng": "opinion; theory",
+        "pinyin": "lùn",
+        "chinese": "论",
+        "rate": 437
+    },
+    "飞": {
+        "eng": "to fly",
+        "pinyin": "fēi",
+        "chinese": "飞",
+        "rate": 438
+    },
+    "亚": {
+        "eng": "Asia",
+        "pinyin": "yà",
+        "chinese": "亚",
+        "rate": 439
+    },
+    "续": {
+        "eng": "to continue",
+        "pinyin": "xù",
+        "chinese": "续",
+        "rate": 440
+    },
+    "视": {
+        "eng": "to look at",
+        "pinyin": "shì",
+        "chinese": "视",
+        "rate": 441
+    },
+    "母": {
+        "eng": "mother",
+        "pinyin": "mǔ",
+        "chinese": "母",
+        "rate": 442
+    },
+    "空": {
+        "eng": "empty; air",
+        "pinyin": "kōng",
+        "chinese": "空",
+        "rate": 443
+    },
+    "军": {
+        "eng": "army",
+        "pinyin": "jūn",
+        "chinese": "军",
+        "rate": 444
+    },
+    "跑": {
+        "eng": "to run",
+        "pinyin": "pǎo",
+        "chinese": "跑",
+        "rate": 445
+    },
+    "阿": {
+        "eng": "prefix for names",
+        "pinyin": "ā",
+        "chinese": "阿",
+        "rate": 446
+    },
+    "尽": {
+        "eng": "to greatest extent",
+        "pinyin": "jìn",
+        "chinese": "尽",
+        "rate": 447
+    },
+    "注": {
+        "eng": "pay attention; to register",
+        "pinyin": "zhù",
+        "chinese": "注",
+        "rate": 448
+    },
+    "弄": {
+        "eng": "to do",
+        "pinyin": "nòng",
+        "chinese": "弄",
+        "rate": 449
+    },
+    "密": {
+        "eng": "secret",
+        "pinyin": "mì",
+        "chinese": "密",
+        "rate": 450
+    },
+    "线": {
+        "eng": "thread",
+        "pinyin": "xiàn",
+        "chinese": "线",
+        "rate": 451
+    },
+    "代": {
+        "eng": "to substitute; era",
+        "pinyin": "dài",
+        "chinese": "代",
+        "rate": 452
+    },
+    "忙": {
+        "eng": "busy",
+        "pinyin": "máng",
+        "chinese": "忙",
+        "rate": 453
+    },
+    "坏": {
+        "eng": "bad; broken",
+        "pinyin": "huài",
+        "chinese": "坏",
+        "rate": 454
+    },
+    "久": {
+        "eng": "long (time)",
+        "pinyin": "jiǔ",
+        "chinese": "久",
+        "rate": 455
+    },
+    "议": {
+        "eng": "to discuss",
+        "pinyin": "yì",
+        "chinese": "议",
+        "rate": 456
+    },
+    "衣": {
+        "eng": "clothes",
+        "pinyin": "yī",
+        "chinese": "衣",
+        "rate": 457
+    },
+    "血": {
+        "eng": "blood",
+        "pinyin": "xiě",
+        "chinese": "血",
+        "rate": 458
+    },
+    "钟": {
+        "eng": "clock; o'clock",
+        "pinyin": "zhōng",
+        "chinese": "钟",
+        "rate": 459
+    },
+    "继": {
+        "eng": "to carry on",
+        "pinyin": "jì",
+        "chinese": "继",
+        "rate": 460
+    },
+    "礼": {
+        "eng": "gift; ceremony",
+        "pinyin": "lǐ",
+        "chinese": "礼",
+        "rate": 461
+    },
+    "数": {
+        "eng": "number; figure",
+        "pinyin": "shù",
+        "chinese": "数",
+        "rate": 462
+    },
+    "份": {
+        "eng": "mw. for papers, sets",
+        "pinyin": "fèn",
+        "chinese": "份",
+        "rate": 463
+    },
+    "疯": {
+        "eng": "insane",
+        "pinyin": "fēng",
+        "chinese": "疯",
+        "rate": 464
+    },
+    "平": {
+        "eng": "flat; equal",
+        "pinyin": "píng",
+        "chinese": "平",
+        "rate": 465
+    },
+    "止": {
+        "eng": "to prohibit",
+        "pinyin": "zhǐ",
+        "chinese": "止",
+        "rate": 466
+    },
+    "十": {
+        "eng": "ten",
+        "pinyin": "shí",
+        "chinese": "十",
+        "rate": 467
+    },
+    "拜": {
+        "eng": "to pay respect",
+        "pinyin": "bài",
+        "chinese": "拜",
+        "rate": 468
+    },
+    "鬼": {
+        "eng": "ghost",
+        "pinyin": "guǐ",
+        "chinese": "鬼",
+        "rate": 469
+    },
+    "睡": {
+        "eng": "to sleep",
+        "pinyin": "shuì",
+        "chinese": "睡",
+        "rate": 470
+    },
+    "啦": {
+        "eng": "exclamation p.",
+        "pinyin": "la",
+        "chinese": "啦",
+        "rate": 471
+    },
+    "调": {
+        "eng": "to transfer; tone",
+        "pinyin": "diào",
+        "chinese": "调",
+        "rate": 472
+    },
+    "巴": {
+        "eng": "to stick to; close to",
+        "pinyin": "bā",
+        "chinese": "巴",
+        "rate": 473
+    },
+    "兄": {
+        "eng": "elder brother",
+        "pinyin": "xiōng",
+        "chinese": "兄",
+        "rate": 474
+    },
+    "紧": {
+        "eng": "strict; tight",
+        "pinyin": "jǐn",
+        "chinese": "紧",
+        "rate": 475
+    },
+    "站": {
+        "eng": "to stop; station",
+        "pinyin": "zhàn",
+        "chinese": "站",
+        "rate": 476
+    },
+    "品": {
+        "eng": "goods; product",
+        "pinyin": "pǐn",
+        "chinese": "品",
+        "rate": 477
+    },
+    "英": {
+        "eng": "brave",
+        "pinyin": "yīng",
+        "chinese": "英",
+        "rate": 478
+    },
+    "罪": {
+        "eng": "guilt; crime",
+        "pinyin": "zuì",
+        "chinese": "罪",
+        "rate": 479
+    },
+    "文": {
+        "eng": "language; culture",
+        "pinyin": "wén",
+        "chinese": "文",
+        "rate": 480
+    },
+    "亮": {
+        "eng": "bright; clear",
+        "pinyin": "liàng",
+        "chinese": "亮",
+        "rate": 481
+    },
+    "抓": {
+        "eng": "to grab",
+        "pinyin": "zhuā",
+        "chinese": "抓",
+        "rate": 482
+    },
+    "跳": {
+        "eng": "to jump",
+        "pinyin": "tiào",
+        "chinese": "跳",
+        "rate": 483
+    },
+    "联": {
+        "eng": "to unite; to join",
+        "pinyin": "lián",
+        "chinese": "联",
+        "rate": 484
+    },
+    "混": {
+        "eng": "to mix",
+        "pinyin": "hùn",
+        "chinese": "混",
+        "rate": 485
+    },
+    "便": {
+        "eng": "ordinary; convenient",
+        "pinyin": "biàn",
+        "chinese": "便",
+        "rate": 486
+    },
+    "狗": {
+        "eng": "dog",
+        "pinyin": "gǒu",
+        "chinese": "狗",
+        "rate": 487
+    },
+    "脑": {
+        "eng": "brain; mind",
+        "pinyin": "nǎo",
+        "chinese": "脑",
+        "rate": 488
+    },
+    "业": {
+        "eng": "occupation",
+        "pinyin": "yè",
+        "chinese": "业",
+        "rate": 489
+    },
+    "歌": {
+        "eng": "song",
+        "pinyin": "gē",
+        "chinese": "歌",
+        "rate": 490
+    },
+    "精": {
+        "eng": "essence; vitality",
+        "pinyin": "jīng",
+        "chinese": "精",
+        "rate": 491
+    },
+    "包": {
+        "eng": "to wrap; bag",
+        "pinyin": "bāo",
+        "chinese": "包",
+        "rate": 492
+    },
+    "转": {
+        "eng": "to revolve; to turn",
+        "pinyin": "zhuǎn",
+        "chinese": "转",
+        "rate": 493
+    },
+    "却": {
+        "eng": "but; however",
+        "pinyin": "què",
+        "chinese": "却",
+        "rate": 494
+    },
+    "参": {
+        "eng": "to participate",
+        "pinyin": "cān",
+        "chinese": "参",
+        "rate": 495
+    },
+    "院": {
+        "eng": "courtyard; institution",
+        "pinyin": "yuàn",
+        "chinese": "院",
+        "rate": 496
+    },
+    "务": {
+        "eng": "affair; business",
+        "pinyin": "wù",
+        "chinese": "务",
+        "rate": 497
+    },
+    "基": {
+        "eng": "base; foundation",
+        "pinyin": "jī",
+        "chinese": "基",
+        "rate": 498
+    },
+    "台": {
+        "eng": "platform",
+        "pinyin": "tái",
+        "chinese": "台",
+        "rate": 499
+    },
+    "另": {
+        "eng": "other; another",
+        "pinyin": "lìng",
+        "chinese": "另",
+        "rate": 500
+    },
+    "恩": {
+        "eng": "grace",
+        "pinyin": "ēn",
+        "chinese": "恩",
+        "rate": 501
+    },
+    "书": {
+        "eng": "book",
+        "pinyin": "shū",
+        "chinese": "书",
+        "rate": 502
+    },
+    "统": {
+        "eng": "to unite",
+        "pinyin": "tǒng",
+        "chinese": "统",
+        "rate": 503
+    },
+    "风": {
+        "eng": "wind",
+        "pinyin": "fēng",
+        "chinese": "风",
+        "rate": 504
+    },
+    "况": {
+        "eng": "situation; moreover",
+        "pinyin": "kuàng",
+        "chinese": "况",
+        "rate": 505
+    },
+    "四": {
+        "eng": "four",
+        "pinyin": "sì",
+        "chinese": "四",
+        "rate": 506
+    },
+    "黑": {
+        "eng": "black",
+        "pinyin": "hēi",
+        "chinese": "黑",
+        "rate": 507
+    },
+    "否": {
+        "eng": "to deny",
+        "pinyin": "fǒu",
+        "chinese": "否",
+        "rate": 508
+    },
+    "险": {
+        "eng": "danger",
+        "pinyin": "xiǎn",
+        "chinese": "险",
+        "rate": 509
+    },
+    "言": {
+        "eng": "words; speech",
+        "pinyin": "yán",
+        "chinese": "言",
+        "rate": 510
+    },
+    "米": {
+        "eng": "rice",
+        "pinyin": "mǐ",
+        "chinese": "米",
+        "rate": 511
+    },
+    "杰": {
+        "eng": "distinguished",
+        "pinyin": "jié",
+        "chinese": "杰",
+        "rate": 512
+    },
+    "校": {
+        "eng": "school",
+        "pinyin": "xiào",
+        "chinese": "校",
+        "rate": 513
+    },
+    "幸": {
+        "eng": "fortunate",
+        "pinyin": "xìng",
+        "chinese": "幸",
+        "rate": 514
+    },
+    "传": {
+        "eng": "to transfer; send",
+        "pinyin": "chuán",
+        "chinese": "传",
+        "rate": 515
+    },
+    "复": {
+        "eng": "to return; to repeat",
+        "pinyin": "fù",
+        "chinese": "复",
+        "rate": 516
+    },
+    "量": {
+        "eng": "quantity; amount",
+        "pinyin": "liàng",
+        "chinese": "量",
+        "rate": 517
+    },
+    "首": {
+        "eng": "head; chief",
+        "pinyin": "shǒu",
+        "chinese": "首",
+        "rate": 518
+    },
+    "改": {
+        "eng": "to change",
+        "pinyin": "gǎi",
+        "chinese": "改",
+        "rate": 519
+    },
+    "忘": {
+        "eng": "to forget",
+        "pinyin": "wàng",
+        "chinese": "忘",
+        "rate": 520
+    },
+    "术": {
+        "eng": "method; technique",
+        "pinyin": "shù",
+        "chinese": "术",
+        "rate": 521
+    },
+    "局": {
+        "eng": "office; narrow",
+        "pinyin": "jú",
+        "chinese": "局",
+        "rate": 522
+    },
+    "客": {
+        "eng": "customer; guest",
+        "pinyin": "kè",
+        "chinese": "客",
+        "rate": 523
+    },
+    "假": {
+        "eng": "fake; to borrow",
+        "pinyin": "jiǎ",
+        "chinese": "假",
+        "rate": 524
+    },
+    "永": {
+        "eng": "forever",
+        "pinyin": "yǒng",
+        "chinese": "永",
+        "rate": 525
+    },
+    "维": {
+        "eng": "to maintain",
+        "pinyin": "wéi",
+        "chinese": "维",
+        "rate": 526
+    },
+    "岁": {
+        "eng": "years (of age)",
+        "pinyin": "suì",
+        "chinese": "岁",
+        "rate": 527
+    },
+    "据": {
+        "eng": "according to; to seize",
+        "pinyin": "jù",
+        "chinese": "据",
+        "rate": 528
+    },
+    "派": {
+        "eng": "school of though",
+        "pinyin": "pài",
+        "chinese": "派",
+        "rate": 529
+    },
+    "票": {
+        "eng": "ticket",
+        "pinyin": "piào",
+        "chinese": "票",
+        "rate": 530
+    },
+    "兰": {
+        "eng": "orchid",
+        "pinyin": "lán",
+        "chinese": "兰",
+        "rate": 531
+    },
+    "恶": {
+        "eng": "evil; ugly",
+        "pinyin": "è",
+        "chinese": "恶",
+        "rate": 532
+    },
+    "烦": {
+        "eng": "to trouble",
+        "pinyin": "fán",
+        "chinese": "烦",
+        "rate": 533
+    },
+    "取": {
+        "eng": "to take",
+        "pinyin": "qǔ",
+        "chinese": "取",
+        "rate": 534
+    },
+    "游": {
+        "eng": "to swim; to travel",
+        "pinyin": "yóu",
+        "chinese": "游",
+        "rate": 535
+    },
+    "糟": {
+        "eng": "dregs",
+        "pinyin": "zāo ",
+        "chinese": "糟",
+        "rate": 536
+    },
+    "令": {
+        "eng": "command; to order",
+        "pinyin": "lìng",
+        "chinese": "令",
+        "rate": 537
+    },
+    "随": {
+        "eng": "to follow; comply",
+        "pinyin": "suí",
+        "chinese": "随",
+        "rate": 538
+    },
+    "五": {
+        "eng": "five",
+        "pinyin": "wǔ",
+        "chinese": "五",
+        "rate": 539
+    },
+    "圣": {
+        "eng": "holy",
+        "pinyin": "shèng",
+        "chinese": "圣",
+        "rate": 540
+    },
+    "式": {
+        "eng": "type; style",
+        "pinyin": "shì",
+        "chinese": "式",
+        "rate": 541
+    },
+    "探": {
+        "eng": "to explore",
+        "pinyin": "tàn",
+        "chinese": "探",
+        "rate": 542
+    },
+    "嘴": {
+        "eng": "mouth",
+        "pinyin": "zuǐ",
+        "chinese": "嘴",
+        "rate": 543
+    },
+    "毒": {
+        "eng": "poison",
+        "pinyin": "dú",
+        "chinese": "毒",
+        "rate": 544
+    },
+    "越": {
+        "eng": "to climb over",
+        "pinyin": "yuè",
+        "chinese": "越",
+        "rate": 545
+    },
+    "律": {
+        "eng": "law",
+        "pinyin": "lǜ",
+        "chinese": "律",
+        "rate": 546
+    },
+    "费": {
+        "eng": "expense",
+        "pinyin": "fèi",
+        "chinese": "费",
+        "rate": 547
+    },
+    "科": {
+        "eng": "division",
+        "pinyin": "kē",
+        "chinese": "科",
+        "rate": 548
+    },
+    "麻": {
+        "eng": "hemp; rough",
+        "pinyin": "má",
+        "chinese": "麻",
+        "rate": 549
+    },
+    "简": {
+        "eng": "simple",
+        "pinyin": "jiǎn",
+        "chinese": "简",
+        "rate": 550
+    },
+    "易": {
+        "eng": "easy",
+        "pinyin": "yì",
+        "chinese": "易",
+        "rate": 551
+    },
+    "流": {
+        "eng": "to flow",
+        "pinyin": "liú",
+        "chinese": "流",
+        "rate": 552
+    },
+    "治": {
+        "eng": "to govern; solve",
+        "pinyin": "zhì",
+        "chinese": "治",
+        "rate": 553
+    },
+    "唱": {
+        "eng": "to sing",
+        "pinyin": "chàng",
+        "chinese": "唱",
+        "rate": 554
+    },
+    "答": {
+        "eng": "to reply; answer",
+        "pinyin": "dá",
+        "chinese": "答",
+        "rate": 555
+    },
+    "倒": {
+        "eng": "to invert; actually",
+        "pinyin": "dǎo",
+        "chinese": "倒",
+        "rate": 556
+    },
+    "划": {
+        "eng": "to plan; row",
+        "pinyin": "huà",
+        "chinese": "划",
+        "rate": 557
+    },
+    "控": {
+        "eng": "to accuse; manage",
+        "pinyin": "kòng",
+        "chinese": "控",
+        "rate": 558
+    },
+    "味": {
+        "eng": "taste; smell",
+        "pinyin": "wèi",
+        "chinese": "味",
+        "rate": 559
+    },
+    "区": {
+        "eng": "area",
+        "pinyin": "qū",
+        "chinese": "区",
+        "rate": 560
+    },
+    "漂": {
+        "eng": "to float",
+        "pinyin": "piāo",
+        "chinese": "漂",
+        "rate": 561
+    },
+    "支": {
+        "eng": "to support",
+        "pinyin": "zhī",
+        "chinese": "支",
+        "rate": 562
+    },
+    "乎": {
+        "eng": "in; at; from",
+        "pinyin": "hū",
+        "chinese": "乎",
+        "rate": 563
+    },
+    "录": {
+        "eng": "diary; record",
+        "pinyin": "lù",
+        "chinese": "录",
+        "rate": 564
+    },
+    "考": {
+        "eng": "to test",
+        "pinyin": "kǎo",
+        "chinese": "考",
+        "rate": 565
+    },
+    "超": {
+        "eng": "to exceed; super-",
+        "pinyin": "chāo",
+        "chinese": "超",
+        "rate": 566
+    },
+    "拍": {
+        "eng": "to clap; to take (photo)",
+        "pinyin": "pāi",
+        "chinese": "拍",
+        "rate": 567
+    },
+    "轻": {
+        "eng": "light; gentle",
+        "pinyin": "qīng",
+        "chinese": "轻",
+        "rate": 568
+    },
+    "连": {
+        "eng": "to link; even…",
+        "pinyin": "lián",
+        "chinese": "连",
+        "rate": 569
+    },
+    "往": {
+        "eng": "towards",
+        "pinyin": "wǎng",
+        "chinese": "往",
+        "rate": 570
+    },
+    "组": {
+        "eng": "to organize; group",
+        "pinyin": "zǔ",
+        "chinese": "组",
+        "rate": 571
+    },
+    "满": {
+        "eng": "to fill; satisfied",
+        "pinyin": "mǎn",
+        "chinese": "满",
+        "rate": 572
+    },
+    "造": {
+        "eng": "to build; to make",
+        "pinyin": "zào",
+        "chinese": "造",
+        "rate": 573
+    },
+    "弹": {
+        "eng": "bullet",
+        "pinyin": "dàn",
+        "chinese": "弹",
+        "rate": 574
+    },
+    "静": {
+        "eng": "still; calm",
+        "pinyin": "jìng",
+        "chinese": "静",
+        "rate": 575
+    },
+    "故": {
+        "eng": "old; happening",
+        "pinyin": "gù",
+        "chinese": "故",
+        "rate": 576
+    },
+    "吸": {
+        "eng": "to breathe; inhale",
+        "pinyin": "xī",
+        "chinese": "吸",
+        "rate": 577
+    },
+    "喂": {
+        "eng": "call attention",
+        "pinyin": "wèi",
+        "chinese": "喂",
+        "rate": 578
+    },
+    "集": {
+        "eng": "to gather; to collect",
+        "pinyin": "jí",
+        "chinese": "集",
+        "rate": 579
+    },
+    "极": {
+        "eng": "extremely",
+        "pinyin": "jí",
+        "chinese": "极",
+        "rate": 580
+    },
+    "讲": {
+        "eng": "to speak; lecture",
+        "pinyin": "jiǎng",
+        "chinese": "讲",
+        "rate": 581
+    },
+    "块": {
+        "eng": "colloq. money; lump",
+        "pinyin": "kuài",
+        "chinese": "块",
+        "rate": 582
+    },
+    "趣": {
+        "eng": "interesting",
+        "pinyin": "qù",
+        "chinese": "趣",
+        "rate": 583
+    },
+    "类": {
+        "eng": "kind; category",
+        "pinyin": "lèi",
+        "chinese": "类",
+        "rate": 584
+    },
+    "呀": {
+        "eng": "surprise p.",
+        "pinyin": "yā",
+        "chinese": "呀",
+        "rate": 585
+    },
+    "戏": {
+        "eng": "drama; trick",
+        "pinyin": "xì",
+        "chinese": "戏",
+        "rate": 586
+    },
+    "曾": {
+        "eng": "once; already",
+        "pinyin": "céng",
+        "chinese": "曾",
+        "rate": 587
+    },
+    "容": {
+        "eng": "to contain; appearance",
+        "pinyin": "róng",
+        "chinese": "容",
+        "rate": 588
+    },
+    "步": {
+        "eng": "a step",
+        "pinyin": "bù",
+        "chinese": "步",
+        "rate": 589
+    },
+    "投": {
+        "eng": "to cast",
+        "pinyin": "tóu",
+        "chinese": "投",
+        "rate": 590
+    },
+    "化": {
+        "eng": "to change into",
+        "pinyin": "huà",
+        "chinese": "化",
+        "rate": 591
+    },
+    "未": {
+        "eng": "not; have not",
+        "pinyin": "wèi",
+        "chinese": "未",
+        "rate": 592
+    },
+    "束": {
+        "eng": "to bind; bundle",
+        "pinyin": "shù",
+        "chinese": "束",
+        "rate": 593
+    },
+    "醒": {
+        "eng": "to wake up",
+        "pinyin": "xǐng",
+        "chinese": "醒",
+        "rate": 594
+    },
+    "威": {
+        "eng": "power",
+        "pinyin": "wēi",
+        "chinese": "威",
+        "rate": 595
+    },
+    "班": {
+        "eng": "team; class",
+        "pinyin": "bān",
+        "chinese": "班",
+        "rate": 596
+    },
+    "终": {
+        "eng": "end; finish",
+        "pinyin": "zhōng",
+        "chinese": "终",
+        "rate": 597
+    },
+    "差": {
+        "eng": "inferior; bad",
+        "pinyin": "chà",
+        "chinese": "差",
+        "rate": 598
+    },
+    "梦": {
+        "eng": "dream",
+        "pinyin": "mèng",
+        "chinese": "梦",
+        "rate": 599
+    },
+    "赢": {
+        "eng": "to win",
+        "pinyin": "yíng",
+        "chinese": "赢",
+        "rate": 600
+    },
+    "药": {
+        "eng": "medicine",
+        "pinyin": "yào",
+        "chinese": "药",
+        "rate": 601
+    },
+    "迪": {
+        "eng": "to enlighten",
+        "pinyin": "dí ",
+        "chinese": "迪",
+        "rate": 602
+    },
+    "店": {
+        "eng": "inn; shop",
+        "pinyin": "diàn",
+        "chinese": "店",
+        "rate": 603
+    },
+    "丽": {
+        "eng": "beautiful",
+        "pinyin": "lì",
+        "chinese": "丽",
+        "rate": 604
+    },
+    "卖": {
+        "eng": "to sell",
+        "pinyin": "mài",
+        "chinese": "卖",
+        "rate": 605
+    },
+    "显": {
+        "eng": "prominent; to show",
+        "pinyin": "xiǎn",
+        "chinese": "显",
+        "rate": 606
+    },
+    "监": {
+        "eng": "to supervise",
+        "pinyin": "jiān",
+        "chinese": "监",
+        "rate": 607
+    },
+    "图": {
+        "eng": "diagram; map",
+        "pinyin": "tú",
+        "chinese": "图",
+        "rate": 608
+    },
+    "半": {
+        "eng": "half",
+        "pinyin": "bàn",
+        "chinese": "半",
+        "rate": 609
+    },
+    "语": {
+        "eng": "language; speech",
+        "pinyin": "yǔ",
+        "chinese": "语",
+        "rate": 610
+    },
+    "付": {
+        "eng": "to pay; hand over",
+        "pinyin": "fù",
+        "chinese": "付",
+        "rate": 611
+    },
+    "热": {
+        "eng": "hot",
+        "pinyin": "rè",
+        "chinese": "热",
+        "rate": 612
+    },
+    "排": {
+        "eng": "a row; to arrange",
+        "pinyin": "pái",
+        "chinese": "排",
+        "rate": 613
+    },
+    "楚": {
+        "eng": "distinct; clear",
+        "pinyin": "chǔ",
+        "chinese": "楚",
+        "rate": 614
+    },
+    "偷": {
+        "eng": "to steal",
+        "pinyin": "tōu",
+        "chinese": "偷",
+        "rate": 615
+    },
+    "敢": {
+        "eng": "to dare",
+        "pinyin": "gǎn",
+        "chinese": "敢",
+        "rate": 616
+    },
+    "油": {
+        "eng": "oil",
+        "pinyin": "yóu",
+        "chinese": "油",
+        "rate": 617
+    },
+    "餐": {
+        "eng": "meal",
+        "pinyin": "cān",
+        "chinese": "餐",
+        "rate": 618
+    },
+    "破": {
+        "eng": "broken; to destroy",
+        "pinyin": "pò",
+        "chinese": "破",
+        "rate": 619
+    },
+    "杯": {
+        "eng": "cup",
+        "pinyin": "bēi",
+        "chinese": "杯",
+        "rate": 620
+    },
+    "市": {
+        "eng": "market; city",
+        "pinyin": "shì",
+        "chinese": "市",
+        "rate": 621
+    },
+    "城": {
+        "eng": "city; town",
+        "pinyin": "chéng",
+        "chinese": "城",
+        "rate": 622
+    },
+    "哇": {
+        "eng": "child cry sound",
+        "pinyin": "wā",
+        "chinese": "哇",
+        "rate": 623
+    },
+    "权": {
+        "eng": "authority; power",
+        "pinyin": "quán",
+        "chinese": "权",
+        "rate": 624
+    },
+    "某": {
+        "eng": "some; a certain",
+        "pinyin": "mǒu",
+        "chinese": "某",
+        "rate": 625
+    },
+    "激": {
+        "eng": "to excite; fierce",
+        "pinyin": "jī",
+        "chinese": "激",
+        "rate": 626
+    },
+    "立": {
+        "eng": "to stand",
+        "pinyin": "lì",
+        "chinese": "立",
+        "rate": 627
+    },
+    "程": {
+        "eng": "rule; order",
+        "pinyin": "chéng",
+        "chinese": "程",
+        "rate": 628
+    },
+    "伊": {
+        "eng": "he; she",
+        "pinyin": "yī",
+        "chinese": "伊",
+        "rate": 629
+    },
+    "讨": {
+        "eng": "to invite; to discuss",
+        "pinyin": "tǎo",
+        "chinese": "讨",
+        "rate": 630
+    },
+    "责": {
+        "eng": "duty",
+        "pinyin": "zé",
+        "chinese": "责",
+        "rate": 631
+    },
+    "昨": {
+        "eng": "yesterday",
+        "pinyin": "zuó",
+        "chinese": "昨",
+        "rate": 632
+    },
+    "闭": {
+        "eng": "to close; to shut",
+        "pinyin": "bì",
+        "chinese": "闭",
+        "rate": 633
+    },
+    "庭": {
+        "eng": "main hall; courtyard",
+        "pinyin": "tíng",
+        "chinese": "庭",
+        "rate": 634
+    },
+    "落": {
+        "eng": "to set; to decline",
+        "pinyin": "luò",
+        "chinese": "落",
+        "rate": 635
+    },
+    "饭": {
+        "eng": "food; meal",
+        "pinyin": "fàn",
+        "chinese": "饭",
+        "rate": 636
+    },
+    "林": {
+        "eng": "forest",
+        "pinyin": "lín",
+        "chinese": "林",
+        "rate": 637
+    },
+    "换": {
+        "eng": "to change",
+        "pinyin": "huàn",
+        "chinese": "换",
+        "rate": 638
+    },
+    "及": {
+        "eng": "to reach; up to",
+        "pinyin": "jí",
+        "chinese": "及",
+        "rate": 639
+    },
+    "船": {
+        "eng": "boat",
+        "pinyin": "chuán",
+        "chinese": "船",
+        "rate": 640
+    },
+    "争": {
+        "eng": "to strive for",
+        "pinyin": "zhēng",
+        "chinese": "争",
+        "rate": 641
+    },
+    "猜": {
+        "eng": "to guess",
+        "pinyin": "cāi",
+        "chinese": "猜",
+        "rate": 642
+    },
+    "级": {
+        "eng": "level; rank",
+        "pinyin": "jí",
+        "chinese": "级",
+        "rate": 643
+    },
+    "姆": {
+        "eng": "matron",
+        "pinyin": "mǔ ",
+        "chinese": "姆",
+        "rate": 644
+    },
+    "雷": {
+        "eng": "thunder",
+        "pinyin": "léi",
+        "chinese": "雷",
+        "rate": 645
+    },
+    "刻": {
+        "eng": "quarter (hour); to cut",
+        "pinyin": "kè",
+        "chinese": "刻",
+        "rate": 646
+    },
+    "建": {
+        "eng": "to establish",
+        "pinyin": "jiàn",
+        "chinese": "建",
+        "rate": 647
+    },
+    "团": {
+        "eng": "round",
+        "pinyin": "tuán",
+        "chinese": "团",
+        "rate": 648
+    },
+    "王": {
+        "eng": "king",
+        "pinyin": "wáng",
+        "chinese": "王",
+        "rate": 649
+    },
+    "惊": {
+        "eng": "frightened",
+        "pinyin": "jīng",
+        "chinese": "惊",
+        "rate": 650
+    },
+    "迎": {
+        "eng": "to welcome",
+        "pinyin": "yíng",
+        "chinese": "迎",
+        "rate": 651
+    },
+    "段": {
+        "eng": "section",
+        "pinyin": "duàn",
+        "chinese": "段",
+        "rate": 652
+    },
+    "标": {
+        "eng": "sign; prize",
+        "pinyin": "biāo",
+        "chinese": "标",
+        "rate": 653
+    },
+    "检": {
+        "eng": "to check",
+        "pinyin": "jiǎn",
+        "chinese": "检",
+        "rate": 654
+    },
+    "各": {
+        "eng": "each; every",
+        "pinyin": "gè",
+        "chinese": "各",
+        "rate": 655
+    },
+    "义": {
+        "eng": "justice",
+        "pinyin": "yì",
+        "chinese": "义",
+        "rate": 656
+    },
+    "百": {
+        "eng": "hundred",
+        "pinyin": "bǎi",
+        "chinese": "百",
+        "rate": 657
+    },
+    "民": {
+        "eng": "the people",
+        "pinyin": "mín",
+        "chinese": "民",
+        "rate": 658
+    },
+    "功": {
+        "eng": "result; achievement",
+        "pinyin": "gōng",
+        "chinese": "功",
+        "rate": 659
+    },
+    "唯": {
+        "eng": "yes",
+        "pinyin": "wěi",
+        "chinese": "唯",
+        "rate": 660
+    },
+    "夜": {
+        "eng": "night",
+        "pinyin": "yè",
+        "chinese": "夜",
+        "rate": 661
+    },
+    "示": {
+        "eng": "to show",
+        "pinyin": "shì",
+        "chinese": "示",
+        "rate": 662
+    },
+    "靠": {
+        "eng": "to lean on",
+        "pinyin": "kào",
+        "chinese": "靠",
+        "rate": 663
+    },
+    "释": {
+        "eng": "to explain",
+        "pinyin": "shì",
+        "chinese": "释",
+        "rate": 664
+    },
+    "脸": {
+        "eng": "face",
+        "pinyin": "liǎn",
+        "chinese": "脸",
+        "rate": 665
+    },
+    "引": {
+        "eng": "to pull; to guide",
+        "pinyin": "yǐn",
+        "chinese": "引",
+        "rate": 666
+    },
+    "择": {
+        "eng": "to select",
+        "pinyin": "zé",
+        "chinese": "择",
+        "rate": 667
+    },
+    "疑": {
+        "eng": "to doubt",
+        "pinyin": "yí",
+        "chinese": "疑",
+        "rate": 668
+    },
+    "赶": {
+        "eng": "to hurry",
+        "pinyin": "gǎn",
+        "chinese": "赶",
+        "rate": 669
+    },
+    "俩": {
+        "eng": "two (coll. 两）",
+        "pinyin": "liǎ",
+        "chinese": "俩",
+        "rate": 670
+    },
+    "独": {
+        "eng": "alone",
+        "pinyin": "dú",
+        "chinese": "独",
+        "rate": 671
+    },
+    "冷": {
+        "eng": "cold",
+        "pinyin": "lěng",
+        "chinese": "冷",
+        "rate": 672
+    },
+    "妹": {
+        "eng": "younger sister",
+        "pinyin": "mèi",
+        "chinese": "妹",
+        "rate": 673
+    },
+    "楼": {
+        "eng": "building; floor",
+        "pinyin": "lóu",
+        "chinese": "楼",
+        "rate": 674
+    },
+    "皮": {
+        "eng": "leather; skin",
+        "pinyin": "pí",
+        "chinese": "皮",
+        "rate": 675
+    },
+    "存": {
+        "eng": "to exist; to deposit",
+        "pinyin": "cún",
+        "chinese": "存",
+        "rate": 676
+    },
+    "练": {
+        "eng": "to practice",
+        "pinyin": "liàn",
+        "chinese": "练",
+        "rate": 677
+    },
+    "娘": {
+        "eng": "mother; young lady",
+        "pinyin": "niáng",
+        "chinese": "娘",
+        "rate": 678
+    },
+    "顿": {
+        "eng": "to pause; mw. for meals",
+        "pinyin": "dùn",
+        "chinese": "顿",
+        "rate": 679
+    },
+    "断": {
+        "eng": "to break; defiitely",
+        "pinyin": "duàn",
+        "chinese": "断",
+        "rate": 680
+    },
+    "设": {
+        "eng": "to set up",
+        "pinyin": "shè",
+        "chinese": "设",
+        "rate": 681
+    },
+    "松": {
+        "eng": "loose; to relax",
+        "pinyin": "sōng",
+        "chinese": "松",
+        "rate": 682
+    },
+    "博": {
+        "eng": "rich; extensive",
+        "pinyin": "bó",
+        "chinese": "博",
+        "rate": 683
+    },
+    "置": {
+        "eng": "to install",
+        "pinyin": "zhì",
+        "chinese": "置",
+        "rate": 684
+    },
+    "逃": {
+        "eng": "to escape",
+        "pinyin": "táo",
+        "chinese": "逃",
+        "rate": 685
+    },
+    "观": {
+        "eng": "to watch",
+        "pinyin": "guān",
+        "chinese": "观",
+        "rate": 686
+    },
+    "痛": {
+        "eng": "ache; pain",
+        "pinyin": "tòng",
+        "chinese": "痛",
+        "rate": 687
+    },
+    "狂": {
+        "eng": "mad; wild",
+        "pinyin": "kuáng",
+        "chinese": "狂",
+        "rate": 688
+    },
+    "足": {
+        "eng": "foot",
+        "pinyin": "zú",
+        "chinese": "足",
+        "rate": 689
+    },
+    "码": {
+        "eng": "number; code",
+        "pinyin": "mǎ",
+        "chinese": "码",
+        "rate": 690
+    },
+    "恐": {
+        "eng": "afraid",
+        "pinyin": "kǒng",
+        "chinese": "恐",
+        "rate": 691
+    },
+    "吉": {
+        "eng": "lucky",
+        "pinyin": "jí",
+        "chinese": "吉",
+        "rate": 692
+    },
+    "历": {
+        "eng": "calendar; to experience",
+        "pinyin": "lì",
+        "chinese": "历",
+        "rate": 693
+    },
+    "慢": {
+        "eng": "slow",
+        "pinyin": "màn",
+        "chinese": "慢",
+        "rate": 694
+    },
+    "妻": {
+        "eng": "wife",
+        "pinyin": "qī",
+        "chinese": "妻",
+        "rate": 695
+    },
+    "山": {
+        "eng": "mountain",
+        "pinyin": "shān",
+        "chinese": "山",
+        "rate": 696
+    },
+    "普": {
+        "eng": "general; popular",
+        "pinyin": "pǔ",
+        "chinese": "普",
+        "rate": 697
+    },
+    "价": {
+        "eng": "price; value",
+        "pinyin": "jià",
+        "chinese": "价",
+        "rate": 698
+    },
+    "元": {
+        "eng": "unit of money",
+        "pinyin": "yuán",
+        "chinese": "元",
+        "rate": 699
+    },
+    "角": {
+        "eng": "angle; 0.1元",
+        "pinyin": "jiǎo",
+        "chinese": "角",
+        "rate": 700
+    },
+    "怀": {
+        "eng": "bosom; heart",
+        "pinyin": "huái",
+        "chinese": "怀",
+        "rate": 701
+    },
+    "床": {
+        "eng": "bed",
+        "pinyin": "chuáng",
+        "chinese": "床",
+        "rate": 702
+    },
+    "奥": {
+        "eng": "obscure",
+        "pinyin": "ào",
+        "chinese": "奥",
+        "rate": 703
+    },
+    "模": {
+        "eng": "to imitate",
+        "pinyin": "mó",
+        "chinese": "模",
+        "rate": 704
+    },
+    "验": {
+        "eng": "to examine",
+        "pinyin": "yàn",
+        "chinese": "验",
+        "rate": 705
+    },
+    "索": {
+        "eng": "to search; to ask",
+        "pinyin": "suǒ",
+        "chinese": "索",
+        "rate": 706
+    },
+    "街": {
+        "eng": "street",
+        "pinyin": "jiē",
+        "chinese": "街",
+        "rate": 707
+    },
+    "呼": {
+        "eng": "to call",
+        "pinyin": "hū",
+        "chinese": "呼",
+        "rate": 708
+    },
+    "祝": {
+        "eng": "to wish; to pray",
+        "pinyin": "zhù",
+        "chinese": "祝",
+        "rate": 709
+    },
+    "料": {
+        "eng": "material; stuff",
+        "pinyin": "liào",
+        "chinese": "料",
+        "rate": 710
+    },
+    "休": {
+        "eng": "to rest",
+        "pinyin": "xiū",
+        "chinese": "休",
+        "rate": 711
+    },
+    "灵": {
+        "eng": "quick; effective",
+        "pinyin": "líng",
+        "chinese": "灵",
+        "rate": 712
+    },
+    "狱": {
+        "eng": "prison; lawsuit",
+        "pinyin": "yù ",
+        "chinese": "狱",
+        "rate": 713
+    },
+    "剧": {
+        "eng": "drama; play",
+        "pinyin": "jù",
+        "chinese": "剧",
+        "rate": 714
+    },
+    "乱": {
+        "eng": "messy; disorder",
+        "pinyin": "luàn",
+        "chinese": "乱",
+        "rate": 715
+    },
+    "展": {
+        "eng": "to spread out",
+        "pinyin": "zhǎn",
+        "chinese": "展",
+        "rate": 716
+    },
+    "板": {
+        "eng": "board; plank",
+        "pinyin": "bǎn",
+        "chinese": "板",
+        "rate": 717
+    },
+    "承": {
+        "eng": "to bear; to carry",
+        "pinyin": "chéng",
+        "chinese": "承",
+        "rate": 718
+    },
+    "则": {
+        "eng": "in contrast; norm",
+        "pinyin": "zé",
+        "chinese": "则",
+        "rate": 719
+    },
+    "顾": {
+        "eng": "to look after",
+        "pinyin": "gù",
+        "chinese": "顾",
+        "rate": 720
+    },
+    "深": {
+        "eng": "deep; profound",
+        "pinyin": "shēn",
+        "chinese": "深",
+        "rate": 721
+    },
+    "产": {
+        "eng": "give birth; to produce",
+        "pinyin": "chǎn",
+        "chinese": "产",
+        "rate": 722
+    },
+    "洗": {
+        "eng": "to wash",
+        "pinyin": "xǐ",
+        "chinese": "洗",
+        "rate": 723
+    },
+    "政": {
+        "eng": "political",
+        "pinyin": "zhèng",
+        "chinese": "政",
+        "rate": 724
+    },
+    "迷": {
+        "eng": "fan (of)",
+        "pinyin": "mí",
+        "chinese": "迷",
+        "rate": 725
+    },
+    "领": {
+        "eng": "neck",
+        "pinyin": "lǐng",
+        "chinese": "领",
+        "rate": 726
+    },
+    "午": {
+        "eng": "noon",
+        "pinyin": "wǔ",
+        "chinese": "午",
+        "rate": 727
+    },
+    "纳": {
+        "eng": "to receive; to bring in",
+        "pinyin": "nà",
+        "chinese": "纳",
+        "rate": 728
+    },
+    "谎": {
+        "eng": "lie",
+        "pinyin": "huǎng ",
+        "chinese": "谎",
+        "rate": 729
+    },
+    "具": {
+        "eng": "tool; ability",
+        "pinyin": "jù",
+        "chinese": "具",
+        "rate": 730
+    },
+    "退": {
+        "eng": "to retreat; to decline",
+        "pinyin": "tuì",
+        "chinese": "退",
+        "rate": 731
+    },
+    "福": {
+        "eng": "luck; fortune",
+        "pinyin": "fú",
+        "chinese": "福",
+        "rate": 732
+    },
+    "习": {
+        "eng": "to study; habit",
+        "pinyin": "xí",
+        "chinese": "习",
+        "rate": 733
+    },
+    "秘": {
+        "eng": "secret",
+        "pinyin": "mì",
+        "chinese": "秘",
+        "rate": 734
+    },
+    "奶": {
+        "eng": "milk; breast",
+        "pinyin": "nǎi",
+        "chinese": "奶",
+        "rate": 735
+    },
+    "遇": {
+        "eng": "to meet; to encounter",
+        "pinyin": "yù",
+        "chinese": "遇",
+        "rate": 736
+    },
+    "职": {
+        "eng": "office; duty",
+        "pinyin": "zhí",
+        "chinese": "职",
+        "rate": 737
+    },
+    "架": {
+        "eng": "to support; framework",
+        "pinyin": "jià",
+        "chinese": "架",
+        "rate": 738
+    },
+    "即": {
+        "eng": "namely; at once",
+        "pinyin": "jí",
+        "chinese": "即",
+        "rate": 739
+    },
+    "挺": {
+        "eng": "to stand upright",
+        "pinyin": "tǐng ",
+        "chinese": "挺",
+        "rate": 740
+    },
+    "史": {
+        "eng": "history",
+        "pinyin": "shǐ",
+        "chinese": "史",
+        "rate": 741
+    },
+    "负": {
+        "eng": "to bear",
+        "pinyin": "fù",
+        "chinese": "负",
+        "rate": 742
+    },
+    "千": {
+        "eng": "thousand",
+        "pinyin": "qiān",
+        "chinese": "千",
+        "rate": 743
+    },
+    "脱": {
+        "eng": "to take off",
+        "pinyin": "tuō",
+        "chinese": "脱",
+        "rate": 744
+    },
+    "瑞": {
+        "eng": "auspicious",
+        "pinyin": "ruì",
+        "chinese": "瑞",
+        "rate": 745
+    },
+    "背": {
+        "eng": "back of object",
+        "pinyin": "bèi",
+        "chinese": "背",
+        "rate": 746
+    },
+    "仅": {
+        "eng": "barely; merely",
+        "pinyin": "jǐn",
+        "chinese": "仅",
+        "rate": 747
+    },
+    "追": {
+        "eng": "to chase",
+        "pinyin": "zhuī",
+        "chinese": "追",
+        "rate": 748
+    },
+    "伦": {
+        "eng": "relationship",
+        "pinyin": "lún",
+        "chinese": "伦",
+        "rate": 749
+    },
+    "炸": {
+        "eng": "to fry in oil",
+        "pinyin": "zhá",
+        "chinese": "炸",
+        "rate": 750
+    },
+    "资": {
+        "eng": "property; wealth",
+        "pinyin": "zī ",
+        "chinese": "资",
+        "rate": 751
+    },
+    "画": {
+        "eng": "to draw; picture",
+        "pinyin": "huà",
+        "chinese": "画",
+        "rate": 752
+    },
+    "踪": {
+        "eng": "footprints; traces",
+        "pinyin": "zōng ",
+        "chinese": "踪",
+        "rate": 753
+    },
+    "射": {
+        "eng": "to shoot",
+        "pinyin": "shè",
+        "chinese": "射",
+        "rate": 754
+    },
+    "弃": {
+        "eng": "to abandon",
+        "pinyin": "qì",
+        "chinese": "弃",
+        "rate": 755
+    },
+    "傻": {
+        "eng": "foolish",
+        "pinyin": "shǎ",
+        "chinese": "傻",
+        "rate": 756
+    },
+    "藏": {
+        "eng": "to conceal; to store",
+        "pinyin": "cáng",
+        "chinese": "藏",
+        "rate": 757
+    },
+    "屁": {
+        "eng": "fart; nonsense",
+        "pinyin": "pì",
+        "chinese": "屁",
+        "rate": 758
+    },
+    "瞧": {
+        "eng": "to glance at",
+        "pinyin": "qiáo ",
+        "chinese": "瞧",
+        "rate": 759
+    },
+    "修": {
+        "eng": "to repair",
+        "pinyin": "xiū",
+        "chinese": "修",
+        "rate": 760
+    },
+    "尸": {
+        "eng": "corpse",
+        "pinyin": "shī ",
+        "chinese": "尸",
+        "rate": 761
+    },
+    "闻": {
+        "eng": "to hear; news",
+        "pinyin": "wén",
+        "chinese": "闻",
+        "rate": 762
+    },
+    "共": {
+        "eng": "common; general",
+        "pinyin": "gòng",
+        "chinese": "共",
+        "rate": 763
+    },
+    "懂": {
+        "eng": "to understand",
+        "pinyin": "dǒng",
+        "chinese": "懂",
+        "rate": 764
+    },
+    "蒂": {
+        "eng": "stem of plant",
+        "pinyin": "dì ",
+        "chinese": "蒂",
+        "rate": 765
+    },
+    "危": {
+        "eng": "danger",
+        "pinyin": "wēi",
+        "chinese": "危",
+        "rate": 766
+    },
+    "专": {
+        "eng": "specialized",
+        "pinyin": "zhuān",
+        "chinese": "专",
+        "rate": 767
+    },
+    "呆": {
+        "eng": "stupid",
+        "pinyin": "ái",
+        "chinese": "呆",
+        "rate": 768
+    },
+    "介": {
+        "eng": "to introduce",
+        "pinyin": "jiè",
+        "chinese": "介",
+        "rate": 769
+    },
+    "萨": {
+        "eng": "Bodhissatva",
+        "pinyin": "sà",
+        "chinese": "萨",
+        "rate": 770
+    },
+    "魔": {
+        "eng": "devil; magic",
+        "pinyin": "mó",
+        "chinese": "魔",
+        "rate": 771
+    },
+    "急": {
+        "eng": "urgent; worried",
+        "pinyin": "jí",
+        "chinese": "急",
+        "rate": 772
+    },
+    "碰": {
+        "eng": "to bump",
+        "pinyin": "pèng",
+        "chinese": "碰",
+        "rate": 773
+    },
+    "甚": {
+        "eng": "variant of 什",
+        "pinyin": "shén",
+        "chinese": "甚",
+        "rate": 774
+    },
+    "糕": {
+        "eng": "cake",
+        "pinyin": "gāo ",
+        "chinese": "糕",
+        "rate": 775
+    },
+    "苦": {
+        "eng": "bitter; pain",
+        "pinyin": "kǔ",
+        "chinese": "苦",
+        "rate": 776
+    },
+    "念": {
+        "eng": "to miss (sb); thought",
+        "pinyin": "niàn",
+        "chinese": "念",
+        "rate": 777
+    },
+    "适": {
+        "eng": "to fit; suitable",
+        "pinyin": "shì",
+        "chinese": "适",
+        "rate": 778
+    },
+    "华": {
+        "eng": "splendid",
+        "pinyin": "huá",
+        "chinese": "华",
+        "rate": 779
+    },
+    "冲": {
+        "eng": "to clash; to rinse",
+        "pinyin": "chōng",
+        "chinese": "冲",
+        "rate": 780
+    },
+    "骗": {
+        "eng": "to cheat",
+        "pinyin": "piàn",
+        "chinese": "骗",
+        "rate": 781
+    },
+    "厌": {
+        "eng": "to loathe",
+        "pinyin": "yàn",
+        "chinese": "厌",
+        "rate": 782
+    },
+    "型": {
+        "eng": "model; type",
+        "pinyin": "xíng",
+        "chinese": "型",
+        "rate": 783
+    },
+    "麦": {
+        "eng": "wheat; oats",
+        "pinyin": "mài",
+        "chinese": "麦",
+        "rate": 784
+    },
+    "似": {
+        "eng": "-like",
+        "pinyin": "sì",
+        "chinese": "似",
+        "rate": 785
+    },
+    "红": {
+        "eng": "red",
+        "pinyin": "hóng",
+        "chinese": "红",
+        "rate": 786
+    },
+    "值": {
+        "eng": "value",
+        "pinyin": "zhí",
+        "chinese": "值",
+        "rate": 787
+    },
+    "脚": {
+        "eng": "foot",
+        "pinyin": "jiǎo",
+        "chinese": "脚",
+        "rate": 788
+    },
+    "六": {
+        "eng": "six",
+        "pinyin": "liù",
+        "chinese": "六",
+        "rate": 789
+    },
+    "谋": {
+        "eng": "plan; scheme",
+        "pinyin": "móu ",
+        "chinese": "谋",
+        "rate": 790
+    },
+    "套": {
+        "eng": "cover; mw. for sets",
+        "pinyin": "tào",
+        "chinese": "套",
+        "rate": 791
+    },
+    "凯": {
+        "eng": "triumphant",
+        "pinyin": "kǎi",
+        "chinese": "凯",
+        "rate": 792
+    },
+    "众": {
+        "eng": "many; crowd",
+        "pinyin": "zhòng",
+        "chinese": "众",
+        "rate": 793
+    },
+    "预": {
+        "eng": "to advance; prepare",
+        "pinyin": "yù",
+        "chinese": "预",
+        "rate": 794
+    },
+    "际": {
+        "eng": "border; between",
+        "pinyin": "jì",
+        "chinese": "际",
+        "rate": 795
+    },
+    "咱": {
+        "eng": "we; us",
+        "pinyin": "zá/zán ",
+        "chinese": "咱",
+        "rate": 796
+    },
+    "波": {
+        "eng": "wave",
+        "pinyin": "bō",
+        "chinese": "波",
+        "rate": 797
+    },
+    "卫": {
+        "eng": "to guard",
+        "pinyin": "wèi",
+        "chinese": "卫",
+        "rate": 798
+    },
+    "聊": {
+        "eng": "to chat",
+        "pinyin": "liáo",
+        "chinese": "聊",
+        "rate": 799
+    },
+    "养": {
+        "eng": "to raise; to bring up",
+        "pinyin": "yǎng",
+        "chinese": "养",
+        "rate": 800
+    },
+    "导": {
+        "eng": "to guide",
+        "pinyin": "dǎo",
+        "chinese": "导",
+        "rate": 801
+    },
+    "虑": {
+        "eng": "to think over",
+        "pinyin": "lǜ",
+        "chinese": "虑",
+        "rate": 802
+    },
+    "私": {
+        "eng": "private",
+        "pinyin": "sī",
+        "chinese": "私",
+        "rate": 803
+    },
+    "戴": {
+        "eng": "to put on",
+        "pinyin": "dài",
+        "chinese": "戴",
+        "rate": 804
+    },
+    "毁": {
+        "eng": "to destroy",
+        "pinyin": "huǐ",
+        "chinese": "毁",
+        "rate": 805
+    },
+    "鱼": {
+        "eng": "fish",
+        "pinyin": "yú",
+        "chinese": "鱼",
+        "rate": 806
+    },
+    "滚": {
+        "eng": "to boil",
+        "pinyin": "gǔn",
+        "chinese": "滚",
+        "rate": 807
+    },
+    "志": {
+        "eng": "sign; ambition",
+        "pinyin": "zhì",
+        "chinese": "志",
+        "rate": 808
+    },
+    "杂": {
+        "eng": "mixed",
+        "pinyin": "zá",
+        "chinese": "杂",
+        "rate": 809
+    },
+    "居": {
+        "eng": "to reside; residence",
+        "pinyin": "jū",
+        "chinese": "居",
+        "rate": 810
+    },
+    "词": {
+        "eng": "word",
+        "pinyin": "cí",
+        "chinese": "词",
+        "rate": 811
+    },
+    "食": {
+        "eng": "food",
+        "pinyin": "shí",
+        "chinese": "食",
+        "rate": 812
+    },
+    "诺": {
+        "eng": "promise",
+        "pinyin": "nuò",
+        "chinese": "诺",
+        "rate": 813
+    },
+    "读": {
+        "eng": "to read",
+        "pinyin": "dú",
+        "chinese": "读",
+        "rate": 814
+    },
+    "误": {
+        "eng": "mistake",
+        "pinyin": "wù",
+        "chinese": "误",
+        "rate": 815
+    },
+    "撒": {
+        "eng": "to release",
+        "pinyin": "sā",
+        "chinese": "撒",
+        "rate": 816
+    },
+    "突": {
+        "eng": "to dash; sudden",
+        "pinyin": "tū",
+        "chinese": "突",
+        "rate": 817
+    },
+    "牛": {
+        "eng": "cow",
+        "pinyin": "niú",
+        "chinese": "牛",
+        "rate": 818
+    },
+    "馆": {
+        "eng": "building; shop",
+        "pinyin": "guǎn",
+        "chinese": "馆",
+        "rate": 819
+    },
+    "规": {
+        "eng": "a rule; compass",
+        "pinyin": "guī",
+        "chinese": "规",
+        "rate": 820
+    },
+    "陪": {
+        "eng": "to accompany",
+        "pinyin": "péi",
+        "chinese": "陪",
+        "rate": 821
+    },
+    "州": {
+        "eng": "a state",
+        "pinyin": "zhōu ",
+        "chinese": "州",
+        "rate": 822
+    },
+    "肉": {
+        "eng": "flesh; meat",
+        "pinyin": "ròu",
+        "chinese": "肉",
+        "rate": 823
+    },
+    "形": {
+        "eng": "form; appear",
+        "pinyin": "xíng",
+        "chinese": "形",
+        "rate": 824
+    },
+    "凶": {
+        "eng": "culprit; scary",
+        "pinyin": "xiōng ",
+        "chinese": "凶",
+        "rate": 825
+    },
+    "森": {
+        "eng": "forest",
+        "pinyin": "sēn",
+        "chinese": "森",
+        "rate": 826
+    },
+    "商": {
+        "eng": "commernce",
+        "pinyin": "shāng",
+        "chinese": "商",
+        "rate": 827
+    },
+    "纪": {
+        "eng": "order; to discipline",
+        "pinyin": "jì",
+        "chinese": "纪",
+        "rate": 828
+    },
+    "浪": {
+        "eng": "wave",
+        "pinyin": "làng",
+        "chinese": "浪",
+        "rate": 829
+    },
+    "石": {
+        "eng": "stone",
+        "pinyin": "shí",
+        "chinese": "石",
+        "rate": 830
+    },
+    "顺": {
+        "eng": "to obey; along",
+        "pinyin": "shùn",
+        "chinese": "顺",
+        "rate": 831
+    },
+    "举": {
+        "eng": "to lift",
+        "pinyin": "jǔ",
+        "chinese": "举",
+        "rate": 832
+    },
+    "按": {
+        "eng": "to press; to restrain",
+        "pinyin": "àn",
+        "chinese": "按",
+        "rate": 833
+    },
+    "旅": {
+        "eng": "journey",
+        "pinyin": "lǚ",
+        "chinese": "旅",
+        "rate": 834
+    },
+    "努": {
+        "eng": "to exert",
+        "pinyin": "nǔ",
+        "chinese": "努",
+        "rate": 835
+    },
+    "坚": {
+        "eng": "strong",
+        "pinyin": "jiān",
+        "chinese": "坚",
+        "rate": 836
+    },
+    "测": {
+        "eng": "to measure",
+        "pinyin": "cè",
+        "chinese": "测",
+        "rate": 837
+    },
+    "免": {
+        "eng": "to exempt; to avoid",
+        "pinyin": "miǎn",
+        "chinese": "免",
+        "rate": 838
+    },
+    "喔": {
+        "eng": "I see; oh",
+        "pinyin": "ō",
+        "chinese": "喔",
+        "rate": 839
+    },
+    "丝": {
+        "eng": "silk",
+        "pinyin": "sī",
+        "chinese": "丝",
+        "rate": 840
+    },
+    "辆": {
+        "eng": "mw. for vehicles",
+        "pinyin": "liàng ",
+        "chinese": "辆",
+        "rate": 841
+    },
+    "乔": {
+        "eng": "tall; lofty",
+        "pinyin": "qiáo ",
+        "chinese": "乔",
+        "rate": 842
+    },
+    "防": {
+        "eng": "to protect",
+        "pinyin": "fáng",
+        "chinese": "防",
+        "rate": 843
+    },
+    "句": {
+        "eng": "sentence",
+        "pinyin": "jù",
+        "chinese": "句",
+        "rate": 844
+    },
+    "印": {
+        "eng": "to print; image",
+        "pinyin": "yìn",
+        "chinese": "印",
+        "rate": 845
+    },
+    "恋": {
+        "eng": "to feel attached to",
+        "pinyin": "liàn",
+        "chinese": "恋",
+        "rate": 846
+    },
+    "弗": {
+        "eng": "not, negative",
+        "pinyin": "fú ",
+        "chinese": "弗",
+        "rate": 847
+    },
+    "季": {
+        "eng": "season",
+        "pinyin": "jì",
+        "chinese": "季",
+        "rate": 848
+    },
+    "严": {
+        "eng": "strict; tight",
+        "pinyin": "yán",
+        "chinese": "严",
+        "rate": 849
+    },
+    "推": {
+        "eng": "to push",
+        "pinyin": "tuī",
+        "chinese": "推",
+        "rate": 850
+    },
+    "伯": {
+        "eng": "eldest uncle",
+        "pinyin": "bó",
+        "chinese": "伯",
+        "rate": 851
+    },
+    "莉": {
+        "eng": "white jasmine",
+        "pinyin": "lì ",
+        "chinese": "莉",
+        "rate": 852
+    },
+    "武": {
+        "eng": "martial",
+        "pinyin": "wǔ",
+        "chinese": "武",
+        "rate": 853
+    },
+    "胜": {
+        "eng": "victory; better",
+        "pinyin": "shèng",
+        "chinese": "胜",
+        "rate": 854
+    },
+    "毛": {
+        "eng": "hair; coarse",
+        "pinyin": "máo",
+        "chinese": "毛",
+        "rate": 855
+    },
+    "压": {
+        "eng": "to push down",
+        "pinyin": "yā",
+        "chinese": "压",
+        "rate": 856
+    },
+    "败": {
+        "eng": "to defeat",
+        "pinyin": "bài",
+        "chinese": "败",
+        "rate": 857
+    },
+    "究": {
+        "eng": "after all; to investigate",
+        "pinyin": "jiū",
+        "chinese": "究",
+        "rate": 858
+    },
+    "评": {
+        "eng": "to comment; criticize",
+        "pinyin": "píng",
+        "chinese": "评",
+        "rate": 859
+    },
+    "屋": {
+        "eng": "house; room",
+        "pinyin": "wū",
+        "chinese": "屋",
+        "rate": 860
+    },
+    "双": {
+        "eng": "pair; double",
+        "pinyin": "shuāng",
+        "chinese": "双",
+        "rate": 861
+    },
+    "牙": {
+        "eng": "tooth",
+        "pinyin": "yá",
+        "chinese": "牙",
+        "rate": 862
+    },
+    "斗": {
+        "eng": "to fight",
+        "pinyin": "dòu",
+        "chinese": "斗",
+        "rate": 863
+    },
+    "鸡": {
+        "eng": "chicken",
+        "pinyin": "jī",
+        "chinese": "鸡",
+        "rate": 864
+    },
+    "审": {
+        "eng": "to examine",
+        "pinyin": "shěn",
+        "chinese": "审",
+        "rate": 865
+    },
+    "南": {
+        "eng": "South",
+        "pinyin": "nán",
+        "chinese": "南",
+        "rate": 866
+    },
+    "速": {
+        "eng": "fast; rapid",
+        "pinyin": "sù",
+        "chinese": "速",
+        "rate": 867
+    },
+    "蠢": {
+        "eng": "stupid",
+        "pinyin": "chǔn ",
+        "chinese": "蠢",
+        "rate": 868
+    },
+    "丈": {
+        "eng": "husband",
+        "pinyin": "zhàng ",
+        "chinese": "丈",
+        "rate": 869
+    },
+    "守": {
+        "eng": "to guard",
+        "pinyin": "shǒu",
+        "chinese": "守",
+        "rate": 870
+    },
+    "获": {
+        "eng": "to capture; to reap",
+        "pinyin": "huò",
+        "chinese": "获",
+        "rate": 871
+    },
+    "八": {
+        "eng": "eight",
+        "pinyin": "bā",
+        "chinese": "八",
+        "rate": 872
+    },
+    "致": {
+        "eng": "fine; delicate",
+        "pinyin": "zhì",
+        "chinese": "致",
+        "rate": 873
+    },
+    "细": {
+        "eng": "thin; fine",
+        "pinyin": "xì",
+        "chinese": "细",
+        "rate": 874
+    },
+    "勒": {
+        "eng": "to rein in; to compel",
+        "pinyin": "lè",
+        "chinese": "勒",
+        "rate": 875
+    },
+    "称": {
+        "eng": "to weigh; name",
+        "pinyin": "chēng",
+        "chinese": "称",
+        "rate": 876
+    },
+    "塔": {
+        "eng": "pagoda; tower",
+        "pinyin": "tǎ",
+        "chinese": "塔",
+        "rate": 877
+    },
+    "丢": {
+        "eng": "to lose",
+        "pinyin": "diū",
+        "chinese": "丢",
+        "rate": 878
+    },
+    "冰": {
+        "eng": "ice",
+        "pinyin": "bīng",
+        "chinese": "冰",
+        "rate": 879
+    },
+    "态": {
+        "eng": "attitude",
+        "pinyin": "tài",
+        "chinese": "态",
+        "rate": 880
+    },
+    "吓": {
+        "eng": "to scare",
+        "pinyin": "xià",
+        "chinese": "吓",
+        "rate": 881
+    },
+    "古": {
+        "eng": "ancient",
+        "pinyin": "gǔ",
+        "chinese": "古",
+        "rate": 882
+    },
+    "亡": {
+        "eng": "to die",
+        "pinyin": "wáng",
+        "chinese": "亡",
+        "rate": 883
+    },
+    "状": {
+        "eng": "suit; strong",
+        "pinyin": "zhuàng",
+        "chinese": "状",
+        "rate": 884
+    },
+    "鲁": {
+        "eng": "foolish, Shandong",
+        "pinyin": "lǔ ",
+        "chinese": "鲁",
+        "rate": 885
+    },
+    "疗": {
+        "eng": "to be healed",
+        "pinyin": "liáo ",
+        "chinese": "疗",
+        "rate": 886
+    },
+    "操": {
+        "eng": "to operate",
+        "pinyin": "cāo",
+        "chinese": "操",
+        "rate": 887
+    },
+    "遗": {
+        "eng": "to lose; to omit",
+        "pinyin": "yí",
+        "chinese": "遗",
+        "rate": 888
+    },
+    "判": {
+        "eng": "to judge",
+        "pinyin": "pàn",
+        "chinese": "判",
+        "rate": 889
+    },
+    "响": {
+        "eng": "sound; noise",
+        "pinyin": "xiǎng",
+        "chinese": "响",
+        "rate": 890
+    },
+    "网": {
+        "eng": "net; network",
+        "pinyin": "wǎng",
+        "chinese": "网",
+        "rate": 891
+    },
+    "箱": {
+        "eng": "box; chest",
+        "pinyin": "xiāng",
+        "chinese": "箱",
+        "rate": 892
+    },
+    "货": {
+        "eng": "goods",
+        "pinyin": "huò",
+        "chinese": "货",
+        "rate": 893
+    },
+    "围": {
+        "eng": "to encircle",
+        "pinyin": "wéi",
+        "chinese": "围",
+        "rate": 894
+    },
+    "签": {
+        "eng": "to sign; label",
+        "pinyin": "qiān",
+        "chinese": "签",
+        "rate": 895
+    },
+    "牌": {
+        "eng": "card; tablet",
+        "pinyin": "pái",
+        "chinese": "牌",
+        "rate": 896
+    },
+    "户": {
+        "eng": "door; household",
+        "pinyin": "hù",
+        "chinese": "户",
+        "rate": 897
+    },
+    "寻": {
+        "eng": "to search",
+        "pinyin": "xún",
+        "chinese": "寻",
+        "rate": 898
+    },
+    "质": {
+        "eng": "character; quality",
+        "pinyin": "zhì",
+        "chinese": "质",
+        "rate": 899
+    },
+    "供": {
+        "eng": "to supply",
+        "pinyin": "gōng",
+        "chinese": "供",
+        "rate": 900
+    },
+    "奖": {
+        "eng": "prize",
+        "pinyin": "jiǎng",
+        "chinese": "奖",
+        "rate": 901
+    },
+    "袋": {
+        "eng": "pocket",
+        "pinyin": "dài ",
+        "chinese": "袋",
+        "rate": 902
+    },
+    "胡": {
+        "eng": "beard; mustache",
+        "pinyin": "hú",
+        "chinese": "胡",
+        "rate": 903
+    },
+    "脏": {
+        "eng": "dirty",
+        "pinyin": "zāng ",
+        "chinese": "脏",
+        "rate": 904
+    },
+    "堂": {
+        "eng": "hall; mw. for furniture sets",
+        "pinyin": "táng",
+        "chinese": "堂",
+        "rate": 905
+    },
+    "曼": {
+        "eng": "extended",
+        "pinyin": "màn ",
+        "chinese": "曼",
+        "rate": 906
+    },
+    "效": {
+        "eng": "effect",
+        "pinyin": "xiào",
+        "chinese": "效",
+        "rate": 907
+    },
+    "露": {
+        "eng": "dew; to reveal",
+        "pinyin": "lù",
+        "chinese": "露",
+        "rate": 908
+    },
+    "替": {
+        "eng": "on behalf",
+        "pinyin": "tì",
+        "chinese": "替",
+        "rate": 909
+    },
+    "娜": {
+        "eng": "elegant; delicate",
+        "pinyin": "nuó",
+        "chinese": "娜",
+        "rate": 910
+    },
+    "座": {
+        "eng": "seat",
+        "pinyin": "zuò",
+        "chinese": "座",
+        "rate": 911
+    },
+    "园": {
+        "eng": "park",
+        "pinyin": "yuán",
+        "chinese": "园",
+        "rate": 912
+    },
+    "拥": {
+        "eng": "to embrace",
+        "pinyin": "yǒng",
+        "chinese": "拥",
+        "rate": 913
+    },
+    "睛": {
+        "eng": "eye; eyeball",
+        "pinyin": "jīng",
+        "chinese": "睛",
+        "rate": 914
+    },
+    "冒": {
+        "eng": "to emit",
+        "pinyin": "mào",
+        "chinese": "冒",
+        "rate": 915
+    },
+    "甜": {
+        "eng": "sweet",
+        "pinyin": "tián ",
+        "chinese": "甜",
+        "rate": 916
+    },
+    "股": {
+        "eng": "portion; thigh",
+        "pinyin": "gǔ",
+        "chinese": "股",
+        "rate": 917
+    },
+    "香": {
+        "eng": "fragrant",
+        "pinyin": "xiāng",
+        "chinese": "香",
+        "rate": 918
+    },
+    "笔": {
+        "eng": "pen; brush",
+        "pinyin": "bǐ",
+        "chinese": "笔",
+        "rate": 919
+    },
+    "沙": {
+        "eng": "sand",
+        "pinyin": "shā",
+        "chinese": "沙",
+        "rate": 920
+    },
+    "扰": {
+        "eng": "to disturb",
+        "pinyin": "rǎo",
+        "chinese": "扰",
+        "rate": 921
+    },
+    "挑": {
+        "eng": "to choose",
+        "pinyin": "tiāo",
+        "chinese": "挑",
+        "rate": 922
+    },
+    "姑": {
+        "eng": "aunt",
+        "pinyin": "gū ",
+        "chinese": "姑",
+        "rate": 923
+    },
+    "爆": {
+        "eng": "to explode",
+        "pinyin": "bào",
+        "chinese": "爆",
+        "rate": 924
+    },
+    "镇": {
+        "eng": "suppress; small town",
+        "pinyin": "zhèn",
+        "chinese": "镇",
+        "rate": 925
+    },
+    "暴": {
+        "eng": "violent; cruel",
+        "pinyin": "bào",
+        "chinese": "暴",
+        "rate": 926
+    },
+    "困": {
+        "eng": "sleepy; difficult",
+        "pinyin": "kùn",
+        "chinese": "困",
+        "rate": 927
+    },
+    "项": {
+        "eng": "item; back of neck",
+        "pinyin": "xiàng",
+        "chinese": "项",
+        "rate": 928
+    },
+    "概": {
+        "eng": "approximate",
+        "pinyin": "gài",
+        "chinese": "概",
+        "rate": 929
+    },
+    "摩": {
+        "eng": "to rub",
+        "pinyin": "mó",
+        "chinese": "摩",
+        "rate": 930
+    },
+    "虽": {
+        "eng": "although",
+        "pinyin": "suī",
+        "chinese": "虽",
+        "rate": 931
+    },
+    "纽": {
+        "eng": "knot; button; knob",
+        "pinyin": "niǔ ",
+        "chinese": "纽",
+        "rate": 932
+    },
+    "享": {
+        "eng": "to enjoy",
+        "pinyin": "xiǎng",
+        "chinese": "享",
+        "rate": 933
+    },
+    "配": {
+        "eng": "to join; to match",
+        "pinyin": "pèi",
+        "chinese": "配",
+        "rate": 934
+    },
+    "迹": {
+        "eng": "traces",
+        "pinyin": "jì ",
+        "chinese": "迹",
+        "rate": 935
+    },
+    "登": {
+        "eng": "to ascend",
+        "pinyin": "dēng",
+        "chinese": "登",
+        "rate": 936
+    },
+    "诞": {
+        "eng": "give birth",
+        "pinyin": "dàn ",
+        "chinese": "诞",
+        "rate": 937
+    },
+    "竟": {
+        "eng": "unexpectedly",
+        "pinyin": "jìng",
+        "chinese": "竟",
+        "rate": 938
+    },
+    "叔": {
+        "eng": "father's younger brother",
+        "pinyin": "shū ",
+        "chinese": "叔",
+        "rate": 939
+    },
+    "捕": {
+        "eng": "to arrest",
+        "pinyin": "bǔ ",
+        "chinese": "捕",
+        "rate": 940
+    },
+    "赌": {
+        "eng": "to gamble",
+        "pinyin": "dǔ ",
+        "chinese": "赌",
+        "rate": 941
+    },
+    "阻": {
+        "eng": "to obstruct",
+        "pinyin": "zǔ",
+        "chinese": "阻",
+        "rate": 942
+    },
+    "彩": {
+        "eng": "color; variety",
+        "pinyin": "cǎi",
+        "chinese": "彩",
+        "rate": 943
+    },
+    "搬": {
+        "eng": "to move (house)",
+        "pinyin": "bān",
+        "chinese": "搬",
+        "rate": 944
+    },
+    "属": {
+        "eng": "category; affiliation",
+        "pinyin": "shǔ",
+        "chinese": "属",
+        "rate": 945
+    },
+    "招": {
+        "eng": "to recruit",
+        "pinyin": "zhāo",
+        "chinese": "招",
+        "rate": 946
+    },
+    "婆": {
+        "eng": "grandmother",
+        "pinyin": "pó",
+        "chinese": "婆",
+        "rate": 947
+    },
+    "巧": {
+        "eng": "opportunely; timely",
+        "pinyin": "qiǎo",
+        "chinese": "巧",
+        "rate": 948
+    },
+    "骨": {
+        "eng": "bone",
+        "pinyin": "gǔ",
+        "chinese": "骨",
+        "rate": 949
+    },
+    "塞": {
+        "eng": "to stop up",
+        "pinyin": "sāi",
+        "chinese": "塞",
+        "rate": 950
+    },
+    "剩": {
+        "eng": "to remain",
+        "pinyin": "shèng",
+        "chinese": "剩",
+        "rate": 951
+    },
+    "酷": {
+        "eng": "ruthless; cool",
+        "pinyin": "kù",
+        "chinese": "酷",
+        "rate": 952
+    },
+    "啡": {
+        "eng": "coffee; morphine",
+        "pinyin": "fēi ",
+        "chinese": "啡",
+        "rate": 953
+    },
+    "课": {
+        "eng": "subject; lesson",
+        "pinyin": "kè",
+        "chinese": "课",
+        "rate": 954
+    },
+    "烟": {
+        "eng": "cigarette; to smoke",
+        "pinyin": "yān",
+        "chinese": "烟",
+        "rate": 955
+    },
+    "摄": {
+        "eng": "to absorb",
+        "pinyin": "shè",
+        "chinese": "摄",
+        "rate": 956
+    },
+    "封": {
+        "eng": "to grant; title",
+        "pinyin": "fēng",
+        "chinese": "封",
+        "rate": 957
+    },
+    "咖": {
+        "eng": "coffee (phonetic)",
+        "pinyin": "kā ",
+        "chinese": "咖",
+        "rate": 958
+    },
+    "低": {
+        "eng": "low; beneath",
+        "pinyin": "dī",
+        "chinese": "低",
+        "rate": 959
+    },
+    "技": {
+        "eng": "skill",
+        "pinyin": "jì",
+        "chinese": "技",
+        "rate": 960
+    },
+    "迟": {
+        "eng": "late; slow",
+        "pinyin": "chí ",
+        "chinese": "迟",
+        "rate": 961
+    },
+    "纸": {
+        "eng": "paper",
+        "pinyin": "zhǐ",
+        "chinese": "纸",
+        "rate": 962
+    },
+    "烧": {
+        "eng": "to cook; roast/bake",
+        "pinyin": "shāo",
+        "chinese": "烧",
+        "rate": 963
+    },
+    "委": {
+        "eng": "to entrust",
+        "pinyin": "wěi",
+        "chinese": "委",
+        "rate": 964
+    },
+    "暗": {
+        "eng": "dark; gloomy",
+        "pinyin": "àn",
+        "chinese": "暗",
+        "rate": 965
+    },
+    "左": {
+        "eng": "left",
+        "pinyin": "zuǒ",
+        "chinese": "左",
+        "rate": 966
+    },
+    "输": {
+        "eng": "to lose",
+        "pinyin": "shū",
+        "chinese": "输",
+        "rate": 967
+    },
+    "曲": {
+        "eng": "song; tune",
+        "pinyin": "qǔ",
+        "chinese": "曲",
+        "rate": 968
+    },
+    "仍": {
+        "eng": "still; yet",
+        "pinyin": "réng",
+        "chinese": "仍",
+        "rate": 969
+    },
+    "训": {
+        "eng": "to tell; to teach",
+        "pinyin": "xùn",
+        "chinese": "训",
+        "rate": 970
+    },
+    "借": {
+        "eng": "to lend; to borrow",
+        "pinyin": "jiè",
+        "chinese": "借",
+        "rate": 971
+    },
+    "扔": {
+        "eng": "to throw",
+        "pinyin": "rēng ",
+        "chinese": "扔",
+        "rate": 972
+    },
+    "善": {
+        "eng": "virtuous; kind",
+        "pinyin": "shàn",
+        "chinese": "善",
+        "rate": 973
+    },
+    "社": {
+        "eng": "society",
+        "pinyin": "shè",
+        "chinese": "社",
+        "rate": 974
+    },
+    "轮": {
+        "eng": "wheel; by turns",
+        "pinyin": "lún",
+        "chinese": "轮",
+        "rate": 975
+    },
+    "顶": {
+        "eng": "apex; to replace",
+        "pinyin": "dǐng",
+        "chinese": "顶",
+        "rate": 976
+    },
+    "聪": {
+        "eng": "intelligent",
+        "pinyin": "cōng",
+        "chinese": "聪",
+        "rate": 977
+    },
+    "秀": {
+        "eng": "handsome; elegant",
+        "pinyin": "xiù",
+        "chinese": "秀",
+        "rate": 978
+    },
+    "刀": {
+        "eng": "knife",
+        "pinyin": "dāo",
+        "chinese": "刀",
+        "rate": 979
+    },
+    "莫": {
+        "eng": "do not",
+        "pinyin": "mò",
+        "chinese": "莫",
+        "rate": 980
+    },
+    "腿": {
+        "eng": "legs; thighs",
+        "pinyin": "tuǐ ",
+        "chinese": "腿",
+        "rate": 981
+    },
+    "族": {
+        "eng": "race; nationality",
+        "pinyin": "zú",
+        "chinese": "族",
+        "rate": 982
+    },
+    "鞋": {
+        "eng": "shoes",
+        "pinyin": "xié ",
+        "chinese": "鞋",
+        "rate": 983
+    },
+    "兵": {
+        "eng": "soldiers",
+        "pinyin": "bīng",
+        "chinese": "兵",
+        "rate": 984
+    },
+    "锁": {
+        "eng": "lock",
+        "pinyin": "suǒ",
+        "chinese": "锁",
+        "rate": 985
+    },
+    "妮": {
+        "eng": "girl",
+        "pinyin": "nī ",
+        "chinese": "妮",
+        "rate": 986
+    },
+    "异": {
+        "eng": "different; other",
+        "pinyin": "yì",
+        "chinese": "异",
+        "rate": 987
+    },
+    "誓": {
+        "eng": "swear; oath",
+        "pinyin": "shì ",
+        "chinese": "誓",
+        "rate": 988
+    },
+    "树": {
+        "eng": "tree",
+        "pinyin": "shù",
+        "chinese": "树",
+        "rate": 989
+    },
+    "木": {
+        "eng": "tree; wood",
+        "pinyin": "mù",
+        "chinese": "木",
+        "rate": 990
+    },
+    "抢": {
+        "eng": "to plunder",
+        "pinyin": "qiǎng ",
+        "chinese": "抢",
+        "rate": 991
+    },
+    "档": {
+        "eng": "grade (of goods); shelves",
+        "pinyin": "dǎng",
+        "chinese": "档",
+        "rate": 992
+    },
+    "雇": {
+        "eng": "to employ",
+        "pinyin": "gù ",
+        "chinese": "雇",
+        "rate": 993
+    },
+    "广": {
+        "eng": "wide",
+        "pinyin": "guǎng",
+        "chinese": "广",
+        "rate": 994
+    },
+    "丹": {
+        "eng": "cinnabar",
+        "pinyin": "dān ",
+        "chinese": "丹",
+        "rate": 995
+    },
+    "银": {
+        "eng": "silver",
+        "pinyin": "yín",
+        "chinese": "银",
+        "rate": 996
+    },
+    "镜": {
+        "eng": "mirror",
+        "pinyin": "jìng",
+        "chinese": "镜",
+        "rate": 997
+    },
+    "群": {
+        "eng": "group",
+        "pinyin": "qún",
+        "chinese": "群",
+        "rate": 998
+    },
+    "坦": {
+        "eng": "flat; smooth",
+        "pinyin": "tǎn ",
+        "chinese": "坦",
+        "rate": 999
+    },
+    "汉": {
+        "eng": "Han people",
+        "pinyin": "hàn",
+        "chinese": "汉",
+        "rate": 1000
+    },
+    "土": {
+        "eng": "earth",
+        "pinyin": "tǔ",
+        "chinese": "土",
+        "rate": 1001
+    },
+    "短": {
+        "eng": "short; brief",
+        "pinyin": "duǎn",
+        "chinese": "短",
+        "rate": 1002
+    },
+    "伴": {
+        "eng": "partner",
+        "pinyin": "bàn",
+        "chinese": "伴",
+        "rate": 1003
+    },
+    "播": {
+        "eng": "to scatter",
+        "pinyin": "bō",
+        "chinese": "播",
+        "rate": 1004
+    },
+    "环": {
+        "eng": "ring; to circle",
+        "pinyin": "huán",
+        "chinese": "环",
+        "rate": 1005
+    },
+    "恨": {
+        "eng": "to hate",
+        "pinyin": "hèn",
+        "chinese": "恨",
+        "rate": 1006
+    },
+    "移": {
+        "eng": "to move; to alter",
+        "pinyin": "yí",
+        "chinese": "移",
+        "rate": 1007
+    },
+    "编": {
+        "eng": "to organize; to compile",
+        "pinyin": "biān",
+        "chinese": "编",
+        "rate": 1008
+    },
+    "温": {
+        "eng": "warm",
+        "pinyin": "wēn",
+        "chinese": "温",
+        "rate": 1009
+    },
+    "刺": {
+        "eng": "to stab; to pierce",
+        "pinyin": "cì",
+        "chinese": "刺",
+        "rate": 1010
+    },
+    "毫": {
+        "eng": "fine hair",
+        "pinyin": "háo ",
+        "chinese": "毫",
+        "rate": 1011
+    },
+    "右": {
+        "eng": "right",
+        "pinyin": "yòu",
+        "chinese": "右",
+        "rate": 1012
+    },
+    "野": {
+        "eng": "field; wild",
+        "pinyin": "yě",
+        "chinese": "野",
+        "rate": 1013
+    },
+    "哭": {
+        "eng": "to cry",
+        "pinyin": "kū",
+        "chinese": "哭",
+        "rate": 1014
+    },
+    "遍": {
+        "eng": "everywhere; all over",
+        "pinyin": "biàn",
+        "chinese": "遍",
+        "rate": 1015
+    },
+    "库": {
+        "eng": "warehouse",
+        "pinyin": "kù",
+        "chinese": "库",
+        "rate": 1016
+    },
+    "搭": {
+        "eng": "to put up",
+        "pinyin": "dā",
+        "chinese": "搭",
+        "rate": 1017
+    },
+    "康": {
+        "eng": "healthy",
+        "pinyin": "kāng",
+        "chinese": "康",
+        "rate": 1018
+    },
+    "症": {
+        "eng": "disease; illness",
+        "pinyin": "zhèng",
+        "chinese": "症",
+        "rate": 1019
+    },
+    "荣": {
+        "eng": "glory; honor",
+        "pinyin": "róng",
+        "chinese": "荣",
+        "rate": 1020
+    },
+    "充": {
+        "eng": "to fill; to satisfy",
+        "pinyin": "chōng",
+        "chinese": "充",
+        "rate": 1021
+    },
+    "创": {
+        "eng": "a wound",
+        "pinyin": "chuāng",
+        "chinese": "创",
+        "rate": 1022
+    },
+    "尝": {
+        "eng": "taste; experience",
+        "pinyin": "cháng ",
+        "chinese": "尝",
+        "rate": 1023
+    },
+    "列": {
+        "eng": "to arrange; list",
+        "pinyin": "liè",
+        "chinese": "列",
+        "rate": 1024
+    },
+    "毕": {
+        "eng": "the whole of; to finish",
+        "pinyin": "bì",
+        "chinese": "毕",
+        "rate": 1025
+    },
+    "般": {
+        "eng": "sort; kind",
+        "pinyin": "bān",
+        "chinese": "般",
+        "rate": 1026
+    },
+    "聚": {
+        "eng": "to assemble",
+        "pinyin": "jù",
+        "chinese": "聚",
+        "rate": 1027
+    },
+    "劳": {
+        "eng": "to toil",
+        "pinyin": "láo",
+        "chinese": "劳",
+        "rate": 1028
+    },
+    "攻": {
+        "eng": "to attack",
+        "pinyin": "gōng",
+        "chinese": "攻",
+        "rate": 1029
+    },
+    "忍": {
+        "eng": "to endure",
+        "pinyin": "rěn",
+        "chinese": "忍",
+        "rate": 1030
+    },
+    "势": {
+        "eng": "power; potential",
+        "pinyin": "shì",
+        "chinese": "势",
+        "rate": 1031
+    },
+    "尊": {
+        "eng": "senior; to honor",
+        "pinyin": "zūn",
+        "chinese": "尊",
+        "rate": 1032
+    },
+    "吻": {
+        "eng": "kiss; lips",
+        "pinyin": "wěn ",
+        "chinese": "吻",
+        "rate": 1033
+    },
+    "汤": {
+        "eng": "soup; hot water",
+        "pinyin": "tāng",
+        "chinese": "汤",
+        "rate": 1034
+    },
+    "优": {
+        "eng": "excellent",
+        "pinyin": "yōu",
+        "chinese": "优",
+        "rate": 1035
+    },
+    "境": {
+        "eng": "border; place",
+        "pinyin": "jìng",
+        "chinese": "境",
+        "rate": 1036
+    },
+    "蒙": {
+        "eng": "cover; ignorant",
+        "pinyin": "méng",
+        "chinese": "蒙",
+        "rate": 1037
+    },
+    "偶": {
+        "eng": "accidental",
+        "pinyin": "ǒu",
+        "chinese": "偶",
+        "rate": 1038
+    },
+    "熟": {
+        "eng": "cooked; ripe; familiar",
+        "pinyin": "shú",
+        "chinese": "熟",
+        "rate": 1039
+    },
+    "营": {
+        "eng": "camp; barracks",
+        "pinyin": "yíng",
+        "chinese": "营",
+        "rate": 1040
+    },
+    "苏": {
+        "eng": "to revive",
+        "pinyin": "sū",
+        "chinese": "苏",
+        "rate": 1041
+    },
+    "爷": {
+        "eng": "father; grandfather",
+        "pinyin": "yé ",
+        "chinese": "爷",
+        "rate": 1042
+    },
+    "微": {
+        "eng": "tiny",
+        "pinyin": "wēi",
+        "chinese": "微",
+        "rate": 1043
+    },
+    "埃": {
+        "eng": "fine dust; dirt",
+        "pinyin": "āi ",
+        "chinese": "埃",
+        "rate": 1044
+    },
+    "抽": {
+        "eng": "to draw out",
+        "pinyin": "chōu",
+        "chinese": "抽",
+        "rate": 1045
+    },
+    "盖": {
+        "eng": "lid; cover",
+        "pinyin": "gài",
+        "chinese": "盖",
+        "rate": 1046
+    },
+    "灯": {
+        "eng": "light; lamp",
+        "pinyin": "dēng",
+        "chinese": "灯",
+        "rate": 1047
+    },
+    "莎": {
+        "eng": "sedge grass",
+        "pinyin": "shā",
+        "chinese": "莎",
+        "rate": 1048
+    },
+    "府": {
+        "eng": "seat of power",
+        "pinyin": "fǔ",
+        "chinese": "府",
+        "rate": 1049
+    },
+    "透": {
+        "eng": "to penetrate",
+        "pinyin": "tòu",
+        "chinese": "透",
+        "rate": 1050
+    },
+    "魂": {
+        "eng": "soul; spirit",
+        "pinyin": "hún",
+        "chinese": "魂",
+        "rate": 1051
+    },
+    "艺": {
+        "eng": "skill; art",
+        "pinyin": "yì",
+        "chinese": "艺",
+        "rate": 1052
+    },
+    "掌": {
+        "eng": "palm of hand",
+        "pinyin": "zhǎng",
+        "chinese": "掌",
+        "rate": 1053
+    },
+    "啥": {
+        "eng": "what?",
+        "pinyin": "shà",
+        "chinese": "啥",
+        "rate": 1054
+    },
+    "升": {
+        "eng": "to ascend; promote",
+        "pinyin": "shēng",
+        "chinese": "升",
+        "rate": 1055
+    },
+    "裤": {
+        "eng": "trousers",
+        "pinyin": "kù ",
+        "chinese": "裤",
+        "rate": 1056
+    },
+    "临": {
+        "eng": "to face",
+        "pinyin": "lín",
+        "chinese": "临",
+        "rate": 1057
+    },
+    "智": {
+        "eng": "wisdom",
+        "pinyin": "zhì",
+        "chinese": "智",
+        "rate": 1058
+    },
+    "盘": {
+        "eng": "plate",
+        "pinyin": "pán",
+        "chinese": "盘",
+        "rate": 1059
+    },
+    "研": {
+        "eng": "study; research",
+        "pinyin": "yán",
+        "chinese": "研",
+        "rate": 1060
+    },
+    "菲": {
+        "eng": "fragrant; luxuriant",
+        "pinyin": "fēi ",
+        "chinese": "菲",
+        "rate": 1061
+    },
+    "归": {
+        "eng": "to return",
+        "pinyin": "guī",
+        "chinese": "归",
+        "rate": 1062
+    },
+    "撞": {
+        "eng": "to hit",
+        "pinyin": "zhuàng",
+        "chinese": "撞",
+        "rate": 1063
+    },
+    "隐": {
+        "eng": "secret",
+        "pinyin": "yǐn",
+        "chinese": "隐",
+        "rate": 1064
+    },
+    "附": {
+        "eng": "to be close to; to add",
+        "pinyin": "fù",
+        "chinese": "附",
+        "rate": 1065
+    },
+    "搜": {
+        "eng": "to seek",
+        "pinyin": "sōu ",
+        "chinese": "搜",
+        "rate": 1066
+    },
+    "摆": {
+        "eng": "to arrange",
+        "pinyin": "bǎi",
+        "chinese": "摆",
+        "rate": 1067
+    },
+    "散": {
+        "eng": "to scatter",
+        "pinyin": "sàn",
+        "chinese": "散",
+        "rate": 1068
+    },
+    "阳": {
+        "eng": "male; sun",
+        "pinyin": "yáng",
+        "chinese": "阳",
+        "rate": 1069
+    },
+    "协": {
+        "eng": "to cooperate",
+        "pinyin": "xié",
+        "chinese": "协",
+        "rate": 1070
+    },
+    "租": {
+        "eng": "to hire",
+        "pinyin": "zū",
+        "chinese": "租",
+        "rate": 1071
+    },
+    "泰": {
+        "eng": "safe; grand",
+        "pinyin": "tài",
+        "chinese": "泰",
+        "rate": 1072
+    },
+    "岛": {
+        "eng": "island",
+        "pinyin": "dǎo",
+        "chinese": "岛",
+        "rate": 1073
+    },
+    "健": {
+        "eng": "healthy",
+        "pinyin": "jiàn",
+        "chinese": "健",
+        "rate": 1074
+    },
+    "饼": {
+        "eng": "biscuits",
+        "pinyin": "bǐng ",
+        "chinese": "饼",
+        "rate": 1075
+    },
+    "较": {
+        "eng": "comparatively",
+        "pinyin": "jiào",
+        "chinese": "较",
+        "rate": 1076
+    },
+    "避": {
+        "eng": "to flee; to avoid",
+        "pinyin": "bì",
+        "chinese": "避",
+        "rate": 1077
+    },
+    "猫": {
+        "eng": "cat",
+        "pinyin": "māo",
+        "chinese": "猫",
+        "rate": 1078
+    },
+    "七": {
+        "eng": "seven",
+        "pinyin": "qī",
+        "chinese": "七",
+        "rate": 1079
+    },
+    "菜": {
+        "eng": "dish; cuisine; vegetable",
+        "pinyin": "cài",
+        "chinese": "菜",
+        "rate": 1080
+    },
+    "糖": {
+        "eng": "sugar; sweets",
+        "pinyin": "táng ",
+        "chinese": "糖",
+        "rate": 1081
+    },
+    "痴": {
+        "eng": "imbecile",
+        "pinyin": "chī",
+        "chinese": "痴",
+        "rate": 1082
+    },
+    "富": {
+        "eng": "rich; abundant",
+        "pinyin": "fù",
+        "chinese": "富",
+        "rate": 1083
+    },
+    "降": {
+        "eng": "to drop; descend",
+        "pinyin": "jiàng",
+        "chinese": "降",
+        "rate": 1084
+    },
+    "怜": {
+        "eng": "to pity",
+        "pinyin": "lián",
+        "chinese": "怜",
+        "rate": 1085
+    },
+    "既": {
+        "eng": "already; both…",
+        "pinyin": "jì",
+        "chinese": "既",
+        "rate": 1086
+    },
+    "织": {
+        "eng": "to weave",
+        "pinyin": "zhī",
+        "chinese": "织",
+        "rate": 1087
+    },
+    "执": {
+        "eng": "to execute; to grasp",
+        "pinyin": "zhí",
+        "chinese": "执",
+        "rate": 1088
+    },
+    "戒": {
+        "eng": "to warn",
+        "pinyin": "jiè ",
+        "chinese": "戒",
+        "rate": 1089
+    },
+    "佛": {
+        "eng": "Buddha",
+        "pinyin": "fó",
+        "chinese": "佛",
+        "rate": 1090
+    },
+    "抗": {
+        "eng": "to resist; anti-",
+        "pinyin": "kàng",
+        "chinese": "抗",
+        "rate": 1091
+    },
+    "笨": {
+        "eng": "stupid",
+        "pinyin": "bèn",
+        "chinese": "笨",
+        "rate": 1092
+    },
+    "航": {
+        "eng": "boat; to sail",
+        "pinyin": "háng",
+        "chinese": "航",
+        "rate": 1093
+    },
+    "妙": {
+        "eng": "wonderful",
+        "pinyin": "miào",
+        "chinese": "妙",
+        "rate": 1094
+    },
+    "迈": {
+        "eng": "to pass by",
+        "pinyin": "mài ",
+        "chinese": "迈",
+        "rate": 1095
+    },
+    "耳": {
+        "eng": "ear",
+        "pinyin": "ěr",
+        "chinese": "耳",
+        "rate": 1096
+    },
+    "匙": {
+        "eng": "spoon",
+        "pinyin": "chí ",
+        "chinese": "匙",
+        "rate": 1097
+    },
+    "宣": {
+        "eng": "to announce",
+        "pinyin": "xuān",
+        "chinese": "宣",
+        "rate": 1098
+    },
+    "烂": {
+        "eng": "soft; rotten",
+        "pinyin": "làn",
+        "chinese": "烂",
+        "rate": 1099
+    },
+    "秒": {
+        "eng": "a second",
+        "pinyin": "miǎo ",
+        "chinese": "秒",
+        "rate": 1100
+    },
+    "挂": {
+        "eng": "to hang; to register",
+        "pinyin": "guà",
+        "chinese": "挂",
+        "rate": 1101
+    },
+    "旁": {
+        "eng": "beside; side",
+        "pinyin": "páng",
+        "chinese": "旁",
+        "rate": 1102
+    },
+    "勇": {
+        "eng": "brave",
+        "pinyin": "yǒng",
+        "chinese": "勇",
+        "rate": 1103
+    },
+    "钥": {
+        "eng": "key; lock",
+        "pinyin": "yào/yuè ",
+        "chinese": "钥",
+        "rate": 1104
+    },
+    "悲": {
+        "eng": "sorrow",
+        "pinyin": "bēi",
+        "chinese": "悲",
+        "rate": 1105
+    },
+    "妇": {
+        "eng": "married woman",
+        "pinyin": "fù ",
+        "chinese": "妇",
+        "rate": 1106
+    },
+    "圈": {
+        "eng": "ring; to circle",
+        "pinyin": "quān",
+        "chinese": "圈",
+        "rate": 1107
+    },
+    "敬": {
+        "eng": "to respect",
+        "pinyin": "jìng",
+        "chinese": "敬",
+        "rate": 1108
+    },
+    "劲": {
+        "eng": "strong; tough",
+        "pinyin": "jìn/jìng ",
+        "chinese": "劲",
+        "rate": 1109
+    },
+    "帕": {
+        "eng": "turban; veil",
+        "pinyin": "pà ",
+        "chinese": "帕",
+        "rate": 1110
+    },
+    "草": {
+        "eng": "grass",
+        "pinyin": "cǎo",
+        "chinese": "草",
+        "rate": 1111
+    },
+    "醉": {
+        "eng": "intoxicated",
+        "pinyin": "zuì",
+        "chinese": "醉",
+        "rate": 1112
+    },
+    "绑": {
+        "eng": "to tie",
+        "pinyin": "bǎng ",
+        "chinese": "绑",
+        "rate": 1113
+    },
+    "层": {
+        "eng": "layer; floor (of building)",
+        "pinyin": "céng",
+        "chinese": "层",
+        "rate": 1114
+    },
+    "吵": {
+        "eng": "to quarrel",
+        "pinyin": "chǎo",
+        "chinese": "吵",
+        "rate": 1115
+    },
+    "龙": {
+        "eng": "dragon",
+        "pinyin": "lóng",
+        "chinese": "龙",
+        "rate": 1116
+    },
+    "挥": {
+        "eng": "to wave; to disperse",
+        "pinyin": "huī",
+        "chinese": "挥",
+        "rate": 1117
+    },
+    "奋": {
+        "eng": "to strive",
+        "pinyin": "fèn ",
+        "chinese": "奋",
+        "rate": 1118
+    },
+    "忆": {
+        "eng": "to remember",
+        "pinyin": "yì",
+        "chinese": "忆",
+        "rate": 1119
+    },
+    "折": {
+        "eng": "to break; to turn",
+        "pinyin": "zhé",
+        "chinese": "折",
+        "rate": 1120
+    },
+    "彼": {
+        "eng": "that; those",
+        "pinyin": "bǐ",
+        "chinese": "彼",
+        "rate": 1121
+    },
+    "末": {
+        "eng": "tip; final",
+        "pinyin": "mò",
+        "chinese": "末",
+        "rate": 1122
+    },
+    "北": {
+        "eng": "North",
+        "pinyin": "běi",
+        "chinese": "北",
+        "rate": 1123
+    },
+    "景": {
+        "eng": "scenery",
+        "pinyin": "jǐng",
+        "chinese": "景",
+        "rate": 1124
+    },
+    "沃": {
+        "eng": "to irrigate",
+        "pinyin": "wò ",
+        "chinese": "沃",
+        "rate": 1125
+    },
+    "废": {
+        "eng": "to abolish",
+        "pinyin": "fèi",
+        "chinese": "废",
+        "rate": 1126
+    },
+    "副": {
+        "eng": "secondary; vice-",
+        "pinyin": "fù",
+        "chinese": "副",
+        "rate": 1127
+    },
+    "默": {
+        "eng": "silent",
+        "pinyin": "mò",
+        "chinese": "默",
+        "rate": 1128
+    },
+    "铁": {
+        "eng": "iron",
+        "pinyin": "tiě",
+        "chinese": "铁",
+        "rate": 1129
+    },
+    "初": {
+        "eng": "at first",
+        "pinyin": "chū",
+        "chinese": "初",
+        "rate": 1130
+    },
+    "雪": {
+        "eng": "snow",
+        "pinyin": "xuě",
+        "chinese": "雪",
+        "rate": 1131
+    },
+    "瓦": {
+        "eng": "tile; pottery",
+        "pinyin": "wǎ ",
+        "chinese": "瓦",
+        "rate": 1132
+    },
+    "素": {
+        "eng": "raw silk; nature",
+        "pinyin": "sù",
+        "chinese": "素",
+        "rate": 1133
+    },
+    "禁": {
+        "eng": "to prohibit",
+        "pinyin": "jìn",
+        "chinese": "禁",
+        "rate": 1134
+    },
+    "诚": {
+        "eng": "honest; sincere",
+        "pinyin": "chéng",
+        "chinese": "诚",
+        "rate": 1135
+    },
+    "黄": {
+        "eng": "yellow",
+        "pinyin": "huáng",
+        "chinese": "黄",
+        "rate": 1136
+    },
+    "敌": {
+        "eng": "enemy; to resist",
+        "pinyin": "dí",
+        "chinese": "敌",
+        "rate": 1137
+    },
+    "夏": {
+        "eng": "Summer",
+        "pinyin": "xià",
+        "chinese": "夏",
+        "rate": 1138
+    },
+    "贵": {
+        "eng": "expensive",
+        "pinyin": "guì",
+        "chinese": "贵",
+        "rate": 1139
+    },
+    "欧": {
+        "eng": "Europe",
+        "pinyin": "ōu",
+        "chinese": "欧",
+        "rate": 1140
+    },
+    "旦": {
+        "eng": "dawn",
+        "pinyin": "dàn ",
+        "chinese": "旦",
+        "rate": 1141
+    },
+    "依": {
+        "eng": "to depend on",
+        "pinyin": "yī",
+        "chinese": "依",
+        "rate": 1142
+    },
+    "谅": {
+        "eng": "to forgive",
+        "pinyin": "liàng",
+        "chinese": "谅",
+        "rate": 1143
+    },
+    "桌": {
+        "eng": "table",
+        "pinyin": "zhuō",
+        "chinese": "桌",
+        "rate": 1144
+    },
+    "雄": {
+        "eng": "male; grand",
+        "pinyin": "xióng",
+        "chinese": "雄",
+        "rate": 1145
+    },
+    "丁": {
+        "eng": "male adult; robust",
+        "pinyin": "dīng",
+        "chinese": "丁",
+        "rate": 1146
+    },
+    "舒": {
+        "eng": "leisurely; to stretch",
+        "pinyin": "shū",
+        "chinese": "舒",
+        "rate": 1147
+    },
+    "粉": {
+        "eng": "powder",
+        "pinyin": "fěn ",
+        "chinese": "粉",
+        "rate": 1148
+    },
+    "旧": {
+        "eng": "old",
+        "pinyin": "jiù",
+        "chinese": "旧",
+        "rate": 1149
+    },
+    "朝": {
+        "eng": "dynasty",
+        "pinyin": "cháo",
+        "chinese": "朝",
+        "rate": 1150
+    },
+    "厅": {
+        "eng": "hall",
+        "pinyin": "tīng",
+        "chinese": "厅",
+        "rate": 1151
+    },
+    "恭": {
+        "eng": "polite",
+        "pinyin": "gōng",
+        "chinese": "恭",
+        "rate": 1152
+    },
+    "汽": {
+        "eng": "steam",
+        "pinyin": "qì",
+        "chinese": "汽",
+        "rate": 1153
+    },
+    "补": {
+        "eng": "to make up for",
+        "pinyin": "bǔ",
+        "chinese": "补",
+        "rate": 1154
+    },
+    "徒": {
+        "eng": "apprentice",
+        "pinyin": "tú",
+        "chinese": "徒",
+        "rate": 1155
+    },
+    "稍": {
+        "eng": "somewhat; a little",
+        "pinyin": "shāo",
+        "chinese": "稍",
+        "rate": 1156
+    },
+    "摇": {
+        "eng": "to shake",
+        "pinyin": "yáo",
+        "chinese": "摇",
+        "rate": 1157
+    },
+    "躲": {
+        "eng": "to hide",
+        "pinyin": "duǒ ",
+        "chinese": "躲",
+        "rate": 1158
+    },
+    "窗": {
+        "eng": "window",
+        "pinyin": "chuāng",
+        "chinese": "窗",
+        "rate": 1159
+    },
+    "源": {
+        "eng": "source; origin",
+        "pinyin": "yuán",
+        "chinese": "源",
+        "rate": 1160
+    },
+    "蓝": {
+        "eng": "blue",
+        "pinyin": "lán",
+        "chinese": "蓝",
+        "rate": 1161
+    },
+    "章": {
+        "eng": "chapter",
+        "pinyin": "zhāng",
+        "chinese": "章",
+        "rate": 1162
+    },
+    "灭": {
+        "eng": "to extinguish",
+        "pinyin": "miè",
+        "chinese": "灭",
+        "rate": 1163
+    },
+    "疼": {
+        "eng": "aches; pains",
+        "pinyin": "téng ",
+        "chinese": "疼",
+        "rate": 1164
+    },
+    "孤": {
+        "eng": "lonely",
+        "pinyin": "gū",
+        "chinese": "孤",
+        "rate": 1165
+    },
+    "滑": {
+        "eng": "to slip; cunning",
+        "pinyin": "huá",
+        "chinese": "滑",
+        "rate": 1166
+    },
+    "碎": {
+        "eng": "to break; broken",
+        "pinyin": "suì ",
+        "chinese": "碎",
+        "rate": 1167
+    },
+    "弱": {
+        "eng": "weak",
+        "pinyin": "ruò",
+        "chinese": "弱",
+        "rate": 1168
+    },
+    "仔": {
+        "eng": "meticulous; young",
+        "pinyin": "zǐ",
+        "chinese": "仔",
+        "rate": 1169
+    },
+    "款": {
+        "eng": "section",
+        "pinyin": "kuǎn",
+        "chinese": "款",
+        "rate": 1170
+    },
+    "拒": {
+        "eng": "to resist",
+        "pinyin": "jù",
+        "chinese": "拒",
+        "rate": 1171
+    },
+    "河": {
+        "eng": "river",
+        "pinyin": "hé",
+        "chinese": "河",
+        "rate": 1172
+    },
+    "伍": {
+        "eng": "to associate with",
+        "pinyin": "wǔ",
+        "chinese": "伍",
+        "rate": 1173
+    },
+    "纹": {
+        "eng": "line; streak",
+        "pinyin": "wén ",
+        "chinese": "纹",
+        "rate": 1174
+    },
+    "臭": {
+        "eng": "smell; stink",
+        "pinyin": "chòu",
+        "chinese": "臭",
+        "rate": 1175
+    },
+    "幻": {
+        "eng": "fantasy",
+        "pinyin": "huàn",
+        "chinese": "幻",
+        "rate": 1176
+    },
+    "童": {
+        "eng": "child",
+        "pinyin": "tóng",
+        "chinese": "童",
+        "rate": 1177
+    },
+    "翰": {
+        "eng": "writing brush",
+        "pinyin": "hàn ",
+        "chinese": "翰",
+        "rate": 1178
+    },
+    "闪": {
+        "eng": "to dodge; flash",
+        "pinyin": "shǎn",
+        "chinese": "闪",
+        "rate": 1179
+    },
+    "残": {
+        "eng": "to injure; cruel",
+        "pinyin": "cán",
+        "chinese": "残",
+        "rate": 1180
+    },
+    "鸟": {
+        "eng": "bird",
+        "pinyin": "niǎo",
+        "chinese": "鸟",
+        "rate": 1181
+    },
+    "骑": {
+        "eng": "to ride",
+        "pinyin": "qí",
+        "chinese": "骑",
+        "rate": 1182
+    },
+    "翻": {
+        "eng": "to translate; to flip",
+        "pinyin": "fān",
+        "chinese": "翻",
+        "rate": 1183
+    },
+    "洲": {
+        "eng": "continent; island",
+        "pinyin": "zhōu",
+        "chinese": "洲",
+        "rate": 1184
+    },
+    "沉": {
+        "eng": "to submerge; sink",
+        "pinyin": "chén",
+        "chinese": "沉",
+        "rate": 1185
+    },
+    "饿": {
+        "eng": "hungry",
+        "pinyin": "è ",
+        "chinese": "饿",
+        "rate": 1186
+    },
+    "砸": {
+        "eng": "to smash",
+        "pinyin": "zá ",
+        "chinese": "砸",
+        "rate": 1187
+    },
+    "互": {
+        "eng": "mutual",
+        "pinyin": "hù",
+        "chinese": "互",
+        "rate": 1188
+    },
+    "卷": {
+        "eng": "roll; to roll up",
+        "pinyin": "juǎn",
+        "chinese": "卷",
+        "rate": 1189
+    },
+    "拖": {
+        "eng": "to drag",
+        "pinyin": "tuō",
+        "chinese": "拖",
+        "rate": 1190
+    },
+    "瓜": {
+        "eng": "melon",
+        "pinyin": "guā",
+        "chinese": "瓜",
+        "rate": 1191
+    },
+    "例": {
+        "eng": "example; case",
+        "pinyin": "lì",
+        "chinese": "例",
+        "rate": 1192
+    },
+    "财": {
+        "eng": "money; wealth",
+        "pinyin": "cái",
+        "chinese": "财",
+        "rate": 1193
+    },
+    "瓶": {
+        "eng": "bottle; vase",
+        "pinyin": "píng",
+        "chinese": "瓶",
+        "rate": 1194
+    },
+    "墙": {
+        "eng": "wall",
+        "pinyin": "qiáng ",
+        "chinese": "墙",
+        "rate": 1195
+    },
+    "拳": {
+        "eng": "fist; boxing",
+        "pinyin": "quán",
+        "chinese": "拳",
+        "rate": 1196
+    },
+    "牢": {
+        "eng": "prison; stable",
+        "pinyin": "láo ",
+        "chinese": "牢",
+        "rate": 1197
+    },
+    "典": {
+        "eng": "dictionary; law",
+        "pinyin": "diǎn",
+        "chinese": "典",
+        "rate": 1198
+    },
+    "垃": {
+        "eng": "waste",
+        "pinyin": "lā ",
+        "chinese": "垃",
+        "rate": 1199
+    },
+    "染": {
+        "eng": "to dye; to acquire",
+        "pinyin": "rǎn",
+        "chinese": "染",
+        "rate": 1200
+    },
+    "漫": {
+        "eng": "free; to inundate",
+        "pinyin": "màn",
+        "chinese": "漫",
+        "rate": 1201
+    },
+    "触": {
+        "eng": "to touch",
+        "pinyin": "chù",
+        "chinese": "触",
+        "rate": 1202
+    },
+    "胁": {
+        "eng": "ribs; to threaten",
+        "pinyin": "xié ",
+        "chinese": "胁",
+        "rate": 1203
+    },
+    "圾": {
+        "eng": "garbage",
+        "pinyin": "jī ",
+        "chinese": "圾",
+        "rate": 1204
+    },
+    "施": {
+        "eng": "to grant",
+        "pinyin": "shī",
+        "chinese": "施",
+        "rate": 1205
+    },
+    "胸": {
+        "eng": "breast; chest",
+        "pinyin": "xiōng ",
+        "chinese": "胸",
+        "rate": 1206
+    },
+    "阴": {
+        "eng": "cloudy; female",
+        "pinyin": "yīn",
+        "chinese": "阴",
+        "rate": 1207
+    },
+    "孕": {
+        "eng": "be pregnant",
+        "pinyin": "yùn ",
+        "chinese": "孕",
+        "rate": 1208
+    },
+    "惹": {
+        "eng": "to irritate",
+        "pinyin": "rě ",
+        "chinese": "惹",
+        "rate": 1209
+    },
+    "硬": {
+        "eng": "hard",
+        "pinyin": "yìng",
+        "chinese": "硬",
+        "rate": 1210
+    },
+    "逮": {
+        "eng": "to seize",
+        "pinyin": "dài ",
+        "chinese": "逮",
+        "rate": 1211
+    },
+    "销": {
+        "eng": "to melt",
+        "pinyin": "xiāo",
+        "chinese": "销",
+        "rate": 1212
+    },
+    "邦": {
+        "eng": "country; nation",
+        "pinyin": "bāng",
+        "chinese": "邦",
+        "rate": 1213
+    },
+    "劫": {
+        "eng": "to take by force",
+        "pinyin": "jié ",
+        "chinese": "劫",
+        "rate": 1214
+    },
+    "袭": {
+        "eng": "to raid",
+        "pinyin": "xí ",
+        "chinese": "袭",
+        "rate": 1215
+    },
+    "育": {
+        "eng": "to bring up",
+        "pinyin": "yù",
+        "chinese": "育",
+        "rate": 1216
+    },
+    "虫": {
+        "eng": "insects",
+        "pinyin": "chóng",
+        "chinese": "虫",
+        "rate": 1217
+    },
+    "嫌": {
+        "eng": "to hate",
+        "pinyin": "xián ",
+        "chinese": "嫌",
+        "rate": 1218
+    },
+    "累": {
+        "eng": "tired",
+        "pinyin": "léi",
+        "chinese": "累",
+        "rate": 1219
+    },
+    "怖": {
+        "eng": "terror; fear",
+        "pinyin": "bù ",
+        "chinese": "怖",
+        "rate": 1220
+    },
+    "握": {
+        "eng": "to grasp",
+        "pinyin": "wò",
+        "chinese": "握",
+        "rate": 1221
+    },
+    "雨": {
+        "eng": "rain",
+        "pinyin": "yǔ",
+        "chinese": "雨",
+        "rate": 1222
+    },
+    "缺": {
+        "eng": "lack",
+        "pinyin": "quē",
+        "chinese": "缺",
+        "rate": 1223
+    },
+    "琳": {
+        "eng": "gem",
+        "pinyin": "lín ",
+        "chinese": "琳",
+        "rate": 1224
+    },
+    "墨": {
+        "eng": "black; corrupt",
+        "pinyin": "mò ",
+        "chinese": "墨",
+        "rate": 1225
+    },
+    "迫": {
+        "eng": "to force",
+        "pinyin": "pò",
+        "chinese": "迫",
+        "rate": 1226
+    },
+    "采": {
+        "eng": "to select; looks",
+        "pinyin": "cǎi",
+        "chinese": "采",
+        "rate": 1227
+    },
+    "辈": {
+        "eng": "generation",
+        "pinyin": "bèi",
+        "chinese": "辈",
+        "rate": 1228
+    },
+    "陷": {
+        "eng": "to submerge",
+        "pinyin": "xiàn ",
+        "chinese": "陷",
+        "rate": 1229
+    },
+    "蹈": {
+        "eng": "to stamp feet",
+        "pinyin": "dǎo ",
+        "chinese": "蹈",
+        "rate": 1230
+    },
+    "限": {
+        "eng": "limit",
+        "pinyin": "xiàn",
+        "chinese": "限",
+        "rate": 1231
+    },
+    "巨": {
+        "eng": "huge",
+        "pinyin": "jù",
+        "chinese": "巨",
+        "rate": 1232
+    },
+    "鲍": {
+        "eng": "dried fish",
+        "pinyin": "bào ",
+        "chinese": "鲍",
+        "rate": 1233
+    },
+    "针": {
+        "eng": "needle",
+        "pinyin": "zhēn",
+        "chinese": "针",
+        "rate": 1234
+    },
+    "雅": {
+        "eng": "elegant",
+        "pinyin": "yǎ",
+        "chinese": "雅",
+        "rate": 1235
+    },
+    "兹": {
+        "eng": "now; here; this",
+        "pinyin": "zī ",
+        "chinese": "兹",
+        "rate": 1236
+    },
+    "尾": {
+        "eng": "tail",
+        "pinyin": "wěi",
+        "chinese": "尾",
+        "rate": 1237
+    },
+    "青": {
+        "eng": "green/blue; young",
+        "pinyin": "qīng",
+        "chinese": "青",
+        "rate": 1238
+    },
+    "席": {
+        "eng": "mat; banquet",
+        "pinyin": "xí",
+        "chinese": "席",
+        "rate": 1239
+    },
+    "逼": {
+        "eng": "to pressure",
+        "pinyin": "bī ",
+        "chinese": "逼",
+        "rate": 1240
+    },
+    "犹": {
+        "eng": "like; similar to",
+        "pinyin": "yóu ",
+        "chinese": "犹",
+        "rate": 1241
+    },
+    "扮": {
+        "eng": "to dress up",
+        "pinyin": "bàn ",
+        "chinese": "扮",
+        "rate": 1242
+    },
+    "赞": {
+        "eng": "to praise; to support",
+        "pinyin": "zàn",
+        "chinese": "赞",
+        "rate": 1243
+    },
+    "邀": {
+        "eng": "to invite",
+        "pinyin": "yāo ",
+        "chinese": "邀",
+        "rate": 1244
+    },
+    "净": {
+        "eng": "clean",
+        "pinyin": "jìng",
+        "chinese": "净",
+        "rate": 1245
+    },
+    "闹": {
+        "eng": "noisy",
+        "pinyin": "nào",
+        "chinese": "闹",
+        "rate": 1246
+    },
+    "访": {
+        "eng": "to call on; to inquire",
+        "pinyin": "fǎng",
+        "chinese": "访",
+        "rate": 1247
+    },
+    "良": {
+        "eng": "good; very much",
+        "pinyin": "liáng",
+        "chinese": "良",
+        "rate": 1248
+    },
+    "叛": {
+        "eng": "to rebel; rebellion",
+        "pinyin": "pàn ",
+        "chinese": "叛",
+        "rate": 1249
+    },
+    "驾": {
+        "eng": "to operate vehicle",
+        "pinyin": "jià ",
+        "chinese": "驾",
+        "rate": 1250
+    },
+    "范": {
+        "eng": "pattern; model",
+        "pinyin": "fàn",
+        "chinese": "范",
+        "rate": 1251
+    },
+    "俄": {
+        "eng": "sudden(ly), Russia",
+        "pinyin": "é ",
+        "chinese": "俄",
+        "rate": 1252
+    },
+    "猪": {
+        "eng": "pig",
+        "pinyin": "zhū",
+        "chinese": "猪",
+        "rate": 1253
+    },
+    "辛": {
+        "eng": "hot taste; hard",
+        "pinyin": "xīn",
+        "chinese": "辛",
+        "rate": 1254
+    },
+    "杉": {
+        "eng": "pine/fir tree",
+        "pinyin": "shān ",
+        "chinese": "杉",
+        "rate": 1255
+    },
+    "淘": {
+        "eng": "wash in sieve",
+        "pinyin": "táo ",
+        "chinese": "淘",
+        "rate": 1256
+    },
+    "洞": {
+        "eng": "cave; hole",
+        "pinyin": "dòng",
+        "chinese": "洞",
+        "rate": 1257
+    },
+    "冠": {
+        "eng": "hat; crown",
+        "pinyin": "guān",
+        "chinese": "冠",
+        "rate": 1258
+    },
+    "伟": {
+        "eng": "big; great",
+        "pinyin": "wěi",
+        "chinese": "伟",
+        "rate": 1259
+    },
+    "珍": {
+        "eng": "precious",
+        "pinyin": "zhēn",
+        "chinese": "珍",
+        "rate": 1260
+    },
+    "梅": {
+        "eng": "plum",
+        "pinyin": "méi",
+        "chinese": "梅",
+        "rate": 1261
+    },
+    "朗": {
+        "eng": "clear; bright",
+        "pinyin": "lǎng ",
+        "chinese": "朗",
+        "rate": 1262
+    },
+    "欠": {
+        "eng": "owe; lack",
+        "pinyin": "qiàn ",
+        "chinese": "欠",
+        "rate": 1263
+    },
+    "扯": {
+        "eng": "rip up; haul",
+        "pinyin": "chě ",
+        "chinese": "扯",
+        "rate": 1264
+    },
+    "丑": {
+        "eng": "clown; ugly",
+        "pinyin": "chǒu ",
+        "chinese": "丑",
+        "rate": 1265
+    },
+    "竞": {
+        "eng": "to compete",
+        "pinyin": "jìng",
+        "chinese": "竞",
+        "rate": 1266
+    },
+    "剂": {
+        "eng": "liquid solution",
+        "pinyin": "jì ",
+        "chinese": "剂",
+        "rate": 1267
+    },
+    "烈": {
+        "eng": "fierce; intense",
+        "pinyin": "liè",
+        "chinese": "烈",
+        "rate": 1268
+    },
+    "李": {
+        "eng": "plum",
+        "pinyin": "lǐ",
+        "chinese": "李",
+        "rate": 1269
+    },
+    "村": {
+        "eng": "village",
+        "pinyin": "cūn",
+        "chinese": "村",
+        "rate": 1270
+    },
+    "厉": {
+        "eng": "strict",
+        "pinyin": "lì",
+        "chinese": "厉",
+        "rate": 1271
+    },
+    "厨": {
+        "eng": "kitchen",
+        "pinyin": "chú ",
+        "chinese": "厨",
+        "rate": 1272
+    },
+    "允": {
+        "eng": "to grant",
+        "pinyin": "yǔn ",
+        "chinese": "允",
+        "rate": 1273
+    },
+    "授": {
+        "eng": "to teach",
+        "pinyin": "shòu",
+        "chinese": "授",
+        "rate": 1274
+    },
+    "堆": {
+        "eng": "to pile up; heap",
+        "pinyin": "duī",
+        "chinese": "堆",
+        "rate": 1275
+    },
+    "庆": {
+        "eng": "to celebrate",
+        "pinyin": "qìng",
+        "chinese": "庆",
+        "rate": 1276
+    },
+    "率": {
+        "eng": "to lead; frank",
+        "pinyin": "shuài",
+        "chinese": "率",
+        "rate": 1277
+    },
+    "怒": {
+        "eng": "anger; rage",
+        "pinyin": "nù ",
+        "chinese": "怒",
+        "rate": 1278
+    },
+    "寓": {
+        "eng": "residence",
+        "pinyin": "yù ",
+        "chinese": "寓",
+        "rate": 1279
+    },
+    "液": {
+        "eng": "sap; juice",
+        "pinyin": "yè ",
+        "chinese": "液",
+        "rate": 1280
+    },
+    "谓": {
+        "eng": "to speak; meaning",
+        "pinyin": "wèi",
+        "chinese": "谓",
+        "rate": 1281
+    },
+    "估": {
+        "eng": "to estimate",
+        "pinyin": "gū",
+        "chinese": "估",
+        "rate": 1282
+    },
+    "鲜": {
+        "eng": "fresh",
+        "pinyin": "xiān",
+        "chinese": "鲜",
+        "rate": 1283
+    },
+    "磨": {
+        "eng": "grind; rub",
+        "pinyin": "mó/mò ",
+        "chinese": "磨",
+        "rate": 1284
+    },
+    "帅": {
+        "eng": "handsome",
+        "pinyin": "shuài",
+        "chinese": "帅",
+        "rate": 1285
+    },
+    "婊": {
+        "eng": "prostitute",
+        "pinyin": "biǎo ",
+        "chinese": "婊",
+        "rate": 1286
+    },
+    "尿": {
+        "eng": "urine",
+        "pinyin": "niào ",
+        "chinese": "尿",
+        "rate": 1287
+    },
+    "键": {
+        "eng": "key(board)",
+        "pinyin": "jiàn",
+        "chinese": "键",
+        "rate": 1288
+    },
+    "余": {
+        "eng": "surplus",
+        "pinyin": "yú ",
+        "chinese": "余",
+        "rate": 1289
+    },
+    "绍": {
+        "eng": "to continue",
+        "pinyin": "shào",
+        "chinese": "绍",
+        "rate": 1290
+    },
+    "娃": {
+        "eng": "baby; doll",
+        "pinyin": "wá ",
+        "chinese": "娃",
+        "rate": 1291
+    },
+    "刑": {
+        "eng": "to punish",
+        "pinyin": "xíng ",
+        "chinese": "刑",
+        "rate": 1292
+    },
+    "扫": {
+        "eng": "to sweep",
+        "pinyin": "sǎo",
+        "chinese": "扫",
+        "rate": 1293
+    },
+    "核": {
+        "eng": "seed",
+        "pinyin": "hé",
+        "chinese": "核",
+        "rate": 1294
+    },
+    "损": {
+        "eng": "to decrease; damage",
+        "pinyin": "sǔn",
+        "chinese": "损",
+        "rate": 1295
+    },
+    "辩": {
+        "eng": "to dispute",
+        "pinyin": "biàn",
+        "chinese": "辩",
+        "rate": 1296
+    },
+    "惯": {
+        "eng": "accustomed to",
+        "pinyin": "guàn",
+        "chinese": "惯",
+        "rate": 1297
+    },
+    "傲": {
+        "eng": "proud",
+        "pinyin": "ào ",
+        "chinese": "傲",
+        "rate": 1298
+    },
+    "减": {
+        "eng": "to lower",
+        "pinyin": "jiǎn",
+        "chinese": "减",
+        "rate": 1299
+    },
+    "泡": {
+        "eng": "bubble; to steep",
+        "pinyin": "pào",
+        "chinese": "泡",
+        "rate": 1300
+    },
+    "摸": {
+        "eng": "feel with hand",
+        "pinyin": "mō",
+        "chinese": "摸",
+        "rate": 1301
+    },
+    "著": {
+        "eng": "manifest",
+        "pinyin": "zhù ",
+        "chinese": "著",
+        "rate": 1302
+    },
+    "途": {
+        "eng": "way; route",
+        "pinyin": "tú",
+        "chinese": "途",
+        "rate": 1303
+    },
+    "矶": {
+        "eng": "jetty",
+        "pinyin": "jī ",
+        "chinese": "矶",
+        "rate": 1304
+    },
+    "鼓": {
+        "eng": "drum",
+        "pinyin": "gǔ",
+        "chinese": "鼓",
+        "rate": 1305
+    },
+    "堡": {
+        "eng": "fortress",
+        "pinyin": "bǎo",
+        "chinese": "堡",
+        "rate": 1306
+    },
+    "愚": {
+        "eng": "stupid",
+        "pinyin": "yú ",
+        "chinese": "愚",
+        "rate": 1307
+    },
+    "敏": {
+        "eng": "quick",
+        "pinyin": "mǐn",
+        "chinese": "敏",
+        "rate": 1308
+    },
+    "版": {
+        "eng": "edition",
+        "pinyin": "bǎn",
+        "chinese": "版",
+        "rate": 1309
+    },
+    "盒": {
+        "eng": "small box",
+        "pinyin": "hé ",
+        "chinese": "盒",
+        "rate": 1310
+    },
+    "订": {
+        "eng": "to agree",
+        "pinyin": "dìng",
+        "chinese": "订",
+        "rate": 1311
+    },
+    "寄": {
+        "eng": "to mail",
+        "pinyin": "jì",
+        "chinese": "寄",
+        "rate": 1312
+    },
+    "赚": {
+        "eng": "to earn",
+        "pinyin": "zhuàn",
+        "chinese": "赚",
+        "rate": 1313
+    },
+    "爵": {
+        "eng": "feudal title",
+        "pinyin": "jué ",
+        "chinese": "爵",
+        "rate": 1314
+    },
+    "材": {
+        "eng": "material",
+        "pinyin": "cái",
+        "chinese": "材",
+        "rate": 1315
+    },
+    "盛": {
+        "eng": "to ladle",
+        "pinyin": "chéng",
+        "chinese": "盛",
+        "rate": 1316
+    },
+    "尤": {
+        "eng": "especially",
+        "pinyin": "yóu",
+        "chinese": "尤",
+        "rate": 1317
+    },
+    "皇": {
+        "eng": "emperor",
+        "pinyin": "huáng",
+        "chinese": "皇",
+        "rate": 1318
+    },
+    "夺": {
+        "eng": "to take by force",
+        "pinyin": "duó ",
+        "chinese": "夺",
+        "rate": 1319
+    },
+    "邮": {
+        "eng": "post; mail",
+        "pinyin": "yóu",
+        "chinese": "邮",
+        "rate": 1320
+    },
+    "俱": {
+        "eng": "all; together",
+        "pinyin": "jù ",
+        "chinese": "俱",
+        "rate": 1321
+    },
+    "九": {
+        "eng": "nine",
+        "pinyin": "jiǔ",
+        "chinese": "九",
+        "rate": 1322
+    },
+    "盗": {
+        "eng": "to steal",
+        "pinyin": "dào ",
+        "chinese": "盗",
+        "rate": 1323
+    },
+    "尺": {
+        "eng": "Chinese foot",
+        "pinyin": "chǐ",
+        "chinese": "尺",
+        "rate": 1324
+    },
+    "愉": {
+        "eng": "pleasant",
+        "pinyin": "yú ",
+        "chinese": "愉",
+        "rate": 1325
+    },
+    "序": {
+        "eng": "order; sequence",
+        "pinyin": "xù",
+        "chinese": "序",
+        "rate": 1326
+    },
+    "鼠": {
+        "eng": "rat",
+        "pinyin": "shǔ",
+        "chinese": "鼠",
+        "rate": 1327
+    },
+    "幕": {
+        "eng": "curtain",
+        "pinyin": "mù",
+        "chinese": "幕",
+        "rate": 1328
+    },
+    "踢": {
+        "eng": "kick",
+        "pinyin": "tī ",
+        "chinese": "踢",
+        "rate": 1329
+    },
+    "憾": {
+        "eng": "to regret",
+        "pinyin": "hàn ",
+        "chinese": "憾",
+        "rate": 1330
+    },
+    "汰": {
+        "eng": "excessive",
+        "pinyin": "tài ",
+        "chinese": "汰",
+        "rate": 1331
+    },
+    "隔": {
+        "eng": "to partition",
+        "pinyin": "gé",
+        "chinese": "隔",
+        "rate": 1332
+    },
+    "彻": {
+        "eng": "to penetrate",
+        "pinyin": "chè ",
+        "chinese": "彻",
+        "rate": 1333
+    },
+    "插": {
+        "eng": "to insert; pierce",
+        "pinyin": "chā",
+        "chinese": "插",
+        "rate": 1334
+    },
+    "猎": {
+        "eng": "to hunt",
+        "pinyin": "liè ",
+        "chinese": "猎",
+        "rate": 1335
+    },
+    "尚": {
+        "eng": "still; yet; to value",
+        "pinyin": "shàng",
+        "chinese": "尚",
+        "rate": 1336
+    },
+    "潜": {
+        "eng": "to hide; hidden",
+        "pinyin": "qián ",
+        "chinese": "潜",
+        "rate": 1337
+    },
+    "构": {
+        "eng": "to assign; faciton",
+        "pinyin": "gòu",
+        "chinese": "构",
+        "rate": 1338
+    },
+    "烤": {
+        "eng": "bake; roast",
+        "pinyin": "kǎo ",
+        "chinese": "烤",
+        "rate": 1339
+    },
+    "霍": {
+        "eng": "quickly",
+        "pinyin": "huò ",
+        "chinese": "霍",
+        "rate": 1340
+    },
+    "悔": {
+        "eng": "to regret",
+        "pinyin": "huǐ",
+        "chinese": "悔",
+        "rate": 1341
+    },
+    "暂": {
+        "eng": "temporary",
+        "pinyin": "zàn",
+        "chinese": "暂",
+        "rate": 1342
+    },
+    "爽": {
+        "eng": "bright; crisp",
+        "pinyin": "shuǎng",
+        "chinese": "爽",
+        "rate": 1343
+    },
+    "扎": {
+        "eng": "to pierce",
+        "pinyin": "zhā",
+        "chinese": "扎",
+        "rate": 1344
+    },
+    "绪": {
+        "eng": "beginnings; thread",
+        "pinyin": "xù",
+        "chinese": "绪",
+        "rate": 1345
+    },
+    "讯": {
+        "eng": "to question",
+        "pinyin": "xùn",
+        "chinese": "讯",
+        "rate": 1346
+    },
+    "吐": {
+        "eng": "to vomit",
+        "pinyin": "tù ",
+        "chinese": "吐",
+        "rate": 1347
+    },
+    "吹": {
+        "eng": "to blow",
+        "pinyin": "chuī",
+        "chinese": "吹",
+        "rate": 1348
+    },
+    "宾": {
+        "eng": "guest; visitor",
+        "pinyin": "bīn ",
+        "chinese": "宾",
+        "rate": 1349
+    },
+    "侦": {
+        "eng": "spy",
+        "pinyin": "zhēn ",
+        "chinese": "侦",
+        "rate": 1350
+    },
+    "颗": {
+        "eng": "particle",
+        "pinyin": "kē",
+        "chinese": "颗",
+        "rate": 1351
+    },
+    "宁": {
+        "eng": "peaceful",
+        "pinyin": "níng",
+        "chinese": "宁",
+        "rate": 1352
+    },
+    "罚": {
+        "eng": "penalty",
+        "pinyin": "fá ",
+        "chinese": "罚",
+        "rate": 1353
+    },
+    "欲": {
+        "eng": "to wish for; desire",
+        "pinyin": "yù",
+        "chinese": "欲",
+        "rate": 1354
+    },
+    "乡": {
+        "eng": "countryside",
+        "pinyin": "xiāng",
+        "chinese": "乡",
+        "rate": 1355
+    },
+    "帽": {
+        "eng": "hat",
+        "pinyin": "mào",
+        "chinese": "帽",
+        "rate": 1356
+    },
+    "杜": {
+        "eng": "to prevent",
+        "pinyin": "dù ",
+        "chinese": "杜",
+        "rate": 1357
+    },
+    "豪": {
+        "eng": "heroic",
+        "pinyin": "háo",
+        "chinese": "豪",
+        "rate": 1358
+    },
+    "征": {
+        "eng": "to recruit",
+        "pinyin": "zhēng",
+        "chinese": "征",
+        "rate": 1359
+    },
+    "括": {
+        "eng": "to enclose; to include",
+        "pinyin": "kuò",
+        "chinese": "括",
+        "rate": 1360
+    },
+    "盯": {
+        "eng": "to keep eyes on",
+        "pinyin": "dīng ",
+        "chinese": "盯",
+        "rate": 1361
+    },
+    "稳": {
+        "eng": "steady; stable",
+        "pinyin": "wěn",
+        "chinese": "稳",
+        "rate": 1362
+    },
+    "胆": {
+        "eng": "gall; bravery",
+        "pinyin": "dǎn ",
+        "chinese": "胆",
+        "rate": 1363
+    },
+    "甲": {
+        "eng": "first; shell",
+        "pinyin": "jiǎ",
+        "chinese": "甲",
+        "rate": 1364
+    },
+    "赖": {
+        "eng": "to depend on; bad",
+        "pinyin": "lài",
+        "chinese": "赖",
+        "rate": 1365
+    },
+    "啤": {
+        "eng": "beer",
+        "pinyin": "pí ",
+        "chinese": "啤",
+        "rate": 1366
+    },
+    "佩": {
+        "eng": "to respect; wear (belt)",
+        "pinyin": "pèi",
+        "chinese": "佩",
+        "rate": 1367
+    },
+    "启": {
+        "eng": "to start; to open",
+        "pinyin": "qǐ",
+        "chinese": "启",
+        "rate": 1368
+    },
+    "胎": {
+        "eng": "embryo; fetus",
+        "pinyin": "tāi ",
+        "chinese": "胎",
+        "rate": 1369
+    },
+    "帐": {
+        "eng": "screen",
+        "pinyin": "zhàng",
+        "chinese": "帐",
+        "rate": 1370
+    },
+    "赏": {
+        "eng": "to bestow",
+        "pinyin": "shǎng",
+        "chinese": "赏",
+        "rate": 1371
+    },
+    "抛": {
+        "eng": "throw (away)",
+        "pinyin": "pāo ",
+        "chinese": "抛",
+        "rate": 1372
+    },
+    "遭": {
+        "eng": "meet by chance",
+        "pinyin": "zāo",
+        "chinese": "遭",
+        "rate": 1373
+    },
+    "若": {
+        "eng": "seem like",
+        "pinyin": "ruò",
+        "chinese": "若",
+        "rate": 1374
+    },
+    "梯": {
+        "eng": "ladder",
+        "pinyin": "tī ",
+        "chinese": "梯",
+        "rate": 1375
+    },
+    "震": {
+        "eng": "to shake",
+        "pinyin": "zhèn",
+        "chinese": "震",
+        "rate": 1376
+    },
+    "述": {
+        "eng": "to tell",
+        "pinyin": "shù",
+        "chinese": "述",
+        "rate": 1377
+    },
+    "阵": {
+        "eng": "short time",
+        "pinyin": "zhèn",
+        "chinese": "阵",
+        "rate": 1378
+    },
+    "仪": {
+        "eng": "ceremony",
+        "pinyin": "yí",
+        "chinese": "仪",
+        "rate": 1379
+    },
+    "乖": {
+        "eng": "clever; shrewd",
+        "pinyin": "guāi",
+        "chinese": "乖",
+        "rate": 1380
+    },
+    "宫": {
+        "eng": "palace",
+        "pinyin": "gōng",
+        "chinese": "宫",
+        "rate": 1381
+    },
+    "咬": {
+        "eng": "bite; gnaw",
+        "pinyin": "yǎo ",
+        "chinese": "咬",
+        "rate": 1382
+    },
+    "祷": {
+        "eng": "to pray",
+        "pinyin": "dǎo ",
+        "chinese": "祷",
+        "rate": 1383
+    },
+    "祖": {
+        "eng": "ancestor",
+        "pinyin": "zǔ",
+        "chinese": "祖",
+        "rate": 1384
+    },
+    "蜜": {
+        "eng": "honey",
+        "pinyin": "mì ",
+        "chinese": "蜜",
+        "rate": 1385
+    },
+    "耍": {
+        "eng": "to frolic",
+        "pinyin": "shuǎ ",
+        "chinese": "耍",
+        "rate": 1386
+    },
+    "拼": {
+        "eng": "to join together",
+        "pinyin": "pīn",
+        "chinese": "拼",
+        "rate": 1387
+    },
+    "惜": {
+        "eng": "to cherish",
+        "pinyin": "xī",
+        "chinese": "惜",
+        "rate": 1388
+    },
+    "忠": {
+        "eng": "loyal",
+        "pinyin": "zhōng",
+        "chinese": "忠",
+        "rate": 1389
+    },
+    "策": {
+        "eng": "policy",
+        "pinyin": "cè",
+        "chinese": "策",
+        "rate": 1390
+    },
+    "鼻": {
+        "eng": "nose",
+        "pinyin": "bí ",
+        "chinese": "鼻",
+        "rate": 1391
+    },
+    "钻": {
+        "eng": "to drill",
+        "pinyin": "zuān",
+        "chinese": "钻",
+        "rate": 1392
+    },
+    "池": {
+        "eng": "pond; reservoir",
+        "pinyin": "chí",
+        "chinese": "池",
+        "rate": 1393
+    },
+    "虚": {
+        "eng": "emptiness; modest",
+        "pinyin": "xū",
+        "chinese": "虚",
+        "rate": 1394
+    },
+    "桑": {
+        "eng": "mulberry tree",
+        "pinyin": "sāng ",
+        "chinese": "桑",
+        "rate": 1395
+    },
+    "拾": {
+        "eng": "to collect",
+        "pinyin": "shí",
+        "chinese": "拾",
+        "rate": 1396
+    },
+    "泳": {
+        "eng": "to dive; swim",
+        "pinyin": "yǒng ",
+        "chinese": "泳",
+        "rate": 1397
+    },
+    "频": {
+        "eng": "frequently",
+        "pinyin": "pín",
+        "chinese": "频",
+        "rate": 1398
+    },
+    "尖": {
+        "eng": "sharp; acute",
+        "pinyin": "jiān ",
+        "chinese": "尖",
+        "rate": 1399
+    },
+    "申": {
+        "eng": "to extend; to state",
+        "pinyin": "shēn",
+        "chinese": "申",
+        "rate": 1400
+    },
+    "违": {
+        "eng": "to disobey",
+        "pinyin": "wéi",
+        "chinese": "违",
+        "rate": 1401
+    },
+    "零": {
+        "eng": "zero",
+        "pinyin": "líng",
+        "chinese": "零",
+        "rate": 1402
+    },
+    "诊": {
+        "eng": "to diagnose",
+        "pinyin": "zhěn ",
+        "chinese": "诊",
+        "rate": 1403
+    },
+    "嘘": {
+        "eng": "to exhale",
+        "pinyin": "xū ",
+        "chinese": "嘘",
+        "rate": 1404
+    },
+    "惧": {
+        "eng": "to fear",
+        "pinyin": "jù ",
+        "chinese": "惧",
+        "rate": 1405
+    },
+    "拯": {
+        "eng": "to help; to save",
+        "pinyin": "zhěng ",
+        "chinese": "拯",
+        "rate": 1406
+    },
+    "痕": {
+        "eng": "scar",
+        "pinyin": "hén ",
+        "chinese": "痕",
+        "rate": 1407
+    },
+    "批": {
+        "eng": "to criticize",
+        "pinyin": "pī",
+        "chinese": "批",
+        "rate": 1408
+    },
+    "绿": {
+        "eng": "green",
+        "pinyin": "lǖ",
+        "chinese": "绿",
+        "rate": 1409
+    },
+    "乘": {
+        "eng": "to ride",
+        "pinyin": "chéng",
+        "chinese": "乘",
+        "rate": 1410
+    },
+    "佳": {
+        "eng": "beautiful",
+        "pinyin": "jia",
+        "chinese": "佳",
+        "rate": 1411
+    },
+    "熊": {
+        "eng": "bear",
+        "pinyin": "xióng",
+        "chinese": "熊",
+        "rate": 1412
+    },
+    "辣": {
+        "eng": "hot; spicy",
+        "pinyin": "là ",
+        "chinese": "辣",
+        "rate": 1413
+    },
+    "躺": {
+        "eng": "to lie down",
+        "pinyin": "tǎng ",
+        "chinese": "躺",
+        "rate": 1414
+    },
+    "祈": {
+        "eng": "to pray",
+        "pinyin": "qí ",
+        "chinese": "祈",
+        "rate": 1415
+    },
+    "肥": {
+        "eng": "fat; plump",
+        "pinyin": "féi ",
+        "chinese": "肥",
+        "rate": 1416
+    },
+    "址": {
+        "eng": "location",
+        "pinyin": "zhǐ",
+        "chinese": "址",
+        "rate": 1417
+    },
+    "占": {
+        "eng": "to divine",
+        "pinyin": "zhān",
+        "chinese": "占",
+        "rate": 1418
+    },
+    "络": {
+        "eng": "net",
+        "pinyin": "luò",
+        "chinese": "络",
+        "rate": 1419
+    },
+    "掩": {
+        "eng": "to cover",
+        "pinyin": "yǎn ",
+        "chinese": "掩",
+        "rate": 1420
+    },
+    "省": {
+        "eng": "to save; province",
+        "pinyin": "shěng",
+        "chinese": "省",
+        "rate": 1421
+    },
+    "羊": {
+        "eng": "sheep",
+        "pinyin": "yáng",
+        "chinese": "羊",
+        "rate": 1422
+    },
+    "荒": {
+        "eng": "wasteland",
+        "pinyin": "huāng ",
+        "chinese": "荒",
+        "rate": 1423
+    },
+    "督": {
+        "eng": "to supervise",
+        "pinyin": "dū",
+        "chinese": "督",
+        "rate": 1424
+    },
+    "撤": {
+        "eng": "to omit",
+        "pinyin": "chè ",
+        "chinese": "撤",
+        "rate": 1425
+    },
+    "胖": {
+        "eng": "fat",
+        "pinyin": "pàng",
+        "chinese": "胖",
+        "rate": 1426
+    },
+    "辞": {
+        "eng": "words",
+        "pinyin": "cí ",
+        "chinese": "辞",
+        "rate": 1427
+    },
+    "增": {
+        "eng": "to increase; add",
+        "pinyin": "zēng",
+        "chinese": "增",
+        "rate": 1428
+    },
+    "援": {
+        "eng": "to help",
+        "pinyin": "yuán",
+        "chinese": "援",
+        "rate": 1429
+    },
+    "郎": {
+        "eng": "young man",
+        "pinyin": "láng",
+        "chinese": "郎",
+        "rate": 1430
+    },
+    "献": {
+        "eng": "to offer",
+        "pinyin": "xiàn",
+        "chinese": "献",
+        "rate": 1431
+    },
+    "擦": {
+        "eng": "to wipe",
+        "pinyin": "cā ",
+        "chinese": "擦",
+        "rate": 1432
+    },
+    "农": {
+        "eng": "agriculture",
+        "pinyin": "nóng",
+        "chinese": "农",
+        "rate": 1433
+    },
+    "邪": {
+        "eng": "demonic; evil",
+        "pinyin": "xié",
+        "chinese": "邪",
+        "rate": 1434
+    },
+    "姻": {
+        "eng": "marriage",
+        "pinyin": "yīn ",
+        "chinese": "姻",
+        "rate": 1435
+    },
+    "恢": {
+        "eng": "to restore",
+        "pinyin": "huī ",
+        "chinese": "恢",
+        "rate": 1436
+    },
+    "描": {
+        "eng": "to copy",
+        "pinyin": "miáo",
+        "chinese": "描",
+        "rate": 1437
+    },
+    "匹": {
+        "eng": "mw. for horses",
+        "pinyin": "pǐ",
+        "chinese": "匹",
+        "rate": 1438
+    },
+    "软": {
+        "eng": "soft; flexible",
+        "pinyin": "ruǎn",
+        "chinese": "软",
+        "rate": 1439
+    },
+    "埋": {
+        "eng": "to bury",
+        "pinyin": "mái",
+        "chinese": "埋",
+        "rate": 1440
+    },
+    "惨": {
+        "eng": "miserable",
+        "pinyin": "cǎn",
+        "chinese": "惨",
+        "rate": 1441
+    },
+    "洋": {
+        "eng": "ocean",
+        "pinyin": "yáng",
+        "chinese": "洋",
+        "rate": 1442
+    },
+    "纯": {
+        "eng": "pure",
+        "pinyin": "chún",
+        "chinese": "纯",
+        "rate": 1443
+    },
+    "浴": {
+        "eng": "to bathe",
+        "pinyin": "yù ",
+        "chinese": "浴",
+        "rate": 1444
+    },
+    "贴": {
+        "eng": "to paste; to post",
+        "pinyin": "tiē",
+        "chinese": "贴",
+        "rate": 1445
+    },
+    "尉": {
+        "eng": "officer",
+        "pinyin": "wèi ",
+        "chinese": "尉",
+        "rate": 1446
+    },
+    "略": {
+        "eng": "summary; strategy",
+        "pinyin": "lüè",
+        "chinese": "略",
+        "rate": 1447
+    },
+    "符": {
+        "eng": "symbol; charm",
+        "pinyin": "fú",
+        "chinese": "符",
+        "rate": 1448
+    },
+    "侵": {
+        "eng": "to invade",
+        "pinyin": "qīn ",
+        "chinese": "侵",
+        "rate": 1449
+    },
+    "陆": {
+        "eng": "shore; land",
+        "pinyin": "lù",
+        "chinese": "陆",
+        "rate": 1450
+    },
+    "载": {
+        "eng": "to carry",
+        "pinyin": "zài",
+        "chinese": "载",
+        "rate": 1451
+    },
+    "爬": {
+        "eng": "to crawl",
+        "pinyin": "pá ",
+        "chinese": "爬",
+        "rate": 1452
+    },
+    "挖": {
+        "eng": "to dig",
+        "pinyin": "wā ",
+        "chinese": "挖",
+        "rate": 1453
+    },
+    "骄": {
+        "eng": "pride",
+        "pinyin": "jiāo ",
+        "chinese": "骄",
+        "rate": 1454
+    },
+    "兽": {
+        "eng": "beast",
+        "pinyin": "shòu ",
+        "chinese": "兽",
+        "rate": 1455
+    },
+    "嫁": {
+        "eng": "to marry",
+        "pinyin": "jià ",
+        "chinese": "嫁",
+        "rate": 1456
+    },
+    "洁": {
+        "eng": "clean",
+        "pinyin": "jié ",
+        "chinese": "洁",
+        "rate": 1457
+    },
+    "晨": {
+        "eng": "early morning",
+        "pinyin": "chén ",
+        "chinese": "晨",
+        "rate": 1458
+    },
+    "喊": {
+        "eng": "to shout",
+        "pinyin": "hǎn ",
+        "chinese": "喊",
+        "rate": 1459
+    },
+    "奏": {
+        "eng": "to play music",
+        "pinyin": "zòu",
+        "chinese": "奏",
+        "rate": 1460
+    },
+    "灰": {
+        "eng": "ashes",
+        "pinyin": "huī ",
+        "chinese": "灰",
+        "rate": 1461
+    },
+    "摔": {
+        "eng": "to stumble",
+        "pinyin": "shuāi ",
+        "chinese": "摔",
+        "rate": 1462
+    },
+    "羞": {
+        "eng": "disgrace; shy",
+        "pinyin": "xiū ",
+        "chinese": "羞",
+        "rate": 1463
+    },
+    "邻": {
+        "eng": "neighbour",
+        "pinyin": "lín ",
+        "chinese": "邻",
+        "rate": 1464
+    },
+    "椅": {
+        "eng": "chair",
+        "pinyin": "yǐ ",
+        "chinese": "椅",
+        "rate": 1465
+    },
+    "颜": {
+        "eng": "face",
+        "pinyin": "yán",
+        "chinese": "颜",
+        "rate": 1466
+    },
+    "欺": {
+        "eng": "cheat",
+        "pinyin": "qī ",
+        "chinese": "欺",
+        "rate": 1467
+    },
+    "端": {
+        "eng": "to hold; end points",
+        "pinyin": "duān",
+        "chinese": "端",
+        "rate": 1468
+    },
+    "贺": {
+        "eng": "congratulate",
+        "pinyin": "hè ",
+        "chinese": "贺",
+        "rate": 1469
+    },
+    "茶": {
+        "eng": "tea",
+        "pinyin": "chá",
+        "chinese": "茶",
+        "rate": 1470
+    },
+    "障": {
+        "eng": "to block",
+        "pinyin": "zhàng",
+        "chinese": "障",
+        "rate": 1471
+    },
+    "慈": {
+        "eng": "kind; charitable",
+        "pinyin": "cí ",
+        "chinese": "慈",
+        "rate": 1472
+    },
+    "仇": {
+        "eng": "enemy; hate",
+        "pinyin": "chóu",
+        "chinese": "仇",
+        "rate": 1473
+    },
+    "厂": {
+        "eng": "factory",
+        "pinyin": "chǎng",
+        "chinese": "厂",
+        "rate": 1474
+    },
+    "怨": {
+        "eng": "to blame",
+        "pinyin": "yuàn",
+        "chinese": "怨",
+        "rate": 1475
+    },
+    "逊": {
+        "eng": "humble; worse",
+        "pinyin": "xùn ",
+        "chinese": "逊",
+        "rate": 1476
+    },
+    "黎": {
+        "eng": "dawn; black",
+        "pinyin": "lí ",
+        "chinese": "黎",
+        "rate": 1477
+    },
+    "剪": {
+        "eng": "scissors",
+        "pinyin": "jiǎn ",
+        "chinese": "剪",
+        "rate": 1478
+    },
+    "春": {
+        "eng": "Spring",
+        "pinyin": "chūn",
+        "chinese": "春",
+        "rate": 1479
+    },
+    "额": {
+        "eng": "forehead",
+        "pinyin": "é",
+        "chinese": "额",
+        "rate": 1480
+    },
+    "豆": {
+        "eng": "bean",
+        "pinyin": "dòu",
+        "chinese": "豆",
+        "rate": 1481
+    },
+    "罢": {
+        "eng": "to stop; to suspend",
+        "pinyin": "bà",
+        "chinese": "罢",
+        "rate": 1482
+    },
+    "裂": {
+        "eng": "crack",
+        "pinyin": "liè ",
+        "chinese": "裂",
+        "rate": 1483
+    },
+    "挡": {
+        "eng": "to obstruct",
+        "pinyin": "dǎng",
+        "chinese": "挡",
+        "rate": 1484
+    },
+    "偏": {
+        "eng": "to lean; oblique",
+        "pinyin": "piān",
+        "chinese": "偏",
+        "rate": 1485
+    },
+    "糊": {
+        "eng": "paste",
+        "pinyin": "hù ",
+        "chinese": "糊",
+        "rate": 1486
+    },
+    "卧": {
+        "eng": "to crouch",
+        "pinyin": "wò",
+        "chinese": "卧",
+        "rate": 1487
+    },
+    "敲": {
+        "eng": "to strike",
+        "pinyin": "qiāo ",
+        "chinese": "敲",
+        "rate": 1488
+    },
+    "丧": {
+        "eng": "to lose",
+        "pinyin": "sàng ",
+        "chinese": "丧",
+        "rate": 1489
+    },
+    "乌": {
+        "eng": "crow",
+        "pinyin": "wū",
+        "chinese": "乌",
+        "rate": 1490
+    },
+    "购": {
+        "eng": "to purchase",
+        "pinyin": "gòu",
+        "chinese": "购",
+        "rate": 1491
+    },
+    "域": {
+        "eng": "field; region",
+        "pinyin": "yù",
+        "chinese": "域",
+        "rate": 1492
+    },
+    "闲": {
+        "eng": "idle",
+        "pinyin": "xián",
+        "chinese": "闲",
+        "rate": 1493
+    },
+    "宇": {
+        "eng": "universe",
+        "pinyin": "yǔ",
+        "chinese": "宇",
+        "rate": 1494
+    },
+    "姓": {
+        "eng": "surname",
+        "pinyin": "xìng",
+        "chinese": "姓",
+        "rate": 1495
+    },
+    "葬": {
+        "eng": "to bury (dead)",
+        "pinyin": "zàng",
+        "chinese": "葬",
+        "rate": 1496
+    },
+    "党": {
+        "eng": "party; association",
+        "pinyin": "dǎng",
+        "chinese": "党",
+        "rate": 1497
+    },
+    "售": {
+        "eng": "to sell",
+        "pinyin": "shòu",
+        "chinese": "售",
+        "rate": 1498
+    }
+}
