@@ -2,7 +2,7 @@ const chinese = require('./index.js');
 
 function log() {
   for (let i = 0; i < arguments.length; i += 1) {
-    console.log(JSON.stringify(arguments[i]));
+    console.log(`${arguments[i]}`);
   }
   console.log('');
 }
@@ -17,7 +17,7 @@ log('string_to_unicode', inp, str);
 
 inp = '\u4e2d\u6587';
 str = chinese.unicode_to_string(inp);
-log('xxunicode_to_string', inp, str);
+log('unicode_to_string', inp, str);
 
 inp = '中文';
 str = chinese.string_to_unicode10(inp);
