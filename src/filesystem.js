@@ -1,6 +1,5 @@
 const path = require('path');
 const fs = require('fs');
-
 function ReadFile(filename) {
   const data = fs.readFileSync(filename, 'utf8');
   return data;
@@ -10,7 +9,6 @@ function makePath(folderPath) {
     fs.mkdirSync(folderPath);
   }
 }
-
 function getFilePathName(filename, pathName = []) {
   if (!filename) {
     throw new Error('file name is empty');
@@ -23,7 +21,6 @@ function getFilePathName(filename, pathName = []) {
   }
   return path.join(filepath, filename);
 }
-
 function writeTextToFile(filename, data, pathName = []) {
   try {
     const fullFilePath = getFilePathName(filename, pathName);
@@ -44,7 +41,6 @@ function writeJSONToFile(filename, data, pathName = []) {
   }
   return true;
 }
-
 function writeBufferToFile(filename, buffer, pathName = []) {
   try {
     const fullFilePath = getFilePathName(filename, pathName);
